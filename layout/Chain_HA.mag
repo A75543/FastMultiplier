@@ -1,0 +1,110 @@
+magic
+tech scmos
+timestamp 1711590520
+<< nwell >>
+rect -4 38 36 71
+<< ntransistor >>
+rect 7 8 9 16
+rect 15 8 17 16
+rect 31 8 33 16
+<< ptransistor >>
+rect 7 52 9 60
+rect 15 52 17 60
+rect 31 52 33 60
+<< ndiffusion >>
+rect 6 8 7 16
+rect 9 8 15 16
+rect 17 8 18 16
+rect 30 8 31 16
+rect 33 8 34 16
+<< pdiffusion >>
+rect 6 52 7 60
+rect 9 52 10 60
+rect 14 52 15 60
+rect 17 52 18 60
+rect 30 52 31 60
+rect 33 52 34 60
+<< ndcontact >>
+rect 2 8 6 16
+rect 18 8 22 16
+rect 26 8 30 16
+rect 34 8 38 16
+<< pdcontact >>
+rect 2 52 6 60
+rect 10 52 14 60
+rect 18 52 22 60
+rect 26 52 30 60
+rect 34 52 38 60
+<< psubstratepcontact >>
+rect 2 0 6 4
+rect 26 0 30 4
+<< nsubstratencontact >>
+rect 2 64 6 68
+rect 18 64 22 68
+<< polysilicon >>
+rect 7 60 9 62
+rect 15 60 17 62
+rect 31 60 33 62
+rect 7 36 9 52
+rect 6 32 9 36
+rect 7 16 9 32
+rect 15 36 17 52
+rect 15 32 18 36
+rect 15 16 17 32
+rect 31 16 33 52
+rect 7 6 9 8
+rect 15 6 17 8
+rect 31 6 33 8
+<< polycontact >>
+rect 2 32 6 36
+rect 18 32 22 36
+rect 27 24 31 28
+<< metal1 >>
+rect 0 64 2 68
+rect 6 64 18 68
+rect 22 64 42 68
+rect 2 60 6 64
+rect 18 60 22 64
+rect 26 60 30 64
+rect 10 28 14 52
+rect 10 24 27 28
+rect 18 16 22 24
+rect 34 20 38 52
+rect 114 24 118 28
+rect 2 4 6 8
+rect 26 4 30 8
+rect 0 0 2 4
+rect 6 0 26 4
+rect 30 0 41 4
+rect 22 -8 58 -4
+rect 6 -16 42 -12
+rect 0 -40 18 -36
+rect 38 -40 120 -36
+<< m2contact >>
+rect 2 36 6 40
+rect 18 36 22 40
+rect 34 16 38 20
+rect 18 -8 22 -4
+rect 2 -16 6 -12
+rect 18 -40 22 -36
+rect 34 -40 38 -36
+<< metal2 >>
+rect 2 -12 6 36
+rect 18 -4 22 36
+rect 27 24 31 28
+rect 18 -36 22 -8
+rect 34 -36 38 16
+use XOR2  XOR2_0
+timestamp 1711067998
+transform 1 0 72 0 1 0
+box -36 -32 50 71
+<< labels >>
+rlabel nsubstratencontact 4 66 4 66 1 VDD
+rlabel nsubstratencontact 20 66 20 66 1 VDD
+rlabel psubstratepcontact 4 2 4 2 1 VSS
+rlabel psubstratepcontact 28 2 28 2 1 VSS
+rlabel polycontact 20 34 20 34 1 B
+rlabel polycontact 4 34 4 34 1 A
+rlabel metal1 36 26 36 26 1 Co
+rlabel metal1 116 26 116 26 1 S
+<< end >>

@@ -1,0 +1,30 @@
+magic
+tech scmos
+timestamp 1714250864
+<< polycontact >>
+rect 2 32 6 36
+rect 18 32 22 36
+<< metal1 >>
+rect 0 64 2 68
+rect 114 24 118 28
+rect 0 0 2 4
+rect -4 -56 34 -52
+<< m2contact >>
+rect 34 16 38 20
+rect 34 -56 38 -52
+<< metal2 >>
+rect 2 32 6 36
+rect 18 32 22 36
+rect 34 -52 38 16
+use HA  HA_0
+timestamp 1711333212
+transform 1 0 0 0 1 0
+box -4 -32 122 71
+<< labels >>
+rlabel metal2 4 34 4 34 1 A
+rlabel metal2 20 34 20 34 1 B
+rlabel metal1 1 66 1 66 4 VDD
+rlabel metal1 1 2 1 2 3 VSS
+rlabel metal1 -2 -54 -2 -54 1 Cout
+rlabel metal1 116 26 116 26 1 S
+<< end >>

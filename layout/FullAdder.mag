@@ -1,0 +1,61 @@
+magic
+tech scmos
+timestamp 1714172470
+<< metal1 >>
+rect 0 64 2 68
+rect 234 24 238 28
+rect 0 0 2 4
+rect 22 -8 26 -4
+rect 118 -8 138 -4
+rect 6 -16 10 -12
+rect 198 -16 274 -12
+rect 158 -40 242 -36
+rect 38 -48 258 -44
+rect 0 -56 266 -52
+rect 278 -56 280 -52
+<< m2contact >>
+rect 242 32 246 36
+rect 258 20 262 24
+rect 34 16 38 20
+rect 114 16 118 20
+rect 154 16 158 20
+rect 274 12 278 16
+rect 114 -8 118 -4
+rect 138 -8 142 -4
+rect 274 -16 278 -12
+rect 154 -40 158 -36
+rect 242 -40 246 -36
+rect 34 -48 38 -44
+rect 258 -48 262 -44
+rect 266 -56 270 -52
+rect 274 -56 278 -52
+<< metal2 >>
+rect 34 -44 38 16
+rect 114 -4 118 16
+rect 154 -36 158 16
+rect 242 -36 246 32
+rect 258 -44 262 20
+rect 266 12 274 16
+rect 266 -52 270 12
+rect 274 -52 278 -16
+use HA  HA_0
+timestamp 1711333212
+transform 1 0 0 0 1 0
+box -4 -32 122 71
+use HA  HA_1
+timestamp 1711333212
+transform 1 0 120 0 1 0
+box -4 -32 122 71
+use OR2_FA  OR2_FA_0
+timestamp 1713251410
+transform 1 0 240 0 1 0
+box -4 0 44 71
+<< labels >>
+rlabel metal1 1 -54 1 -54 1 Cout
+rlabel metal1 279 -54 279 -54 1 Cin
+rlabel metal1 1 2 1 2 1 VSS
+rlabel metal1 1 66 1 66 1 VDD
+rlabel metal1 236 26 236 26 1 S
+rlabel metal1 24 -6 24 -6 1 B
+rlabel metal1 8 -14 8 -14 1 A
+<< end >>

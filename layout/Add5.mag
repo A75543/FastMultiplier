@@ -1,0 +1,94 @@
+magic
+tech scmos
+timestamp 1714258260
+<< nwell >>
+rect -280 64 -278 68
+<< metal1 >>
+rect -280 64 -278 68
+rect -280 0 -278 4
+rect -280 -56 -276 -52
+<< m2contact >>
+rect -278 159 -274 163
+rect -262 151 -258 155
+rect 2 144 6 148
+rect 18 136 22 140
+rect 282 128 286 132
+rect 298 120 302 124
+rect 562 112 566 116
+rect 578 104 582 108
+rect 842 96 846 100
+rect 858 88 862 92
+rect 1122 80 1126 84
+rect 1138 72 1142 76
+rect -46 24 -42 28
+rect 234 24 238 28
+rect 514 24 518 28
+rect 794 24 798 28
+rect 1074 24 1078 28
+rect 1234 24 1238 28
+<< metal2 >>
+rect -278 40 -274 159
+rect -262 40 -258 151
+rect 2 36 6 144
+rect 18 36 22 136
+rect 282 36 286 128
+rect 298 36 302 120
+rect 562 36 566 112
+rect 578 36 582 104
+rect 842 36 846 96
+rect 858 36 862 88
+rect 1122 40 1126 80
+rect 1138 36 1142 72
+rect -46 -111 -42 24
+rect 234 -111 238 24
+rect 514 -107 518 24
+rect 794 -103 798 24
+rect 1074 -99 1078 24
+rect 1234 -99 1238 24
+use M_FA  M_FA_0
+timestamp 1714172470
+transform 1 0 0 0 1 0
+box -4 -56 284 71
+use M_FA  M_FA_1
+timestamp 1714172470
+transform 1 0 280 0 1 0
+box -4 -56 284 71
+use M_FA  M_FA_2
+timestamp 1714172470
+transform 1 0 560 0 1 0
+box -4 -56 284 71
+use M_FA  M_FA_3
+timestamp 1714172470
+transform 1 0 840 0 1 0
+box -4 -56 284 71
+use M_FA  M_FA_4
+timestamp 1714172470
+transform 1 0 -280 0 1 0
+box -4 -56 284 71
+use M_HA  M_HA_0
+timestamp 1714250864
+transform 1 0 1120 0 1 0
+box -4 -56 122 71
+<< labels >>
+rlabel m2contact -276 161 -276 161 1 A5
+rlabel m2contact -260 153 -260 153 1 B5
+rlabel metal1 -278 -54 -278 -54 1 Cout
+rlabel m2contact -44 26 -44 26 1 S5
+rlabel m2contact 4 146 4 146 1 A4
+rlabel m2contact 20 138 20 138 1 B4
+rlabel m2contact 236 26 236 26 1 S4
+rlabel m2contact 284 130 284 130 1 A3
+rlabel m2contact 300 122 300 122 1 B3
+rlabel m2contact 516 26 516 26 1 S3
+rlabel m2contact 564 114 564 114 1 A2
+rlabel m2contact 580 106 580 106 1 B2
+rlabel m2contact 796 26 796 26 1 S2
+rlabel m2contact 844 98 844 98 1 A1
+rlabel m2contact 860 90 860 90 1 B1
+rlabel m2contact 1076 26 1076 26 1 S1
+rlabel m2contact 1124 82 1124 82 1 A0
+rlabel m2contact 1140 74 1140 74 1 B0
+rlabel metal1 -279 66 -279 66 1 VDD
+rlabel metal1 -279 2 -279 2 1 VSS
+rlabel m2contact 1236 26 1236 26 1 S0
+<< end >>

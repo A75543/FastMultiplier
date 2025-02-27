@@ -1,0 +1,118 @@
+magic
+tech scmos
+timestamp 1711616816
+<< metal1 >>
+rect 0 56 6 60
+rect 0 0 6 4
+rect 6 -16 10 -12
+<< m2contact >>
+rect 18 24 22 28
+rect 58 24 62 28
+rect 154 24 158 28
+rect 194 24 198 28
+rect 290 24 294 28
+rect 330 24 334 28
+rect 426 24 430 28
+rect 466 24 470 28
+rect 562 24 566 28
+rect 602 24 606 28
+rect 698 24 702 28
+rect 738 24 742 28
+rect 834 24 838 28
+rect 874 24 878 28
+rect 970 24 974 28
+rect 1010 24 1014 28
+rect 130 12 134 16
+rect 266 12 270 16
+rect 402 12 406 16
+rect 538 12 542 16
+rect 674 12 678 16
+rect 810 12 814 16
+rect 946 12 950 16
+rect 1082 12 1086 16
+<< metal2 >>
+rect 18 -24 22 24
+rect 58 -24 62 24
+rect 130 -24 134 12
+rect 154 -24 158 24
+rect 194 -24 198 24
+rect 266 -24 270 12
+rect 290 -24 294 24
+rect 330 -24 334 24
+rect 402 -24 406 12
+rect 426 -24 430 24
+rect 466 -24 470 24
+rect 538 -24 542 12
+rect 562 -24 566 24
+rect 602 -24 606 24
+rect 674 -24 678 12
+rect 698 -24 702 24
+rect 738 -24 742 24
+rect 810 -24 814 12
+rect 834 -24 838 24
+rect 874 -24 878 24
+rect 946 -24 950 12
+rect 970 -24 974 24
+rect 1010 -24 1014 24
+rect 1082 -24 1086 12
+use mux2x1  mux2x1_0
+timestamp 1711616816
+transform 1 0 0 0 1 0
+box -4 -16 142 66
+use mux2x1  mux2x1_1
+timestamp 1711616816
+transform 1 0 136 0 1 0
+box -4 -16 142 66
+use mux2x1  mux2x1_2
+timestamp 1711616816
+transform 1 0 272 0 1 0
+box -4 -16 142 66
+use mux2x1  mux2x1_3
+timestamp 1711616816
+transform 1 0 408 0 1 0
+box -4 -16 142 66
+use mux2x1  mux2x1_4
+timestamp 1711616816
+transform 1 0 544 0 1 0
+box -4 -16 142 66
+use mux2x1  mux2x1_5
+timestamp 1711616816
+transform 1 0 680 0 1 0
+box -4 -16 142 66
+use mux2x1  mux2x1_6
+timestamp 1711616816
+transform 1 0 816 0 1 0
+box -4 -16 142 66
+use mux2x1  mux2x1_7
+timestamp 1711616816
+transform 1 0 952 0 1 0
+box -4 -16 142 66
+<< labels >>
+rlabel metal2 20 -22 20 -22 1 A0
+rlabel metal2 60 -22 60 -22 1 B0
+rlabel metal2 156 -22 156 -22 1 A1
+rlabel metal2 196 -22 196 -22 1 B1
+rlabel metal2 292 -22 292 -22 1 A2
+rlabel metal2 332 -22 332 -22 1 B2
+rlabel metal2 428 -22 428 -22 1 A3
+rlabel metal2 468 -22 468 -22 1 B3
+rlabel metal2 564 -22 564 -22 1 A4
+rlabel metal2 604 -22 604 -22 1 B4
+rlabel metal2 700 -22 700 -22 1 A5
+rlabel metal2 740 -22 740 -22 1 B5
+rlabel metal2 836 -22 836 -22 1 A6
+rlabel metal2 876 -22 876 -22 1 B6
+rlabel metal2 972 -22 972 -22 1 A7
+rlabel metal2 1012 -22 1012 -22 1 B7
+rlabel metal1 1 2 1 2 3 VSS
+rlabel metal1 1 58 1 58 3 VDD
+rlabel metal1 8 -14 8 -14 1 S
+rlabel metal2 132 -22 132 -22 1 Y0
+rlabel metal2 268 -22 268 -22 1 Y1
+rlabel metal2 404 -22 404 -22 1 Y2
+rlabel metal2 540 -22 540 -22 1 Y3
+rlabel metal2 676 -22 676 -22 1 Y4
+rlabel metal2 812 -22 812 -22 1 Y5
+rlabel metal2 948 -22 948 -22 1 Y6
+rlabel metal2 1084 -21 1084 -21 1 Y7
+<< end >>

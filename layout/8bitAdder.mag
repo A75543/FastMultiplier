@@ -1,0 +1,89 @@
+magic
+tech scmos
+timestamp 1714184300
+<< polycontact >>
+rect 2 32 6 36
+rect 18 32 22 36
+rect 122 32 126 36
+rect 242 32 246 36
+rect 361 32 365 36
+rect 481 32 485 36
+rect 601 32 605 36
+rect 721 32 725 36
+rect 841 32 845 36
+<< metal1 >>
+rect 0 64 2 68
+rect 114 24 118 28
+rect 234 24 238 28
+rect 354 24 358 28
+rect 473 24 477 28
+rect 593 24 597 28
+rect 713 24 717 28
+rect 833 24 837 28
+rect 953 24 957 28
+rect 0 0 2 4
+rect 955 -40 959 -36
+<< metal2 >>
+rect 2 32 6 36
+rect 18 32 22 36
+rect 122 32 126 36
+rect 242 32 246 36
+rect 361 32 365 36
+rect 481 32 485 36
+rect 601 32 605 36
+rect 721 32 725 36
+rect 841 32 845 36
+use Chain_HA  Chain_HA_0
+timestamp 1711590520
+transform 1 0 0 0 1 0
+box -4 -40 122 71
+use Chain_HA  Chain_HA_1
+timestamp 1711590520
+transform 1 0 120 0 1 0
+box -4 -40 122 71
+use Chain_HA  Chain_HA_2
+timestamp 1711590520
+transform 1 0 240 0 1 0
+box -4 -40 122 71
+use Chain_HA  Chain_HA_3
+timestamp 1711590520
+transform 1 0 359 0 1 0
+box -4 -40 122 71
+use Chain_HA  Chain_HA_4
+timestamp 1711590520
+transform 1 0 479 0 1 0
+box -4 -40 122 71
+use Chain_HA  Chain_HA_5
+timestamp 1711590520
+transform 1 0 599 0 1 0
+box -4 -40 122 71
+use Chain_HA  Chain_HA_6
+timestamp 1711590520
+transform 1 0 719 0 1 0
+box -4 -40 122 71
+use Chain_HA  Chain_HA_7
+timestamp 1711590520
+transform 1 0 839 0 1 0
+box -4 -40 122 71
+<< labels >>
+rlabel metal1 1 66 1 66 1 VDD
+rlabel metal1 1 2 1 2 1 VSS
+rlabel polycontact 4 34 4 34 1 A0
+rlabel metal1 116 26 116 26 1 S0
+rlabel polycontact 124 34 124 34 1 A1
+rlabel polycontact 244 34 244 34 1 A2
+rlabel polycontact 363 34 363 34 1 A3
+rlabel polycontact 483 34 483 34 1 A4
+rlabel polycontact 603 34 603 34 1 A5
+rlabel polycontact 723 34 723 34 1 A6
+rlabel polycontact 843 34 843 34 1 A7
+rlabel metal1 236 26 236 26 1 S1
+rlabel metal1 356 26 356 26 1 S2
+rlabel metal1 475 26 475 26 1 S3
+rlabel metal1 595 26 595 26 1 S4
+rlabel metal1 715 26 715 26 1 S5
+rlabel metal1 835 26 835 26 1 S6
+rlabel metal1 955 26 955 26 1 S7
+rlabel polycontact 20 34 20 34 1 B
+rlabel metal1 957 -38 957 -38 1 Cout
+<< end >>

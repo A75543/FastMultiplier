@@ -1,0 +1,202 @@
+magic
+tech scmos
+timestamp 1714422570
+<< polycontact >>
+rect 2 270 6 274
+rect 18 270 22 274
+rect 34 270 38 274
+rect 50 270 54 274
+rect 66 270 70 274
+rect 82 270 86 274
+rect 98 270 102 274
+rect 114 270 118 274
+rect -168 142 -164 146
+rect -152 142 -148 146
+rect 2 -182 6 -178
+rect 18 -182 22 -178
+rect 34 -182 38 -178
+rect 50 -182 54 -178
+rect 66 -182 70 -178
+rect 82 -182 86 -178
+rect 98 -182 102 -178
+rect 114 -182 118 -178
+<< metal1 >>
+rect -118 366 18 370
+rect -126 358 34 362
+rect -134 350 50 354
+rect -142 342 66 346
+rect -150 334 82 338
+rect -158 326 98 330
+rect -166 318 114 322
+rect -84 310 961 314
+rect 0 302 2 306
+rect 0 246 2 250
+rect -92 182 -8 186
+rect -92 118 0 122
+rect -92 78 0 82
+rect 957 78 961 82
+rect -92 -16 -80 -12
+rect -76 -16 6 -12
+rect -182 -92 18 -88
+rect -190 -100 34 -96
+rect -198 -108 50 -104
+rect -206 -116 66 -112
+rect -214 -124 82 -120
+rect -222 -132 98 -128
+rect -230 -140 114 -136
+rect -174 -186 -72 -182
+rect -84 -374 18 -370
+rect -76 -468 2 -464
+<< m2contact >>
+rect -122 366 -118 370
+rect 18 366 22 370
+rect -130 358 -126 362
+rect 34 358 38 362
+rect -138 350 -134 354
+rect 50 350 54 354
+rect -146 342 -142 346
+rect 66 342 70 346
+rect -154 334 -150 338
+rect 82 334 86 338
+rect -162 326 -158 330
+rect 98 326 102 330
+rect -170 318 -166 322
+rect 114 318 118 322
+rect -88 310 -84 314
+rect 961 310 965 314
+rect -96 134 -92 138
+rect -96 78 -92 82
+rect 961 78 965 82
+rect 130 12 134 16
+rect 266 12 270 16
+rect 402 12 406 16
+rect 538 12 542 16
+rect 674 12 678 16
+rect 810 12 814 16
+rect 946 12 950 16
+rect 1082 12 1086 16
+rect -96 -16 -92 -12
+rect -80 -16 -76 -12
+rect -186 -92 -182 -88
+rect 18 -92 22 -88
+rect -194 -100 -190 -96
+rect 34 -100 38 -96
+rect -202 -108 -198 -104
+rect 50 -108 54 -104
+rect -210 -116 -206 -112
+rect 66 -116 70 -112
+rect -218 -124 -214 -120
+rect 82 -124 86 -120
+rect -226 -132 -222 -128
+rect 98 -132 102 -128
+rect -234 -140 -230 -136
+rect 114 -140 118 -136
+rect -178 -186 -174 -182
+rect -88 -374 -84 -370
+rect 130 -440 134 -436
+rect 266 -440 270 -436
+rect 402 -440 406 -436
+rect 538 -440 542 -436
+rect 674 -440 678 -436
+rect 810 -440 814 -436
+rect 946 -440 950 -436
+rect 1082 -440 1086 -436
+rect -80 -468 -76 -464
+<< metal2 >>
+rect -234 -136 -230 374
+rect -226 -128 -222 374
+rect -218 -120 -214 374
+rect -210 -112 -206 374
+rect -202 -104 -198 374
+rect -194 -96 -190 374
+rect -186 -88 -182 374
+rect -178 -182 -174 374
+rect -170 322 -166 374
+rect -162 330 -158 374
+rect -154 338 -150 374
+rect -146 346 -142 374
+rect -138 354 -134 374
+rect -130 362 -126 374
+rect -122 370 -118 374
+rect 2 322 6 374
+rect 18 322 22 366
+rect 34 322 38 358
+rect 50 322 54 350
+rect 66 322 70 342
+rect 82 322 86 334
+rect 98 322 102 326
+rect -168 142 -164 146
+rect -152 142 -148 146
+rect -96 82 -92 134
+rect -96 -12 -92 78
+rect -88 -370 -84 310
+rect 2 270 6 318
+rect 18 270 22 318
+rect 34 270 38 318
+rect 50 270 54 318
+rect 66 270 70 318
+rect 82 270 86 318
+rect 98 270 102 318
+rect 114 270 118 318
+rect 961 82 965 310
+rect -80 -464 -76 -16
+rect -8 -162 -4 56
+rect 18 -182 22 -92
+rect 34 -182 38 -100
+rect 50 -182 54 -108
+rect 66 -182 70 -116
+rect 82 -182 86 -124
+rect 98 -182 102 -132
+rect 114 -182 118 -140
+rect -72 -198 -68 -182
+rect 1092 -202 1096 0
+use 2Complement  2Complement_1
+timestamp 1714291806
+transform 1 0 0 0 1 -206
+box -72 -330 1096 66
+use 2Complement  2Complement_2
+timestamp 1714291806
+transform 1 0 0 0 1 246
+box -72 -330 1096 66
+use XOR2  XOR2_0
+timestamp 1711067998
+transform 1 0 -138 0 1 118
+box -36 -32 50 71
+<< labels >>
+rlabel metal1 1 248 1 248 1 VSS
+rlabel metal1 1 304 1 304 1 VDD
+rlabel polycontact 4 272 4 272 1 A0
+rlabel polycontact 20 272 20 272 1 A1
+rlabel polycontact 36 272 36 272 1 A2
+rlabel polycontact 52 272 52 272 1 A3
+rlabel polycontact 68 272 68 272 1 A4
+rlabel polycontact 84 272 84 272 1 A5
+rlabel polycontact 100 272 100 272 1 A6
+rlabel polycontact 116 272 116 272 1 A7
+rlabel m2contact 132 14 132 14 1 Y0
+rlabel m2contact 268 14 268 14 1 Y1
+rlabel m2contact 404 14 404 14 1 Y2
+rlabel m2contact 540 14 540 14 1 Y3
+rlabel m2contact 676 14 676 14 1 Y4
+rlabel m2contact 812 14 812 14 1 Y5
+rlabel m2contact 948 14 948 14 1 Y6
+rlabel m2contact 1084 14 1084 14 1 Y7
+rlabel polycontact -166 144 -166 144 1 S1
+rlabel polycontact -150 144 -150 144 1 S0
+rlabel polycontact 4 -180 4 -180 1 A8
+rlabel polycontact 20 -180 20 -180 1 A9
+rlabel polycontact 36 -180 36 -180 1 A10
+rlabel polycontact 52 -180 52 -180 1 A11
+rlabel polycontact 68 -180 68 -180 1 A12
+rlabel polycontact 84 -180 84 -180 1 A13
+rlabel polycontact 100 -180 100 -180 1 A14
+rlabel polycontact 116 -180 116 -180 1 A15
+rlabel m2contact 132 -438 132 -438 1 Y8
+rlabel m2contact 268 -438 268 -438 1 Y9
+rlabel m2contact 404 -438 404 -438 1 Y10
+rlabel m2contact 540 -438 540 -438 1 Y11
+rlabel m2contact 676 -438 676 -438 1 Y12
+rlabel m2contact 812 -438 812 -438 1 Y13
+rlabel m2contact 948 -438 948 -438 1 Y14
+rlabel m2contact 1084 -438 1084 -438 1 Y15
+<< end >>

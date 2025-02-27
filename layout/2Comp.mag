@@ -1,0 +1,71 @@
+magic
+tech scmos
+timestamp 1714367186
+<< nwell >>
+rect -4 56 2 60
+<< polycontact >>
+rect 2 24 6 28
+rect 18 24 22 28
+rect 34 24 38 28
+rect 50 24 54 28
+rect 66 24 70 28
+rect 82 24 86 28
+rect 98 24 102 28
+rect 114 24 118 28
+rect -111 -226 -107 -222
+<< metal1 >>
+rect -4 56 2 60
+rect 0 0 2 4
+rect -87 -8 -16 -4
+rect -75 -168 0 -164
+rect -73 -190 0 -186
+rect -73 -246 0 -242
+rect -75 -262 2 -258
+<< m2contact >>
+rect -91 -8 -87 -4
+rect -79 -168 -75 -164
+rect -91 -210 -87 -206
+rect -79 -230 -75 -226
+rect 130 -234 134 -230
+rect 266 -234 270 -230
+rect 402 -234 406 -230
+rect 538 -234 542 -230
+rect 674 -234 678 -230
+rect 810 -234 814 -230
+rect 946 -234 950 -230
+rect 1082 -234 1086 -230
+rect -79 -262 -75 -258
+<< metal2 >>
+rect -91 -206 -87 -8
+rect -79 -226 -75 -168
+rect -79 -258 -75 -230
+use 2Complement  2Complement_0
+timestamp 1714291806
+transform 1 0 0 0 1 0
+box -72 -330 1096 66
+use AND2  AND2_0
+timestamp 1711561704
+transform 1 0 -113 0 1 -246
+box -4 0 44 66
+<< labels >>
+rlabel metal1 -2 58 -2 58 1 VDD
+rlabel metal1 1 2 1 2 1 VSS
+rlabel polycontact 4 26 4 26 1 A0
+rlabel polycontact 20 26 20 26 1 A1
+rlabel polycontact 36 26 36 26 1 A2
+rlabel polycontact 52 26 52 26 1 A3
+rlabel polycontact 68 26 68 26 1 A4
+rlabel polycontact 84 26 84 26 1 A5
+rlabel polycontact 100 26 100 26 1 A6
+rlabel polycontact 116 26 116 26 1 A7
+rlabel m2contact -77 -228 -77 -228 1 AND
+rlabel m2contact 132 -232 132 -232 1 Y0
+rlabel m2contact 268 -232 268 -232 1 Y1
+rlabel m2contact 404 -232 404 -232 1 Y2
+rlabel m2contact 540 -232 540 -232 1 Y3
+rlabel m2contact 676 -232 676 -232 1 Y4
+rlabel m2contact 812 -232 812 -232 1 Y5
+rlabel m2contact 948 -232 948 -232 1 Y6
+rlabel m2contact 1084 -232 1084 -232 1 Y7
+rlabel polycontact -109 -224 -109 -224 1 Sign
+<< end >>

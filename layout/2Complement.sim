@@ -1,0 +1,957 @@
+| units: 30 tech: scmos format: MIT
+n 8bitAdder_0/Chain_HA_0/XOR2_0/a_n23_8# VSS 8bitAdder_0/Chain_HA_0/XOR2_0/a_25_8# 2 4 95 -120
+p B VDD 8bitAdder_0/Chain_HA_0/XOR2_0/a_n7_8# 2 8 64 -84
+p 8bitINV_0/Y0 8bitAdder_0/Chain_HA_0/XOR2_0/a_2_44# VDD 2 8 79 -84
+p 8bitAdder_0/Chain_HA_0/XOR2_0/a_n23_8# 8bitAdder_0/Chain_HA_0/XOR2_0/a_2_44# mux2x1_8_0/B0 2 8 95 -84
+p 8bitAdder_0/Chain_HA_0/XOR2_0/a_n7_8# mux2x1_8_0/B0 8bitAdder_0/Chain_HA_0/XOR2_0/a_2_44# 2 8 103 -84
+n B 8bitAdder_0/Chain_HA_0/XOR2_0/a_9_8# VSS 2 4 87 -120
+n 8bitINV_0/Y0 mux2x1_8_0/B0 8bitAdder_0/Chain_HA_0/XOR2_0/a_9_8# 2 4 79 -120
+p 8bitINV_0/Y0 VDD 8bitAdder_0/Chain_HA_0/XOR2_0/a_n23_8# 2 8 48 -84
+n 8bitAdder_0/Chain_HA_0/XOR2_0/a_n7_8# 8bitAdder_0/Chain_HA_0/XOR2_0/a_25_8# mux2x1_8_0/B0 2 4 103 -120
+n B VSS 8bitAdder_0/Chain_HA_0/XOR2_0/a_n7_8# 2 4 64 -120
+n 8bitINV_0/Y0 VSS 8bitAdder_0/Chain_HA_0/XOR2_0/a_n23_8# 2 4 48 -120
+p B VDD 8bitAdder_0/Chain_HA_0/XOR2_0/a_2_44# 2 8 87 -84
+p 8bitINV_0/Y0 VDD 8bitAdder_0/Chain_HA_0/a_9_52# 2 8 7 -76
+p 8bitAdder_0/Chain_HA_0/a_9_52# VDD 8bitAdder_0/Chain_HA_1/B 2 8 31 -76
+n B 8bitAdder_0/Chain_HA_0/a_9_8# 8bitAdder_0/Chain_HA_0/a_9_52# 2 8 15 -120
+n 8bitINV_0/Y0 VSS 8bitAdder_0/Chain_HA_0/a_9_8# 2 8 7 -120
+n 8bitAdder_0/Chain_HA_0/a_9_52# VSS 8bitAdder_0/Chain_HA_1/B 2 8 31 -120
+p B 8bitAdder_0/Chain_HA_0/a_9_52# VDD 2 8 15 -76
+n 8bitAdder_0/Chain_HA_1/XOR2_0/a_n23_8# VSS 8bitAdder_0/Chain_HA_1/XOR2_0/a_25_8# 2 4 215 -120
+p 8bitAdder_0/Chain_HA_1/B VDD 8bitAdder_0/Chain_HA_1/XOR2_0/a_n7_8# 2 8 184 -84
+p 8bitINV_0/Y1 8bitAdder_0/Chain_HA_1/XOR2_0/a_2_44# VDD 2 8 199 -84
+p 8bitAdder_0/Chain_HA_1/XOR2_0/a_n23_8# 8bitAdder_0/Chain_HA_1/XOR2_0/a_2_44# mux2x1_8_0/B1 2 8 215 -84
+p 8bitAdder_0/Chain_HA_1/XOR2_0/a_n7_8# mux2x1_8_0/B1 8bitAdder_0/Chain_HA_1/XOR2_0/a_2_44# 2 8 223 -84
+n 8bitAdder_0/Chain_HA_1/B 8bitAdder_0/Chain_HA_1/XOR2_0/a_9_8# VSS 2 4 207 -120
+n 8bitINV_0/Y1 mux2x1_8_0/B1 8bitAdder_0/Chain_HA_1/XOR2_0/a_9_8# 2 4 199 -120
+p 8bitINV_0/Y1 VDD 8bitAdder_0/Chain_HA_1/XOR2_0/a_n23_8# 2 8 168 -84
+n 8bitAdder_0/Chain_HA_1/XOR2_0/a_n7_8# 8bitAdder_0/Chain_HA_1/XOR2_0/a_25_8# mux2x1_8_0/B1 2 4 223 -120
+n 8bitAdder_0/Chain_HA_1/B VSS 8bitAdder_0/Chain_HA_1/XOR2_0/a_n7_8# 2 4 184 -120
+n 8bitINV_0/Y1 VSS 8bitAdder_0/Chain_HA_1/XOR2_0/a_n23_8# 2 4 168 -120
+p 8bitAdder_0/Chain_HA_1/B VDD 8bitAdder_0/Chain_HA_1/XOR2_0/a_2_44# 2 8 207 -84
+p 8bitINV_0/Y1 VDD 8bitAdder_0/Chain_HA_1/a_9_52# 2 8 127 -76
+p 8bitAdder_0/Chain_HA_1/a_9_52# VDD 8bitAdder_0/Chain_HA_2/B 2 8 151 -76
+n 8bitAdder_0/Chain_HA_1/B 8bitAdder_0/Chain_HA_1/a_9_8# 8bitAdder_0/Chain_HA_1/a_9_52# 2 8 135 -120
+n 8bitINV_0/Y1 VSS 8bitAdder_0/Chain_HA_1/a_9_8# 2 8 127 -120
+n 8bitAdder_0/Chain_HA_1/a_9_52# VSS 8bitAdder_0/Chain_HA_2/B 2 8 151 -120
+p 8bitAdder_0/Chain_HA_1/B 8bitAdder_0/Chain_HA_1/a_9_52# VDD 2 8 135 -76
+n 8bitAdder_0/Chain_HA_2/XOR2_0/a_n23_8# VSS 8bitAdder_0/Chain_HA_2/XOR2_0/a_25_8# 2 4 335 -120
+p 8bitAdder_0/Chain_HA_2/B VDD 8bitAdder_0/Chain_HA_2/XOR2_0/a_n7_8# 2 8 304 -84
+p 8bitINV_0/Y2 8bitAdder_0/Chain_HA_2/XOR2_0/a_2_44# VDD 2 8 319 -84
+p 8bitAdder_0/Chain_HA_2/XOR2_0/a_n23_8# 8bitAdder_0/Chain_HA_2/XOR2_0/a_2_44# mux2x1_8_0/B2 2 8 335 -84
+p 8bitAdder_0/Chain_HA_2/XOR2_0/a_n7_8# mux2x1_8_0/B2 8bitAdder_0/Chain_HA_2/XOR2_0/a_2_44# 2 8 343 -84
+n 8bitAdder_0/Chain_HA_2/B 8bitAdder_0/Chain_HA_2/XOR2_0/a_9_8# VSS 2 4 327 -120
+n 8bitINV_0/Y2 mux2x1_8_0/B2 8bitAdder_0/Chain_HA_2/XOR2_0/a_9_8# 2 4 319 -120
+p 8bitINV_0/Y2 VDD 8bitAdder_0/Chain_HA_2/XOR2_0/a_n23_8# 2 8 288 -84
+n 8bitAdder_0/Chain_HA_2/XOR2_0/a_n7_8# 8bitAdder_0/Chain_HA_2/XOR2_0/a_25_8# mux2x1_8_0/B2 2 4 343 -120
+n 8bitAdder_0/Chain_HA_2/B VSS 8bitAdder_0/Chain_HA_2/XOR2_0/a_n7_8# 2 4 304 -120
+n 8bitINV_0/Y2 VSS 8bitAdder_0/Chain_HA_2/XOR2_0/a_n23_8# 2 4 288 -120
+p 8bitAdder_0/Chain_HA_2/B VDD 8bitAdder_0/Chain_HA_2/XOR2_0/a_2_44# 2 8 327 -84
+p 8bitINV_0/Y2 VDD 8bitAdder_0/Chain_HA_2/a_9_52# 2 8 247 -76
+p 8bitAdder_0/Chain_HA_2/a_9_52# VDD 8bitAdder_0/Chain_HA_3/B 2 8 271 -76
+n 8bitAdder_0/Chain_HA_2/B 8bitAdder_0/Chain_HA_2/a_9_8# 8bitAdder_0/Chain_HA_2/a_9_52# 2 8 255 -120
+n 8bitINV_0/Y2 VSS 8bitAdder_0/Chain_HA_2/a_9_8# 2 8 247 -120
+n 8bitAdder_0/Chain_HA_2/a_9_52# VSS 8bitAdder_0/Chain_HA_3/B 2 8 271 -120
+p 8bitAdder_0/Chain_HA_2/B 8bitAdder_0/Chain_HA_2/a_9_52# VDD 2 8 255 -76
+n 8bitAdder_0/Chain_HA_3/XOR2_0/a_n23_8# VSS 8bitAdder_0/Chain_HA_3/XOR2_0/a_25_8# 2 4 454 -120
+p 8bitAdder_0/Chain_HA_3/B VDD 8bitAdder_0/Chain_HA_3/XOR2_0/a_n7_8# 2 8 423 -84
+p 8bitINV_0/Y3 8bitAdder_0/Chain_HA_3/XOR2_0/a_2_44# VDD 2 8 438 -84
+p 8bitAdder_0/Chain_HA_3/XOR2_0/a_n23_8# 8bitAdder_0/Chain_HA_3/XOR2_0/a_2_44# mux2x1_8_0/B3 2 8 454 -84
+p 8bitAdder_0/Chain_HA_3/XOR2_0/a_n7_8# mux2x1_8_0/B3 8bitAdder_0/Chain_HA_3/XOR2_0/a_2_44# 2 8 462 -84
+n 8bitAdder_0/Chain_HA_3/B 8bitAdder_0/Chain_HA_3/XOR2_0/a_9_8# VSS 2 4 446 -120
+n 8bitINV_0/Y3 mux2x1_8_0/B3 8bitAdder_0/Chain_HA_3/XOR2_0/a_9_8# 2 4 438 -120
+p 8bitINV_0/Y3 VDD 8bitAdder_0/Chain_HA_3/XOR2_0/a_n23_8# 2 8 407 -84
+n 8bitAdder_0/Chain_HA_3/XOR2_0/a_n7_8# 8bitAdder_0/Chain_HA_3/XOR2_0/a_25_8# mux2x1_8_0/B3 2 4 462 -120
+n 8bitAdder_0/Chain_HA_3/B VSS 8bitAdder_0/Chain_HA_3/XOR2_0/a_n7_8# 2 4 423 -120
+n 8bitINV_0/Y3 VSS 8bitAdder_0/Chain_HA_3/XOR2_0/a_n23_8# 2 4 407 -120
+p 8bitAdder_0/Chain_HA_3/B VDD 8bitAdder_0/Chain_HA_3/XOR2_0/a_2_44# 2 8 446 -84
+p 8bitINV_0/Y3 VDD 8bitAdder_0/Chain_HA_3/a_9_52# 2 8 366 -76
+p 8bitAdder_0/Chain_HA_3/a_9_52# VDD 8bitAdder_0/Chain_HA_4/B 2 8 390 -76
+n 8bitAdder_0/Chain_HA_3/B 8bitAdder_0/Chain_HA_3/a_9_8# 8bitAdder_0/Chain_HA_3/a_9_52# 2 8 374 -120
+n 8bitINV_0/Y3 VSS 8bitAdder_0/Chain_HA_3/a_9_8# 2 8 366 -120
+n 8bitAdder_0/Chain_HA_3/a_9_52# VSS 8bitAdder_0/Chain_HA_4/B 2 8 390 -120
+p 8bitAdder_0/Chain_HA_3/B 8bitAdder_0/Chain_HA_3/a_9_52# VDD 2 8 374 -76
+n 8bitAdder_0/Chain_HA_4/XOR2_0/a_n23_8# VSS 8bitAdder_0/Chain_HA_4/XOR2_0/a_25_8# 2 4 574 -120
+p 8bitAdder_0/Chain_HA_4/B VDD 8bitAdder_0/Chain_HA_4/XOR2_0/a_n7_8# 2 8 543 -84
+p 8bitINV_0/Y4 8bitAdder_0/Chain_HA_4/XOR2_0/a_2_44# VDD 2 8 558 -84
+p 8bitAdder_0/Chain_HA_4/XOR2_0/a_n23_8# 8bitAdder_0/Chain_HA_4/XOR2_0/a_2_44# mux2x1_8_0/B4 2 8 574 -84
+p 8bitAdder_0/Chain_HA_4/XOR2_0/a_n7_8# mux2x1_8_0/B4 8bitAdder_0/Chain_HA_4/XOR2_0/a_2_44# 2 8 582 -84
+n 8bitAdder_0/Chain_HA_4/B 8bitAdder_0/Chain_HA_4/XOR2_0/a_9_8# VSS 2 4 566 -120
+n 8bitINV_0/Y4 mux2x1_8_0/B4 8bitAdder_0/Chain_HA_4/XOR2_0/a_9_8# 2 4 558 -120
+p 8bitINV_0/Y4 VDD 8bitAdder_0/Chain_HA_4/XOR2_0/a_n23_8# 2 8 527 -84
+n 8bitAdder_0/Chain_HA_4/XOR2_0/a_n7_8# 8bitAdder_0/Chain_HA_4/XOR2_0/a_25_8# mux2x1_8_0/B4 2 4 582 -120
+n 8bitAdder_0/Chain_HA_4/B VSS 8bitAdder_0/Chain_HA_4/XOR2_0/a_n7_8# 2 4 543 -120
+n 8bitINV_0/Y4 VSS 8bitAdder_0/Chain_HA_4/XOR2_0/a_n23_8# 2 4 527 -120
+p 8bitAdder_0/Chain_HA_4/B VDD 8bitAdder_0/Chain_HA_4/XOR2_0/a_2_44# 2 8 566 -84
+p 8bitINV_0/Y4 VDD 8bitAdder_0/Chain_HA_4/a_9_52# 2 8 486 -76
+p 8bitAdder_0/Chain_HA_4/a_9_52# VDD 8bitAdder_0/Chain_HA_5/B 2 8 510 -76
+n 8bitAdder_0/Chain_HA_4/B 8bitAdder_0/Chain_HA_4/a_9_8# 8bitAdder_0/Chain_HA_4/a_9_52# 2 8 494 -120
+n 8bitINV_0/Y4 VSS 8bitAdder_0/Chain_HA_4/a_9_8# 2 8 486 -120
+n 8bitAdder_0/Chain_HA_4/a_9_52# VSS 8bitAdder_0/Chain_HA_5/B 2 8 510 -120
+p 8bitAdder_0/Chain_HA_4/B 8bitAdder_0/Chain_HA_4/a_9_52# VDD 2 8 494 -76
+n 8bitAdder_0/Chain_HA_5/XOR2_0/a_n23_8# VSS 8bitAdder_0/Chain_HA_5/XOR2_0/a_25_8# 2 4 694 -120
+p 8bitAdder_0/Chain_HA_5/B VDD 8bitAdder_0/Chain_HA_5/XOR2_0/a_n7_8# 2 8 663 -84
+p 8bitINV_0/Y5 8bitAdder_0/Chain_HA_5/XOR2_0/a_2_44# VDD 2 8 678 -84
+p 8bitAdder_0/Chain_HA_5/XOR2_0/a_n23_8# 8bitAdder_0/Chain_HA_5/XOR2_0/a_2_44# mux2x1_8_0/B5 2 8 694 -84
+p 8bitAdder_0/Chain_HA_5/XOR2_0/a_n7_8# mux2x1_8_0/B5 8bitAdder_0/Chain_HA_5/XOR2_0/a_2_44# 2 8 702 -84
+n 8bitAdder_0/Chain_HA_5/B 8bitAdder_0/Chain_HA_5/XOR2_0/a_9_8# VSS 2 4 686 -120
+n 8bitINV_0/Y5 mux2x1_8_0/B5 8bitAdder_0/Chain_HA_5/XOR2_0/a_9_8# 2 4 678 -120
+p 8bitINV_0/Y5 VDD 8bitAdder_0/Chain_HA_5/XOR2_0/a_n23_8# 2 8 647 -84
+n 8bitAdder_0/Chain_HA_5/XOR2_0/a_n7_8# 8bitAdder_0/Chain_HA_5/XOR2_0/a_25_8# mux2x1_8_0/B5 2 4 702 -120
+n 8bitAdder_0/Chain_HA_5/B VSS 8bitAdder_0/Chain_HA_5/XOR2_0/a_n7_8# 2 4 663 -120
+n 8bitINV_0/Y5 VSS 8bitAdder_0/Chain_HA_5/XOR2_0/a_n23_8# 2 4 647 -120
+p 8bitAdder_0/Chain_HA_5/B VDD 8bitAdder_0/Chain_HA_5/XOR2_0/a_2_44# 2 8 686 -84
+p 8bitINV_0/Y5 VDD 8bitAdder_0/Chain_HA_5/a_9_52# 2 8 606 -76
+p 8bitAdder_0/Chain_HA_5/a_9_52# VDD 8bitAdder_0/Chain_HA_6/B 2 8 630 -76
+n 8bitAdder_0/Chain_HA_5/B 8bitAdder_0/Chain_HA_5/a_9_8# 8bitAdder_0/Chain_HA_5/a_9_52# 2 8 614 -120
+n 8bitINV_0/Y5 VSS 8bitAdder_0/Chain_HA_5/a_9_8# 2 8 606 -120
+n 8bitAdder_0/Chain_HA_5/a_9_52# VSS 8bitAdder_0/Chain_HA_6/B 2 8 630 -120
+p 8bitAdder_0/Chain_HA_5/B 8bitAdder_0/Chain_HA_5/a_9_52# VDD 2 8 614 -76
+n 8bitAdder_0/Chain_HA_6/XOR2_0/a_n23_8# VSS 8bitAdder_0/Chain_HA_6/XOR2_0/a_25_8# 2 4 814 -120
+p 8bitAdder_0/Chain_HA_6/B VDD 8bitAdder_0/Chain_HA_6/XOR2_0/a_n7_8# 2 8 783 -84
+p 8bitINV_0/Y6 8bitAdder_0/Chain_HA_6/XOR2_0/a_2_44# VDD 2 8 798 -84
+p 8bitAdder_0/Chain_HA_6/XOR2_0/a_n23_8# 8bitAdder_0/Chain_HA_6/XOR2_0/a_2_44# mux2x1_8_0/B6 2 8 814 -84
+p 8bitAdder_0/Chain_HA_6/XOR2_0/a_n7_8# mux2x1_8_0/B6 8bitAdder_0/Chain_HA_6/XOR2_0/a_2_44# 2 8 822 -84
+n 8bitAdder_0/Chain_HA_6/B 8bitAdder_0/Chain_HA_6/XOR2_0/a_9_8# VSS 2 4 806 -120
+n 8bitINV_0/Y6 mux2x1_8_0/B6 8bitAdder_0/Chain_HA_6/XOR2_0/a_9_8# 2 4 798 -120
+p 8bitINV_0/Y6 VDD 8bitAdder_0/Chain_HA_6/XOR2_0/a_n23_8# 2 8 767 -84
+n 8bitAdder_0/Chain_HA_6/XOR2_0/a_n7_8# 8bitAdder_0/Chain_HA_6/XOR2_0/a_25_8# mux2x1_8_0/B6 2 4 822 -120
+n 8bitAdder_0/Chain_HA_6/B VSS 8bitAdder_0/Chain_HA_6/XOR2_0/a_n7_8# 2 4 783 -120
+n 8bitINV_0/Y6 VSS 8bitAdder_0/Chain_HA_6/XOR2_0/a_n23_8# 2 4 767 -120
+p 8bitAdder_0/Chain_HA_6/B VDD 8bitAdder_0/Chain_HA_6/XOR2_0/a_2_44# 2 8 806 -84
+p 8bitINV_0/Y6 VDD 8bitAdder_0/Chain_HA_6/a_9_52# 2 8 726 -76
+p 8bitAdder_0/Chain_HA_6/a_9_52# VDD 8bitAdder_0/Chain_HA_7/B 2 8 750 -76
+n 8bitAdder_0/Chain_HA_6/B 8bitAdder_0/Chain_HA_6/a_9_8# 8bitAdder_0/Chain_HA_6/a_9_52# 2 8 734 -120
+n 8bitINV_0/Y6 VSS 8bitAdder_0/Chain_HA_6/a_9_8# 2 8 726 -120
+n 8bitAdder_0/Chain_HA_6/a_9_52# VSS 8bitAdder_0/Chain_HA_7/B 2 8 750 -120
+p 8bitAdder_0/Chain_HA_6/B 8bitAdder_0/Chain_HA_6/a_9_52# VDD 2 8 734 -76
+n 8bitAdder_0/Chain_HA_7/XOR2_0/a_n23_8# VSS 8bitAdder_0/Chain_HA_7/XOR2_0/a_25_8# 2 4 934 -120
+p 8bitAdder_0/Chain_HA_7/B VDD 8bitAdder_0/Chain_HA_7/XOR2_0/a_n7_8# 2 8 903 -84
+p 8bitINV_0/Y7 8bitAdder_0/Chain_HA_7/XOR2_0/a_2_44# VDD 2 8 918 -84
+p 8bitAdder_0/Chain_HA_7/XOR2_0/a_n23_8# 8bitAdder_0/Chain_HA_7/XOR2_0/a_2_44# mux2x1_8_0/B7 2 8 934 -84
+p 8bitAdder_0/Chain_HA_7/XOR2_0/a_n7_8# mux2x1_8_0/B7 8bitAdder_0/Chain_HA_7/XOR2_0/a_2_44# 2 8 942 -84
+n 8bitAdder_0/Chain_HA_7/B 8bitAdder_0/Chain_HA_7/XOR2_0/a_9_8# VSS 2 4 926 -120
+n 8bitINV_0/Y7 mux2x1_8_0/B7 8bitAdder_0/Chain_HA_7/XOR2_0/a_9_8# 2 4 918 -120
+p 8bitINV_0/Y7 VDD 8bitAdder_0/Chain_HA_7/XOR2_0/a_n23_8# 2 8 887 -84
+n 8bitAdder_0/Chain_HA_7/XOR2_0/a_n7_8# 8bitAdder_0/Chain_HA_7/XOR2_0/a_25_8# mux2x1_8_0/B7 2 4 942 -120
+n 8bitAdder_0/Chain_HA_7/B VSS 8bitAdder_0/Chain_HA_7/XOR2_0/a_n7_8# 2 4 903 -120
+n 8bitINV_0/Y7 VSS 8bitAdder_0/Chain_HA_7/XOR2_0/a_n23_8# 2 4 887 -120
+p 8bitAdder_0/Chain_HA_7/B VDD 8bitAdder_0/Chain_HA_7/XOR2_0/a_2_44# 2 8 926 -84
+p 8bitINV_0/Y7 VDD 8bitAdder_0/Chain_HA_7/a_9_52# 2 8 846 -76
+p 8bitAdder_0/Chain_HA_7/a_9_52# VDD 8bitAdder_0/Chain_HA_7/Co 2 8 870 -76
+n 8bitAdder_0/Chain_HA_7/B 8bitAdder_0/Chain_HA_7/a_9_8# 8bitAdder_0/Chain_HA_7/a_9_52# 2 8 854 -120
+n 8bitINV_0/Y7 VSS 8bitAdder_0/Chain_HA_7/a_9_8# 2 8 846 -120
+n 8bitAdder_0/Chain_HA_7/a_9_52# VSS 8bitAdder_0/Chain_HA_7/Co 2 8 870 -120
+p 8bitAdder_0/Chain_HA_7/B 8bitAdder_0/Chain_HA_7/a_9_52# VDD 2 8 854 -76
+p mux2x1_8_0/mux2x1_0/OR2_0/A VDD mux2x1_8_0/mux2x1_0/OR2_0/a_9_36# 2 16 103 -210
+p mux2x1_8_0/mux2x1_0/OR2_0/a_9_8# VDD Y0 2 16 127 -210
+n mux2x1_8_0/mux2x1_0/OR2_0/B mux2x1_8_0/mux2x1_0/OR2_0/a_9_8# VSS 2 4 111 -238
+n mux2x1_8_0/mux2x1_0/OR2_0/A VSS mux2x1_8_0/mux2x1_0/OR2_0/a_9_8# 2 4 103 -238
+n mux2x1_8_0/mux2x1_0/OR2_0/a_9_8# VSS Y0 2 4 127 -238
+p mux2x1_8_0/mux2x1_0/OR2_0/B mux2x1_8_0/mux2x1_0/OR2_0/a_9_36# mux2x1_8_0/mux2x1_0/OR2_0/a_9_8# 2 16 111 -210
+p A0 VDD mux2x1_8_0/mux2x1_0/AND2_0/a_9_44# 2 8 23 -202
+p mux2x1_8_0/mux2x1_0/AND2_0/a_9_44# VDD mux2x1_8_0/mux2x1_0/OR2_0/B 2 8 47 -202
+n mux2x1_8_0/mux2x1_0/Sb mux2x1_8_0/mux2x1_0/AND2_0/a_9_8# mux2x1_8_0/mux2x1_0/AND2_0/a_9_44# 2 8 31 -238
+n A0 VSS mux2x1_8_0/mux2x1_0/AND2_0/a_9_8# 2 8 23 -238
+n mux2x1_8_0/mux2x1_0/AND2_0/a_9_44# VSS mux2x1_8_0/mux2x1_0/OR2_0/B 2 8 47 -238
+p mux2x1_8_0/mux2x1_0/Sb mux2x1_8_0/mux2x1_0/AND2_0/a_9_44# VDD 2 8 31 -202
+p mux2x1_8_0/B0 VDD mux2x1_8_0/mux2x1_0/AND2_1/a_9_44# 2 8 63 -202
+p mux2x1_8_0/mux2x1_0/AND2_1/a_9_44# VDD mux2x1_8_0/mux2x1_0/OR2_0/A 2 8 87 -202
+n S mux2x1_8_0/mux2x1_0/AND2_1/a_9_8# mux2x1_8_0/mux2x1_0/AND2_1/a_9_44# 2 8 71 -238
+n mux2x1_8_0/B0 VSS mux2x1_8_0/mux2x1_0/AND2_1/a_9_8# 2 8 63 -238
+n mux2x1_8_0/mux2x1_0/AND2_1/a_9_44# VSS mux2x1_8_0/mux2x1_0/OR2_0/A 2 8 87 -238
+p S mux2x1_8_0/mux2x1_0/AND2_1/a_9_44# VDD 2 8 71 -202
+p S VDD mux2x1_8_0/mux2x1_0/Sb 2 8 7 -202
+n S VSS mux2x1_8_0/mux2x1_0/Sb 2 4 7 -238
+p mux2x1_8_0/mux2x1_1/OR2_0/A VDD mux2x1_8_0/mux2x1_1/OR2_0/a_9_36# 2 16 239 -210
+p mux2x1_8_0/mux2x1_1/OR2_0/a_9_8# VDD Y1 2 16 263 -210
+n mux2x1_8_0/mux2x1_1/OR2_0/B mux2x1_8_0/mux2x1_1/OR2_0/a_9_8# VSS 2 4 247 -238
+n mux2x1_8_0/mux2x1_1/OR2_0/A VSS mux2x1_8_0/mux2x1_1/OR2_0/a_9_8# 2 4 239 -238
+n mux2x1_8_0/mux2x1_1/OR2_0/a_9_8# VSS Y1 2 4 263 -238
+p mux2x1_8_0/mux2x1_1/OR2_0/B mux2x1_8_0/mux2x1_1/OR2_0/a_9_36# mux2x1_8_0/mux2x1_1/OR2_0/a_9_8# 2 16 247 -210
+p A1 VDD mux2x1_8_0/mux2x1_1/AND2_0/a_9_44# 2 8 159 -202
+p mux2x1_8_0/mux2x1_1/AND2_0/a_9_44# VDD mux2x1_8_0/mux2x1_1/OR2_0/B 2 8 183 -202
+n mux2x1_8_0/mux2x1_1/Sb mux2x1_8_0/mux2x1_1/AND2_0/a_9_8# mux2x1_8_0/mux2x1_1/AND2_0/a_9_44# 2 8 167 -238
+n A1 VSS mux2x1_8_0/mux2x1_1/AND2_0/a_9_8# 2 8 159 -238
+n mux2x1_8_0/mux2x1_1/AND2_0/a_9_44# VSS mux2x1_8_0/mux2x1_1/OR2_0/B 2 8 183 -238
+p mux2x1_8_0/mux2x1_1/Sb mux2x1_8_0/mux2x1_1/AND2_0/a_9_44# VDD 2 8 167 -202
+p mux2x1_8_0/B1 VDD mux2x1_8_0/mux2x1_1/AND2_1/a_9_44# 2 8 199 -202
+p mux2x1_8_0/mux2x1_1/AND2_1/a_9_44# VDD mux2x1_8_0/mux2x1_1/OR2_0/A 2 8 223 -202
+n S mux2x1_8_0/mux2x1_1/AND2_1/a_9_8# mux2x1_8_0/mux2x1_1/AND2_1/a_9_44# 2 8 207 -238
+n mux2x1_8_0/B1 VSS mux2x1_8_0/mux2x1_1/AND2_1/a_9_8# 2 8 199 -238
+n mux2x1_8_0/mux2x1_1/AND2_1/a_9_44# VSS mux2x1_8_0/mux2x1_1/OR2_0/A 2 8 223 -238
+p S mux2x1_8_0/mux2x1_1/AND2_1/a_9_44# VDD 2 8 207 -202
+p S VDD mux2x1_8_0/mux2x1_1/Sb 2 8 143 -202
+n S VSS mux2x1_8_0/mux2x1_1/Sb 2 4 143 -238
+p mux2x1_8_0/mux2x1_2/OR2_0/A VDD mux2x1_8_0/mux2x1_2/OR2_0/a_9_36# 2 16 375 -210
+p mux2x1_8_0/mux2x1_2/OR2_0/a_9_8# VDD Y2 2 16 399 -210
+n mux2x1_8_0/mux2x1_2/OR2_0/B mux2x1_8_0/mux2x1_2/OR2_0/a_9_8# VSS 2 4 383 -238
+n mux2x1_8_0/mux2x1_2/OR2_0/A VSS mux2x1_8_0/mux2x1_2/OR2_0/a_9_8# 2 4 375 -238
+n mux2x1_8_0/mux2x1_2/OR2_0/a_9_8# VSS Y2 2 4 399 -238
+p mux2x1_8_0/mux2x1_2/OR2_0/B mux2x1_8_0/mux2x1_2/OR2_0/a_9_36# mux2x1_8_0/mux2x1_2/OR2_0/a_9_8# 2 16 383 -210
+p A2 VDD mux2x1_8_0/mux2x1_2/AND2_0/a_9_44# 2 8 295 -202
+p mux2x1_8_0/mux2x1_2/AND2_0/a_9_44# VDD mux2x1_8_0/mux2x1_2/OR2_0/B 2 8 319 -202
+n mux2x1_8_0/mux2x1_2/Sb mux2x1_8_0/mux2x1_2/AND2_0/a_9_8# mux2x1_8_0/mux2x1_2/AND2_0/a_9_44# 2 8 303 -238
+n A2 VSS mux2x1_8_0/mux2x1_2/AND2_0/a_9_8# 2 8 295 -238
+n mux2x1_8_0/mux2x1_2/AND2_0/a_9_44# VSS mux2x1_8_0/mux2x1_2/OR2_0/B 2 8 319 -238
+p mux2x1_8_0/mux2x1_2/Sb mux2x1_8_0/mux2x1_2/AND2_0/a_9_44# VDD 2 8 303 -202
+p mux2x1_8_0/B2 VDD mux2x1_8_0/mux2x1_2/AND2_1/a_9_44# 2 8 335 -202
+p mux2x1_8_0/mux2x1_2/AND2_1/a_9_44# VDD mux2x1_8_0/mux2x1_2/OR2_0/A 2 8 359 -202
+n S mux2x1_8_0/mux2x1_2/AND2_1/a_9_8# mux2x1_8_0/mux2x1_2/AND2_1/a_9_44# 2 8 343 -238
+n mux2x1_8_0/B2 VSS mux2x1_8_0/mux2x1_2/AND2_1/a_9_8# 2 8 335 -238
+n mux2x1_8_0/mux2x1_2/AND2_1/a_9_44# VSS mux2x1_8_0/mux2x1_2/OR2_0/A 2 8 359 -238
+p S mux2x1_8_0/mux2x1_2/AND2_1/a_9_44# VDD 2 8 343 -202
+p S VDD mux2x1_8_0/mux2x1_2/Sb 2 8 279 -202
+n S VSS mux2x1_8_0/mux2x1_2/Sb 2 4 279 -238
+p mux2x1_8_0/mux2x1_3/OR2_0/A VDD mux2x1_8_0/mux2x1_3/OR2_0/a_9_36# 2 16 511 -210
+p mux2x1_8_0/mux2x1_3/OR2_0/a_9_8# VDD Y3 2 16 535 -210
+n mux2x1_8_0/mux2x1_3/OR2_0/B mux2x1_8_0/mux2x1_3/OR2_0/a_9_8# VSS 2 4 519 -238
+n mux2x1_8_0/mux2x1_3/OR2_0/A VSS mux2x1_8_0/mux2x1_3/OR2_0/a_9_8# 2 4 511 -238
+n mux2x1_8_0/mux2x1_3/OR2_0/a_9_8# VSS Y3 2 4 535 -238
+p mux2x1_8_0/mux2x1_3/OR2_0/B mux2x1_8_0/mux2x1_3/OR2_0/a_9_36# mux2x1_8_0/mux2x1_3/OR2_0/a_9_8# 2 16 519 -210
+p A3 VDD mux2x1_8_0/mux2x1_3/AND2_0/a_9_44# 2 8 431 -202
+p mux2x1_8_0/mux2x1_3/AND2_0/a_9_44# VDD mux2x1_8_0/mux2x1_3/OR2_0/B 2 8 455 -202
+n mux2x1_8_0/mux2x1_3/Sb mux2x1_8_0/mux2x1_3/AND2_0/a_9_8# mux2x1_8_0/mux2x1_3/AND2_0/a_9_44# 2 8 439 -238
+n A3 VSS mux2x1_8_0/mux2x1_3/AND2_0/a_9_8# 2 8 431 -238
+n mux2x1_8_0/mux2x1_3/AND2_0/a_9_44# VSS mux2x1_8_0/mux2x1_3/OR2_0/B 2 8 455 -238
+p mux2x1_8_0/mux2x1_3/Sb mux2x1_8_0/mux2x1_3/AND2_0/a_9_44# VDD 2 8 439 -202
+p mux2x1_8_0/B3 VDD mux2x1_8_0/mux2x1_3/AND2_1/a_9_44# 2 8 471 -202
+p mux2x1_8_0/mux2x1_3/AND2_1/a_9_44# VDD mux2x1_8_0/mux2x1_3/OR2_0/A 2 8 495 -202
+n S mux2x1_8_0/mux2x1_3/AND2_1/a_9_8# mux2x1_8_0/mux2x1_3/AND2_1/a_9_44# 2 8 479 -238
+n mux2x1_8_0/B3 VSS mux2x1_8_0/mux2x1_3/AND2_1/a_9_8# 2 8 471 -238
+n mux2x1_8_0/mux2x1_3/AND2_1/a_9_44# VSS mux2x1_8_0/mux2x1_3/OR2_0/A 2 8 495 -238
+p S mux2x1_8_0/mux2x1_3/AND2_1/a_9_44# VDD 2 8 479 -202
+p S VDD mux2x1_8_0/mux2x1_3/Sb 2 8 415 -202
+n S VSS mux2x1_8_0/mux2x1_3/Sb 2 4 415 -238
+p mux2x1_8_0/mux2x1_4/OR2_0/A VDD mux2x1_8_0/mux2x1_4/OR2_0/a_9_36# 2 16 647 -210
+p mux2x1_8_0/mux2x1_4/OR2_0/a_9_8# VDD Y4 2 16 671 -210
+n mux2x1_8_0/mux2x1_4/OR2_0/B mux2x1_8_0/mux2x1_4/OR2_0/a_9_8# VSS 2 4 655 -238
+n mux2x1_8_0/mux2x1_4/OR2_0/A VSS mux2x1_8_0/mux2x1_4/OR2_0/a_9_8# 2 4 647 -238
+n mux2x1_8_0/mux2x1_4/OR2_0/a_9_8# VSS Y4 2 4 671 -238
+p mux2x1_8_0/mux2x1_4/OR2_0/B mux2x1_8_0/mux2x1_4/OR2_0/a_9_36# mux2x1_8_0/mux2x1_4/OR2_0/a_9_8# 2 16 655 -210
+p A4 VDD mux2x1_8_0/mux2x1_4/AND2_0/a_9_44# 2 8 567 -202
+p mux2x1_8_0/mux2x1_4/AND2_0/a_9_44# VDD mux2x1_8_0/mux2x1_4/OR2_0/B 2 8 591 -202
+n mux2x1_8_0/mux2x1_4/Sb mux2x1_8_0/mux2x1_4/AND2_0/a_9_8# mux2x1_8_0/mux2x1_4/AND2_0/a_9_44# 2 8 575 -238
+n A4 VSS mux2x1_8_0/mux2x1_4/AND2_0/a_9_8# 2 8 567 -238
+n mux2x1_8_0/mux2x1_4/AND2_0/a_9_44# VSS mux2x1_8_0/mux2x1_4/OR2_0/B 2 8 591 -238
+p mux2x1_8_0/mux2x1_4/Sb mux2x1_8_0/mux2x1_4/AND2_0/a_9_44# VDD 2 8 575 -202
+p mux2x1_8_0/B4 VDD mux2x1_8_0/mux2x1_4/AND2_1/a_9_44# 2 8 607 -202
+p mux2x1_8_0/mux2x1_4/AND2_1/a_9_44# VDD mux2x1_8_0/mux2x1_4/OR2_0/A 2 8 631 -202
+n S mux2x1_8_0/mux2x1_4/AND2_1/a_9_8# mux2x1_8_0/mux2x1_4/AND2_1/a_9_44# 2 8 615 -238
+n mux2x1_8_0/B4 VSS mux2x1_8_0/mux2x1_4/AND2_1/a_9_8# 2 8 607 -238
+n mux2x1_8_0/mux2x1_4/AND2_1/a_9_44# VSS mux2x1_8_0/mux2x1_4/OR2_0/A 2 8 631 -238
+p S mux2x1_8_0/mux2x1_4/AND2_1/a_9_44# VDD 2 8 615 -202
+p S VDD mux2x1_8_0/mux2x1_4/Sb 2 8 551 -202
+n S VSS mux2x1_8_0/mux2x1_4/Sb 2 4 551 -238
+p mux2x1_8_0/mux2x1_5/OR2_0/A VDD mux2x1_8_0/mux2x1_5/OR2_0/a_9_36# 2 16 783 -210
+p mux2x1_8_0/mux2x1_5/OR2_0/a_9_8# VDD Y5 2 16 807 -210
+n mux2x1_8_0/mux2x1_5/OR2_0/B mux2x1_8_0/mux2x1_5/OR2_0/a_9_8# VSS 2 4 791 -238
+n mux2x1_8_0/mux2x1_5/OR2_0/A VSS mux2x1_8_0/mux2x1_5/OR2_0/a_9_8# 2 4 783 -238
+n mux2x1_8_0/mux2x1_5/OR2_0/a_9_8# VSS Y5 2 4 807 -238
+p mux2x1_8_0/mux2x1_5/OR2_0/B mux2x1_8_0/mux2x1_5/OR2_0/a_9_36# mux2x1_8_0/mux2x1_5/OR2_0/a_9_8# 2 16 791 -210
+p A5 VDD mux2x1_8_0/mux2x1_5/AND2_0/a_9_44# 2 8 703 -202
+p mux2x1_8_0/mux2x1_5/AND2_0/a_9_44# VDD mux2x1_8_0/mux2x1_5/OR2_0/B 2 8 727 -202
+n mux2x1_8_0/mux2x1_5/Sb mux2x1_8_0/mux2x1_5/AND2_0/a_9_8# mux2x1_8_0/mux2x1_5/AND2_0/a_9_44# 2 8 711 -238
+n A5 VSS mux2x1_8_0/mux2x1_5/AND2_0/a_9_8# 2 8 703 -238
+n mux2x1_8_0/mux2x1_5/AND2_0/a_9_44# VSS mux2x1_8_0/mux2x1_5/OR2_0/B 2 8 727 -238
+p mux2x1_8_0/mux2x1_5/Sb mux2x1_8_0/mux2x1_5/AND2_0/a_9_44# VDD 2 8 711 -202
+p mux2x1_8_0/B5 VDD mux2x1_8_0/mux2x1_5/AND2_1/a_9_44# 2 8 743 -202
+p mux2x1_8_0/mux2x1_5/AND2_1/a_9_44# VDD mux2x1_8_0/mux2x1_5/OR2_0/A 2 8 767 -202
+n S mux2x1_8_0/mux2x1_5/AND2_1/a_9_8# mux2x1_8_0/mux2x1_5/AND2_1/a_9_44# 2 8 751 -238
+n mux2x1_8_0/B5 VSS mux2x1_8_0/mux2x1_5/AND2_1/a_9_8# 2 8 743 -238
+n mux2x1_8_0/mux2x1_5/AND2_1/a_9_44# VSS mux2x1_8_0/mux2x1_5/OR2_0/A 2 8 767 -238
+p S mux2x1_8_0/mux2x1_5/AND2_1/a_9_44# VDD 2 8 751 -202
+p S VDD mux2x1_8_0/mux2x1_5/Sb 2 8 687 -202
+n S VSS mux2x1_8_0/mux2x1_5/Sb 2 4 687 -238
+p mux2x1_8_0/mux2x1_6/OR2_0/A VDD mux2x1_8_0/mux2x1_6/OR2_0/a_9_36# 2 16 919 -210
+p mux2x1_8_0/mux2x1_6/OR2_0/a_9_8# VDD Y6 2 16 943 -210
+n mux2x1_8_0/mux2x1_6/OR2_0/B mux2x1_8_0/mux2x1_6/OR2_0/a_9_8# VSS 2 4 927 -238
+n mux2x1_8_0/mux2x1_6/OR2_0/A VSS mux2x1_8_0/mux2x1_6/OR2_0/a_9_8# 2 4 919 -238
+n mux2x1_8_0/mux2x1_6/OR2_0/a_9_8# VSS Y6 2 4 943 -238
+p mux2x1_8_0/mux2x1_6/OR2_0/B mux2x1_8_0/mux2x1_6/OR2_0/a_9_36# mux2x1_8_0/mux2x1_6/OR2_0/a_9_8# 2 16 927 -210
+p A6 VDD mux2x1_8_0/mux2x1_6/AND2_0/a_9_44# 2 8 839 -202
+p mux2x1_8_0/mux2x1_6/AND2_0/a_9_44# VDD mux2x1_8_0/mux2x1_6/OR2_0/B 2 8 863 -202
+n mux2x1_8_0/mux2x1_6/Sb mux2x1_8_0/mux2x1_6/AND2_0/a_9_8# mux2x1_8_0/mux2x1_6/AND2_0/a_9_44# 2 8 847 -238
+n A6 VSS mux2x1_8_0/mux2x1_6/AND2_0/a_9_8# 2 8 839 -238
+n mux2x1_8_0/mux2x1_6/AND2_0/a_9_44# VSS mux2x1_8_0/mux2x1_6/OR2_0/B 2 8 863 -238
+p mux2x1_8_0/mux2x1_6/Sb mux2x1_8_0/mux2x1_6/AND2_0/a_9_44# VDD 2 8 847 -202
+p mux2x1_8_0/B6 VDD mux2x1_8_0/mux2x1_6/AND2_1/a_9_44# 2 8 879 -202
+p mux2x1_8_0/mux2x1_6/AND2_1/a_9_44# VDD mux2x1_8_0/mux2x1_6/OR2_0/A 2 8 903 -202
+n S mux2x1_8_0/mux2x1_6/AND2_1/a_9_8# mux2x1_8_0/mux2x1_6/AND2_1/a_9_44# 2 8 887 -238
+n mux2x1_8_0/B6 VSS mux2x1_8_0/mux2x1_6/AND2_1/a_9_8# 2 8 879 -238
+n mux2x1_8_0/mux2x1_6/AND2_1/a_9_44# VSS mux2x1_8_0/mux2x1_6/OR2_0/A 2 8 903 -238
+p S mux2x1_8_0/mux2x1_6/AND2_1/a_9_44# VDD 2 8 887 -202
+p S VDD mux2x1_8_0/mux2x1_6/Sb 2 8 823 -202
+n S VSS mux2x1_8_0/mux2x1_6/Sb 2 4 823 -238
+p mux2x1_8_0/mux2x1_7/OR2_0/A VDD mux2x1_8_0/mux2x1_7/OR2_0/a_9_36# 2 16 1055 -210
+p mux2x1_8_0/mux2x1_7/OR2_0/a_9_8# VDD Y7 2 16 1079 -210
+n mux2x1_8_0/mux2x1_7/OR2_0/B mux2x1_8_0/mux2x1_7/OR2_0/a_9_8# VSS 2 4 1063 -238
+n mux2x1_8_0/mux2x1_7/OR2_0/A VSS mux2x1_8_0/mux2x1_7/OR2_0/a_9_8# 2 4 1055 -238
+n mux2x1_8_0/mux2x1_7/OR2_0/a_9_8# VSS Y7 2 4 1079 -238
+p mux2x1_8_0/mux2x1_7/OR2_0/B mux2x1_8_0/mux2x1_7/OR2_0/a_9_36# mux2x1_8_0/mux2x1_7/OR2_0/a_9_8# 2 16 1063 -210
+p A7 VDD mux2x1_8_0/mux2x1_7/AND2_0/a_9_44# 2 8 975 -202
+p mux2x1_8_0/mux2x1_7/AND2_0/a_9_44# VDD mux2x1_8_0/mux2x1_7/OR2_0/B 2 8 999 -202
+n mux2x1_8_0/mux2x1_7/Sb mux2x1_8_0/mux2x1_7/AND2_0/a_9_8# mux2x1_8_0/mux2x1_7/AND2_0/a_9_44# 2 8 983 -238
+n A7 VSS mux2x1_8_0/mux2x1_7/AND2_0/a_9_8# 2 8 975 -238
+n mux2x1_8_0/mux2x1_7/AND2_0/a_9_44# VSS mux2x1_8_0/mux2x1_7/OR2_0/B 2 8 999 -238
+p mux2x1_8_0/mux2x1_7/Sb mux2x1_8_0/mux2x1_7/AND2_0/a_9_44# VDD 2 8 983 -202
+p mux2x1_8_0/B7 VDD mux2x1_8_0/mux2x1_7/AND2_1/a_9_44# 2 8 1015 -202
+p mux2x1_8_0/mux2x1_7/AND2_1/a_9_44# VDD mux2x1_8_0/mux2x1_7/OR2_0/A 2 8 1039 -202
+n S mux2x1_8_0/mux2x1_7/AND2_1/a_9_8# mux2x1_8_0/mux2x1_7/AND2_1/a_9_44# 2 8 1023 -238
+n mux2x1_8_0/B7 VSS mux2x1_8_0/mux2x1_7/AND2_1/a_9_8# 2 8 1015 -238
+n mux2x1_8_0/mux2x1_7/AND2_1/a_9_44# VSS mux2x1_8_0/mux2x1_7/OR2_0/A 2 8 1039 -238
+p S mux2x1_8_0/mux2x1_7/AND2_1/a_9_44# VDD 2 8 1023 -202
+p S VDD mux2x1_8_0/mux2x1_7/Sb 2 8 959 -202
+n S VSS mux2x1_8_0/mux2x1_7/Sb 2 4 959 -238
+p A1 VDD 8bitINV_0/Y1 2 8 23 44
+n A1 VSS 8bitINV_0/Y1 2 4 23 8
+p A2 VDD 8bitINV_0/Y2 2 8 39 44
+n A2 VSS 8bitINV_0/Y2 2 4 39 8
+p A3 VDD 8bitINV_0/Y3 2 8 55 44
+n A3 VSS 8bitINV_0/Y3 2 4 55 8
+p A4 VDD 8bitINV_0/Y4 2 8 71 44
+n A4 VSS 8bitINV_0/Y4 2 4 71 8
+p A5 VDD 8bitINV_0/Y5 2 8 87 44
+n A5 VSS 8bitINV_0/Y5 2 4 87 8
+p A6 VDD 8bitINV_0/Y6 2 8 103 44
+n A6 VSS 8bitINV_0/Y6 2 4 103 8
+p A7 VDD 8bitINV_0/Y7 2 8 119 44
+n A7 VSS 8bitINV_0/Y7 2 4 119 8
+p A0 VDD 8bitINV_0/Y0 2 8 7 44
+n A0 VSS 8bitINV_0/Y0 2 4 7 8
+C VSS A7 2.19
+C A0 A1 4.59
+C VDD A7 3.22
+C A2 A3 8.72
+C 8bitAdder_0/Chain_HA_7/B VDD 2.19
+C 8bitAdder_0/Chain_HA_4/B VDD 2.19
+C 8bitINV_0/Y7 VSS 9.41
+C 8bitAdder_0/Chain_HA_1/B VDD 2.19
+C 8bitINV_0/Y7 VDD 2.34
+C 8bitINV_0/Y5 8bitINV_0/Y6 5.76
+C 8bitINV_0/Y4 VDD 2.44
+C A2 A1 7.15
+C 8bitINV_0/Y2 8bitINV_0/Y3 2.17
+C A3 A4 10.29
+C 8bitAdder_0/Chain_HA_6/B VDD 2.19
+C VSS S 3.45
+C 8bitINV_0/Y0 B 2.59
+C 8bitAdder_0/Chain_HA_3/B VDD 2.19
+C VDD S 8.07
+C A6 A7 15.00
+C 8bitINV_0/Y6 8bitINV_0/Y7 6.96
+C 8bitINV_0/Y6 VDD 2.44
+C 8bitINV_0/Y3 VDD 2.44
+C 8bitINV_0/Y3 8bitINV_0/Y4 3.36
+C A5 A6 13.43
+C 8bitINV_0/Y1 VDD 3.68
+C A4 A5 11.86
+C 8bitAdder_0/Chain_HA_5/B VDD 2.19
+C 8bitAdder_0/Chain_HA_2/B VDD 2.19
+C 8bitINV_0/Y0 VDD 2.69
+C 8bitINV_0/Y5 VDD 2.44
+C 8bitINV_0/Y4 8bitINV_0/Y5 4.56
+C 8bitINV_0/Y2 VDD 2.44
+C mux2x1_8_0/mux2x1_7/Sb GND 2.72
+R mux2x1_8_0/mux2x1_7/Sb 70
+= mux2x1_8_0/mux2x1_7/Sb mux2x1_8_0/mux2x1_7/AND2_0/B
+= mux2x1_8_0/mux2x1_7/Sb mux2x1_8_0/mux2x1_7/INV_0/Y
+C mux2x1_8_0/mux2x1_7/AND2_1/a_9_44# GND 2.02
+R mux2x1_8_0/mux2x1_7/AND2_1/a_9_44# 69
+C mux2x1_8_0/B7 GND 5.41
+R mux2x1_8_0/B7 87
+= mux2x1_8_0/B7 8bitAdder_0/S7
+= mux2x1_8_0/B7 8bitAdder_0/Chain_HA_7/S
+= mux2x1_8_0/B7 8bitAdder_0/Chain_HA_7/XOR2_0/Y
+= mux2x1_8_0/B7 m1_953_n176#
+= mux2x1_8_0/B7 mux2x1_8_0/mux2x1_7/I1
+= mux2x1_8_0/B7 mux2x1_8_0/mux2x1_7/AND2_1/A
+C mux2x1_8_0/mux2x1_7/OR2_0/B GND 3.61
+R mux2x1_8_0/mux2x1_7/OR2_0/B 72
+= mux2x1_8_0/mux2x1_7/OR2_0/B mux2x1_8_0/mux2x1_7/AND2_0/Y
+= mux2x1_8_0/mux2x1_7/OR2_0/B mux2x1_8_0/mux2x1_7/m1_50_n8#
+C mux2x1_8_0/mux2x1_7/AND2_0/a_9_44# GND 2.02
+R mux2x1_8_0/mux2x1_7/AND2_0/a_9_44# 69
+C A7 GND 29.57
+R A7 148
+= A7 8bitINV_0/A7
+= A7 8bitINV_0/INV_7/A
+= A7 mux2x1_8_0/A7
+= A7 mux2x1_8_0/mux2x1_7/I0
+= A7 mux2x1_8_0/mux2x1_7/AND2_0/A
+R Y7 12
+= Y7 mux2x1_8_0/Y7
+= Y7 mux2x1_8_0/mux2x1_7/Y
+= Y7 mux2x1_8_0/mux2x1_7/OR2_0/Y
+R mux2x1_8_0/mux2x1_7/OR2_0/a_9_8# 73
+R mux2x1_8_0/mux2x1_7/OR2_0/A 69
+= mux2x1_8_0/mux2x1_7/OR2_0/A mux2x1_8_0/mux2x1_7/AND2_1/Y
+= mux2x1_8_0/mux2x1_7/OR2_0/A mux2x1_8_0/mux2x1_7/m1_94_28#
+C mux2x1_8_0/mux2x1_6/Sb GND 2.72
+R mux2x1_8_0/mux2x1_6/Sb 70
+= mux2x1_8_0/mux2x1_6/Sb mux2x1_8_0/mux2x1_6/AND2_0/B
+= mux2x1_8_0/mux2x1_6/Sb mux2x1_8_0/mux2x1_6/INV_0/Y
+C S GND 50.29
+R S 1079
+= S mux2x1_8_0/S
+= S mux2x1_8_0/mux2x1_0/S
+= S mux2x1_8_0/mux2x1_0/AND2_1/B
+= S mux2x1_8_0/mux2x1_0/INV_0/A
+= S mux2x1_8_0/mux2x1_1/S
+= S mux2x1_8_0/mux2x1_1/AND2_1/B
+= S mux2x1_8_0/mux2x1_1/INV_0/A
+= S mux2x1_8_0/mux2x1_7/S
+= S mux2x1_8_0/mux2x1_3/S
+= S mux2x1_8_0/mux2x1_2/S
+= S mux2x1_8_0/mux2x1_2/AND2_1/B
+= S mux2x1_8_0/mux2x1_2/INV_0/A
+= S mux2x1_8_0/mux2x1_3/AND2_1/B
+= S mux2x1_8_0/mux2x1_3/INV_0/A
+= S mux2x1_8_0/mux2x1_4/S
+= S mux2x1_8_0/mux2x1_4/AND2_1/B
+= S mux2x1_8_0/mux2x1_4/INV_0/A
+= S mux2x1_8_0/mux2x1_7/AND2_1/B
+= S mux2x1_8_0/mux2x1_7/INV_0/A
+= S mux2x1_8_0/mux2x1_6/S
+= S mux2x1_8_0/mux2x1_5/S
+= S mux2x1_8_0/mux2x1_5/AND2_1/B
+= S mux2x1_8_0/mux2x1_5/INV_0/A
+= S mux2x1_8_0/mux2x1_6/AND2_1/B
+= S mux2x1_8_0/mux2x1_6/INV_0/A
+C mux2x1_8_0/mux2x1_6/AND2_1/a_9_44# GND 2.02
+R mux2x1_8_0/mux2x1_6/AND2_1/a_9_44# 69
+C mux2x1_8_0/B6 GND 5.05
+R mux2x1_8_0/B6 87
+= mux2x1_8_0/B6 8bitAdder_0/S6
+= mux2x1_8_0/B6 8bitAdder_0/Chain_HA_6/S
+= mux2x1_8_0/B6 8bitAdder_0/Chain_HA_6/XOR2_0/Y
+= mux2x1_8_0/B6 m1_833_n176#
+= mux2x1_8_0/B6 mux2x1_8_0/mux2x1_6/I1
+= mux2x1_8_0/B6 mux2x1_8_0/mux2x1_6/AND2_1/A
+C mux2x1_8_0/mux2x1_6/OR2_0/B GND 3.61
+R mux2x1_8_0/mux2x1_6/OR2_0/B 72
+= mux2x1_8_0/mux2x1_6/OR2_0/B mux2x1_8_0/mux2x1_6/AND2_0/Y
+= mux2x1_8_0/mux2x1_6/OR2_0/B mux2x1_8_0/mux2x1_6/m1_50_n8#
+C mux2x1_8_0/mux2x1_6/AND2_0/a_9_44# GND 2.02
+R mux2x1_8_0/mux2x1_6/AND2_0/a_9_44# 69
+C A6 GND 28.58
+R A6 151
+= A6 8bitINV_0/A6
+= A6 8bitINV_0/INV_6/A
+= A6 mux2x1_8_0/A6
+= A6 mux2x1_8_0/mux2x1_6/I0
+= A6 mux2x1_8_0/mux2x1_6/AND2_0/A
+R Y6 12
+= Y6 mux2x1_8_0/Y6
+= Y6 mux2x1_8_0/mux2x1_6/Y
+= Y6 mux2x1_8_0/mux2x1_6/OR2_0/Y
+R mux2x1_8_0/mux2x1_6/OR2_0/a_9_8# 73
+R mux2x1_8_0/mux2x1_6/OR2_0/A 69
+= mux2x1_8_0/mux2x1_6/OR2_0/A mux2x1_8_0/mux2x1_6/AND2_1/Y
+= mux2x1_8_0/mux2x1_6/OR2_0/A mux2x1_8_0/mux2x1_6/m1_94_28#
+C mux2x1_8_0/mux2x1_5/Sb GND 2.72
+R mux2x1_8_0/mux2x1_5/Sb 70
+= mux2x1_8_0/mux2x1_5/Sb mux2x1_8_0/mux2x1_5/AND2_0/B
+= mux2x1_8_0/mux2x1_5/Sb mux2x1_8_0/mux2x1_5/INV_0/Y
+C mux2x1_8_0/mux2x1_5/AND2_1/a_9_44# GND 2.02
+R mux2x1_8_0/mux2x1_5/AND2_1/a_9_44# 69
+C mux2x1_8_0/B5 GND 4.72
+R mux2x1_8_0/B5 86
+= mux2x1_8_0/B5 8bitAdder_0/S5
+= mux2x1_8_0/B5 8bitAdder_0/Chain_HA_5/S
+= mux2x1_8_0/B5 8bitAdder_0/Chain_HA_5/XOR2_0/Y
+= mux2x1_8_0/B5 m1_713_n176#
+= mux2x1_8_0/B5 mux2x1_8_0/mux2x1_5/I1
+= mux2x1_8_0/B5 mux2x1_8_0/mux2x1_5/AND2_1/A
+C mux2x1_8_0/mux2x1_5/OR2_0/B GND 3.61
+R mux2x1_8_0/mux2x1_5/OR2_0/B 72
+= mux2x1_8_0/mux2x1_5/OR2_0/B mux2x1_8_0/mux2x1_5/AND2_0/Y
+= mux2x1_8_0/mux2x1_5/OR2_0/B mux2x1_8_0/mux2x1_5/m1_50_n8#
+C mux2x1_8_0/mux2x1_5/AND2_0/a_9_44# GND 2.02
+R mux2x1_8_0/mux2x1_5/AND2_0/a_9_44# 69
+C A5 GND 25.58
+R A5 149
+= A5 8bitINV_0/A5
+= A5 8bitINV_0/INV_5/A
+= A5 mux2x1_8_0/A5
+= A5 mux2x1_8_0/mux2x1_5/I0
+= A5 mux2x1_8_0/mux2x1_5/AND2_0/A
+R Y5 12
+= Y5 mux2x1_8_0/Y5
+= Y5 mux2x1_8_0/mux2x1_5/Y
+= Y5 mux2x1_8_0/mux2x1_5/OR2_0/Y
+R mux2x1_8_0/mux2x1_5/OR2_0/a_9_8# 73
+R mux2x1_8_0/mux2x1_5/OR2_0/A 69
+= mux2x1_8_0/mux2x1_5/OR2_0/A mux2x1_8_0/mux2x1_5/AND2_1/Y
+= mux2x1_8_0/mux2x1_5/OR2_0/A mux2x1_8_0/mux2x1_5/m1_94_28#
+C mux2x1_8_0/mux2x1_4/Sb GND 2.72
+R mux2x1_8_0/mux2x1_4/Sb 70
+= mux2x1_8_0/mux2x1_4/Sb mux2x1_8_0/mux2x1_4/AND2_0/B
+= mux2x1_8_0/mux2x1_4/Sb mux2x1_8_0/mux2x1_4/INV_0/Y
+C mux2x1_8_0/mux2x1_4/AND2_1/a_9_44# GND 2.02
+R mux2x1_8_0/mux2x1_4/AND2_1/a_9_44# 69
+C mux2x1_8_0/B4 GND 4.31
+R mux2x1_8_0/B4 86
+= mux2x1_8_0/B4 8bitAdder_0/S4
+= mux2x1_8_0/B4 8bitAdder_0/Chain_HA_4/S
+= mux2x1_8_0/B4 8bitAdder_0/Chain_HA_4/XOR2_0/Y
+= mux2x1_8_0/B4 m1_593_n176#
+= mux2x1_8_0/B4 mux2x1_8_0/mux2x1_4/I1
+= mux2x1_8_0/B4 mux2x1_8_0/mux2x1_4/AND2_1/A
+C mux2x1_8_0/mux2x1_4/OR2_0/B GND 3.61
+R mux2x1_8_0/mux2x1_4/OR2_0/B 72
+= mux2x1_8_0/mux2x1_4/OR2_0/B mux2x1_8_0/mux2x1_4/AND2_0/Y
+= mux2x1_8_0/mux2x1_4/OR2_0/B mux2x1_8_0/mux2x1_4/m1_50_n8#
+C mux2x1_8_0/mux2x1_4/AND2_0/a_9_44# GND 2.02
+R mux2x1_8_0/mux2x1_4/AND2_0/a_9_44# 69
+C A4 GND 22.57
+R A4 147
+= A4 8bitINV_0/A4
+= A4 8bitINV_0/INV_4/A
+= A4 mux2x1_8_0/A4
+= A4 mux2x1_8_0/mux2x1_4/I0
+= A4 mux2x1_8_0/mux2x1_4/AND2_0/A
+R Y4 12
+= Y4 mux2x1_8_0/Y4
+= Y4 mux2x1_8_0/mux2x1_4/Y
+= Y4 mux2x1_8_0/mux2x1_4/OR2_0/Y
+R mux2x1_8_0/mux2x1_4/OR2_0/a_9_8# 73
+R mux2x1_8_0/mux2x1_4/OR2_0/A 69
+= mux2x1_8_0/mux2x1_4/OR2_0/A mux2x1_8_0/mux2x1_4/AND2_1/Y
+= mux2x1_8_0/mux2x1_4/OR2_0/A mux2x1_8_0/mux2x1_4/m1_94_28#
+C VSS GND 84.82
+R VSS 2363
+= VSS 8bitINV_0/VSS
+= VSS 8bitINV_0/INV_0/VSS
+= VSS 8bitINV_0/INV_7/VSS
+= VSS 8bitINV_0/INV_6/VSS
+= VSS 8bitINV_0/INV_1/VSS
+= VSS 8bitINV_0/INV_2/VSS
+= VSS 8bitINV_0/INV_3/VSS
+= VSS 8bitINV_0/INV_4/VSS
+= VSS 8bitINV_0/INV_5/VSS
+= VSS 8bitAdder_0/VSS
+= VSS 8bitAdder_0/Chain_HA_7/VSS
+= VSS 8bitAdder_0/Chain_HA_4/VSS
+= VSS 8bitAdder_0/Chain_HA_4/XOR2_0/VSS
+= VSS 8bitAdder_0/Chain_HA_7/XOR2_0/VSS
+= VSS 8bitAdder_0/Chain_HA_6/VSS
+= VSS 8bitAdder_0/Chain_HA_6/XOR2_0/VSS
+= VSS 8bitAdder_0/Chain_HA_5/VSS
+= VSS 8bitAdder_0/Chain_HA_5/XOR2_0/VSS
+= VSS 8bitAdder_0/Chain_HA_0/VSS
+= VSS 8bitAdder_0/Chain_HA_0/XOR2_0/VSS
+= VSS 8bitAdder_0/Chain_HA_3/VSS
+= VSS 8bitAdder_0/Chain_HA_3/XOR2_0/VSS
+= VSS 8bitAdder_0/Chain_HA_2/VSS
+= VSS 8bitAdder_0/Chain_HA_2/XOR2_0/VSS
+= VSS 8bitAdder_0/Chain_HA_1/VSS
+= VSS 8bitAdder_0/Chain_HA_1/XOR2_0/VSS
+= VSS mux2x1_8_0/VSS
+= VSS mux2x1_8_0/mux2x1_2/VSS
+= VSS mux2x1_8_0/mux2x1_2/AND2_0/VSS
+= VSS mux2x1_8_0/mux2x1_2/AND2_1/VSS
+= VSS mux2x1_8_0/mux2x1_2/OR2_0/VSS
+= VSS mux2x1_8_0/mux2x1_2/INV_0/VSS
+= VSS mux2x1_8_0/mux2x1_1/VSS
+= VSS mux2x1_8_0/mux2x1_1/AND2_0/VSS
+= VSS mux2x1_8_0/mux2x1_1/AND2_1/VSS
+= VSS mux2x1_8_0/mux2x1_1/OR2_0/VSS
+= VSS mux2x1_8_0/mux2x1_1/INV_0/VSS
+= VSS mux2x1_8_0/mux2x1_0/VSS
+= VSS mux2x1_8_0/mux2x1_0/AND2_0/VSS
+= VSS mux2x1_8_0/mux2x1_0/AND2_1/VSS
+= VSS mux2x1_8_0/mux2x1_0/OR2_0/VSS
+= VSS mux2x1_8_0/mux2x1_0/INV_0/VSS
+= VSS mux2x1_8_0/mux2x1_7/VSS
+= VSS mux2x1_8_0/mux2x1_7/AND2_0/VSS
+= VSS mux2x1_8_0/mux2x1_7/AND2_1/VSS
+= VSS mux2x1_8_0/mux2x1_7/OR2_0/VSS
+= VSS mux2x1_8_0/mux2x1_7/INV_0/VSS
+= VSS mux2x1_8_0/mux2x1_6/VSS
+= VSS mux2x1_8_0/mux2x1_6/AND2_0/VSS
+= VSS mux2x1_8_0/mux2x1_6/AND2_1/VSS
+= VSS mux2x1_8_0/mux2x1_6/OR2_0/VSS
+= VSS mux2x1_8_0/mux2x1_6/INV_0/VSS
+= VSS mux2x1_8_0/mux2x1_5/VSS
+= VSS mux2x1_8_0/mux2x1_5/AND2_0/VSS
+= VSS mux2x1_8_0/mux2x1_5/AND2_1/VSS
+= VSS mux2x1_8_0/mux2x1_5/OR2_0/VSS
+= VSS mux2x1_8_0/mux2x1_5/INV_0/VSS
+= VSS mux2x1_8_0/mux2x1_4/VSS
+= VSS mux2x1_8_0/mux2x1_4/AND2_0/VSS
+= VSS mux2x1_8_0/mux2x1_4/AND2_1/VSS
+= VSS mux2x1_8_0/mux2x1_4/OR2_0/VSS
+= VSS mux2x1_8_0/mux2x1_4/INV_0/VSS
+= VSS mux2x1_8_0/mux2x1_3/VSS
+= VSS mux2x1_8_0/mux2x1_3/AND2_0/VSS
+= VSS mux2x1_8_0/mux2x1_3/AND2_1/VSS
+= VSS mux2x1_8_0/mux2x1_3/OR2_0/VSS
+= VSS mux2x1_8_0/mux2x1_3/INV_0/VSS
+C mux2x1_8_0/mux2x1_3/Sb GND 2.72
+R mux2x1_8_0/mux2x1_3/Sb 70
+= mux2x1_8_0/mux2x1_3/Sb mux2x1_8_0/mux2x1_3/AND2_0/B
+= mux2x1_8_0/mux2x1_3/Sb mux2x1_8_0/mux2x1_3/INV_0/Y
+C VDD GND 588.68
+R VDD 58688
+= VDD 8bitINV_0/VDD
+= VDD 8bitINV_0/INV_0/VDD
+= VDD 8bitINV_0/INV_7/VDD
+= VDD 8bitINV_0/INV_6/VDD
+= VDD 8bitINV_0/w_0_56#
+= VDD 8bitINV_0/INV_1/VDD
+= VDD 8bitINV_0/INV_2/VDD
+= VDD 8bitINV_0/INV_3/VDD
+= VDD 8bitINV_0/INV_4/VDD
+= VDD 8bitINV_0/INV_5/VDD
+= VDD 8bitAdder_0/VDD
+= VDD 8bitAdder_0/Chain_HA_7/VDD
+= VDD 8bitAdder_0/Chain_HA_4/VDD
+= VDD 8bitAdder_0/Chain_HA_4/XOR2_0/VDD
+= VDD 8bitAdder_0/Chain_HA_7/XOR2_0/VDD
+= VDD 8bitAdder_0/Chain_HA_6/VDD
+= VDD 8bitAdder_0/Chain_HA_6/XOR2_0/VDD
+= VDD 8bitAdder_0/Chain_HA_5/VDD
+= VDD 8bitAdder_0/Chain_HA_5/XOR2_0/VDD
+= VDD 8bitAdder_0/Chain_HA_0/VDD
+= VDD 8bitAdder_0/Chain_HA_0/XOR2_0/VDD
+= VDD 8bitAdder_0/Chain_HA_3/VDD
+= VDD 8bitAdder_0/Chain_HA_3/XOR2_0/VDD
+= VDD 8bitAdder_0/Chain_HA_2/VDD
+= VDD 8bitAdder_0/Chain_HA_2/XOR2_0/VDD
+= VDD 8bitAdder_0/Chain_HA_1/VDD
+= VDD 8bitAdder_0/Chain_HA_1/XOR2_0/VDD
+= VDD mux2x1_8_0/VDD
+= VDD mux2x1_8_0/mux2x1_2/VDD
+= VDD mux2x1_8_0/mux2x1_2/AND2_0/VDD
+= VDD mux2x1_8_0/mux2x1_2/AND2_1/VDD
+= VDD mux2x1_8_0/mux2x1_2/OR2_0/VDD
+= VDD mux2x1_8_0/mux2x1_2/INV_0/VDD
+= VDD mux2x1_8_0/mux2x1_1/VDD
+= VDD mux2x1_8_0/mux2x1_1/AND2_0/VDD
+= VDD mux2x1_8_0/mux2x1_1/AND2_1/VDD
+= VDD mux2x1_8_0/mux2x1_1/OR2_0/VDD
+= VDD mux2x1_8_0/mux2x1_1/INV_0/VDD
+= VDD mux2x1_8_0/mux2x1_0/VDD
+= VDD mux2x1_8_0/mux2x1_0/AND2_0/VDD
+= VDD mux2x1_8_0/mux2x1_0/AND2_1/VDD
+= VDD mux2x1_8_0/mux2x1_0/OR2_0/VDD
+= VDD mux2x1_8_0/mux2x1_0/INV_0/VDD
+= VDD mux2x1_8_0/mux2x1_7/VDD
+= VDD mux2x1_8_0/mux2x1_7/AND2_0/VDD
+= VDD mux2x1_8_0/mux2x1_7/AND2_1/VDD
+= VDD mux2x1_8_0/mux2x1_7/OR2_0/VDD
+= VDD mux2x1_8_0/mux2x1_7/INV_0/VDD
+= VDD mux2x1_8_0/mux2x1_6/VDD
+= VDD mux2x1_8_0/mux2x1_6/AND2_0/VDD
+= VDD mux2x1_8_0/mux2x1_6/AND2_1/VDD
+= VDD mux2x1_8_0/mux2x1_6/OR2_0/VDD
+= VDD mux2x1_8_0/mux2x1_6/INV_0/VDD
+= VDD mux2x1_8_0/mux2x1_5/VDD
+= VDD mux2x1_8_0/mux2x1_5/AND2_0/VDD
+= VDD mux2x1_8_0/mux2x1_5/AND2_1/VDD
+= VDD mux2x1_8_0/mux2x1_5/OR2_0/VDD
+= VDD mux2x1_8_0/mux2x1_5/INV_0/VDD
+= VDD mux2x1_8_0/mux2x1_4/VDD
+= VDD mux2x1_8_0/mux2x1_4/AND2_0/VDD
+= VDD mux2x1_8_0/mux2x1_4/AND2_1/VDD
+= VDD mux2x1_8_0/mux2x1_4/OR2_0/VDD
+= VDD mux2x1_8_0/mux2x1_4/INV_0/VDD
+= VDD mux2x1_8_0/mux2x1_3/VDD
+= VDD mux2x1_8_0/mux2x1_3/AND2_0/VDD
+= VDD mux2x1_8_0/mux2x1_3/AND2_1/VDD
+= VDD mux2x1_8_0/mux2x1_3/OR2_0/VDD
+= VDD mux2x1_8_0/mux2x1_3/INV_0/VDD
+C mux2x1_8_0/mux2x1_3/AND2_1/a_9_44# GND 2.02
+R mux2x1_8_0/mux2x1_3/AND2_1/a_9_44# 69
+C mux2x1_8_0/B3 GND 4.27
+R mux2x1_8_0/B3 86
+= mux2x1_8_0/B3 8bitAdder_0/S3
+= mux2x1_8_0/B3 8bitAdder_0/Chain_HA_3/S
+= mux2x1_8_0/B3 8bitAdder_0/Chain_HA_3/XOR2_0/Y
+= mux2x1_8_0/B3 m1_466_n176#
+= mux2x1_8_0/B3 mux2x1_8_0/mux2x1_3/I1
+= mux2x1_8_0/B3 mux2x1_8_0/mux2x1_3/AND2_1/A
+C mux2x1_8_0/mux2x1_3/OR2_0/B GND 3.61
+R mux2x1_8_0/mux2x1_3/OR2_0/B 72
+= mux2x1_8_0/mux2x1_3/OR2_0/B mux2x1_8_0/mux2x1_3/AND2_0/Y
+= mux2x1_8_0/mux2x1_3/OR2_0/B mux2x1_8_0/mux2x1_3/m1_50_n8#
+C mux2x1_8_0/mux2x1_3/AND2_0/a_9_44# GND 2.02
+R mux2x1_8_0/mux2x1_3/AND2_0/a_9_44# 69
+C A3 GND 19.57
+R A3 145
+= A3 8bitINV_0/A3
+= A3 8bitINV_0/INV_3/A
+= A3 mux2x1_8_0/A3
+= A3 mux2x1_8_0/mux2x1_3/I0
+= A3 mux2x1_8_0/mux2x1_3/AND2_0/A
+R Y3 12
+= Y3 mux2x1_8_0/Y3
+= Y3 mux2x1_8_0/mux2x1_3/Y
+= Y3 mux2x1_8_0/mux2x1_3/OR2_0/Y
+R mux2x1_8_0/mux2x1_3/OR2_0/a_9_8# 73
+R mux2x1_8_0/mux2x1_3/OR2_0/A 69
+= mux2x1_8_0/mux2x1_3/OR2_0/A mux2x1_8_0/mux2x1_3/AND2_1/Y
+= mux2x1_8_0/mux2x1_3/OR2_0/A mux2x1_8_0/mux2x1_3/m1_94_28#
+C mux2x1_8_0/mux2x1_2/Sb GND 2.72
+R mux2x1_8_0/mux2x1_2/Sb 70
+= mux2x1_8_0/mux2x1_2/Sb mux2x1_8_0/mux2x1_2/AND2_0/B
+= mux2x1_8_0/mux2x1_2/Sb mux2x1_8_0/mux2x1_2/INV_0/Y
+C mux2x1_8_0/mux2x1_2/AND2_1/a_9_44# GND 2.02
+R mux2x1_8_0/mux2x1_2/AND2_1/a_9_44# 69
+C mux2x1_8_0/B2 GND 4.66
+R mux2x1_8_0/B2 86
+= mux2x1_8_0/B2 8bitAdder_0/S2
+= mux2x1_8_0/B2 8bitAdder_0/Chain_HA_2/S
+= mux2x1_8_0/B2 8bitAdder_0/Chain_HA_2/XOR2_0/Y
+= mux2x1_8_0/B2 m1_330_n176#
+= mux2x1_8_0/B2 mux2x1_8_0/mux2x1_2/I1
+= mux2x1_8_0/B2 mux2x1_8_0/mux2x1_2/AND2_1/A
+C mux2x1_8_0/mux2x1_2/OR2_0/B GND 3.61
+R mux2x1_8_0/mux2x1_2/OR2_0/B 72
+= mux2x1_8_0/mux2x1_2/OR2_0/B mux2x1_8_0/mux2x1_2/AND2_0/Y
+= mux2x1_8_0/mux2x1_2/OR2_0/B mux2x1_8_0/mux2x1_2/m1_50_n8#
+C mux2x1_8_0/mux2x1_2/AND2_0/a_9_44# GND 2.02
+R mux2x1_8_0/mux2x1_2/AND2_0/a_9_44# 69
+C A2 GND 16.57
+R A2 143
+= A2 8bitINV_0/A2
+= A2 8bitINV_0/INV_2/A
+= A2 mux2x1_8_0/A2
+= A2 mux2x1_8_0/mux2x1_2/I0
+= A2 mux2x1_8_0/mux2x1_2/AND2_0/A
+R Y2 12
+= Y2 mux2x1_8_0/Y2
+= Y2 mux2x1_8_0/mux2x1_2/Y
+= Y2 mux2x1_8_0/mux2x1_2/OR2_0/Y
+R mux2x1_8_0/mux2x1_2/OR2_0/a_9_8# 73
+R mux2x1_8_0/mux2x1_2/OR2_0/A 69
+= mux2x1_8_0/mux2x1_2/OR2_0/A mux2x1_8_0/mux2x1_2/AND2_1/Y
+= mux2x1_8_0/mux2x1_2/OR2_0/A mux2x1_8_0/mux2x1_2/m1_94_28#
+C mux2x1_8_0/mux2x1_1/Sb GND 2.72
+R mux2x1_8_0/mux2x1_1/Sb 70
+= mux2x1_8_0/mux2x1_1/Sb mux2x1_8_0/mux2x1_1/AND2_0/B
+= mux2x1_8_0/mux2x1_1/Sb mux2x1_8_0/mux2x1_1/INV_0/Y
+C mux2x1_8_0/mux2x1_1/AND2_1/a_9_44# GND 2.02
+R mux2x1_8_0/mux2x1_1/AND2_1/a_9_44# 69
+C mux2x1_8_0/B1 GND 4.38
+R mux2x1_8_0/B1 86
+= mux2x1_8_0/B1 8bitAdder_0/S1
+= mux2x1_8_0/B1 8bitAdder_0/Chain_HA_1/S
+= mux2x1_8_0/B1 8bitAdder_0/Chain_HA_1/XOR2_0/Y
+= mux2x1_8_0/B1 m1_194_n176#
+= mux2x1_8_0/B1 mux2x1_8_0/mux2x1_1/I1
+= mux2x1_8_0/B1 mux2x1_8_0/mux2x1_1/AND2_1/A
+C mux2x1_8_0/mux2x1_1/OR2_0/B GND 3.61
+R mux2x1_8_0/mux2x1_1/OR2_0/B 72
+= mux2x1_8_0/mux2x1_1/OR2_0/B mux2x1_8_0/mux2x1_1/AND2_0/Y
+= mux2x1_8_0/mux2x1_1/OR2_0/B mux2x1_8_0/mux2x1_1/m1_50_n8#
+C mux2x1_8_0/mux2x1_1/AND2_0/a_9_44# GND 2.02
+R mux2x1_8_0/mux2x1_1/AND2_0/a_9_44# 69
+C A1 GND 12.65
+R A1 140
+= A1 8bitINV_0/A1
+= A1 8bitINV_0/INV_1/A
+= A1 mux2x1_8_0/A1
+= A1 mux2x1_8_0/mux2x1_1/I0
+= A1 mux2x1_8_0/mux2x1_1/AND2_0/A
+R Y1 12
+= Y1 mux2x1_8_0/Y1
+= Y1 mux2x1_8_0/mux2x1_1/Y
+= Y1 mux2x1_8_0/mux2x1_1/OR2_0/Y
+R mux2x1_8_0/mux2x1_1/OR2_0/a_9_8# 73
+R mux2x1_8_0/mux2x1_1/OR2_0/A 69
+= mux2x1_8_0/mux2x1_1/OR2_0/A mux2x1_8_0/mux2x1_1/AND2_1/Y
+= mux2x1_8_0/mux2x1_1/OR2_0/A mux2x1_8_0/mux2x1_1/m1_94_28#
+C mux2x1_8_0/mux2x1_0/Sb GND 2.72
+R mux2x1_8_0/mux2x1_0/Sb 70
+= mux2x1_8_0/mux2x1_0/Sb mux2x1_8_0/mux2x1_0/AND2_0/B
+= mux2x1_8_0/mux2x1_0/Sb mux2x1_8_0/mux2x1_0/INV_0/Y
+C mux2x1_8_0/mux2x1_0/AND2_1/a_9_44# GND 2.02
+R mux2x1_8_0/mux2x1_0/AND2_1/a_9_44# 69
+C mux2x1_8_0/B0 GND 5.39
+R mux2x1_8_0/B0 87
+= mux2x1_8_0/B0 8bitAdder_0/S0
+= mux2x1_8_0/B0 8bitAdder_0/Chain_HA_0/S
+= mux2x1_8_0/B0 8bitAdder_0/Chain_HA_0/XOR2_0/Y
+= mux2x1_8_0/B0 m1_58_n176#
+= mux2x1_8_0/B0 mux2x1_8_0/mux2x1_0/I1
+= mux2x1_8_0/B0 mux2x1_8_0/mux2x1_0/AND2_1/A
+C mux2x1_8_0/mux2x1_0/OR2_0/B GND 3.61
+R mux2x1_8_0/mux2x1_0/OR2_0/B 72
+= mux2x1_8_0/mux2x1_0/OR2_0/B mux2x1_8_0/mux2x1_0/AND2_0/Y
+= mux2x1_8_0/mux2x1_0/OR2_0/B mux2x1_8_0/mux2x1_0/m1_50_n8#
+C mux2x1_8_0/mux2x1_0/AND2_0/a_9_44# GND 2.02
+R mux2x1_8_0/mux2x1_0/AND2_0/a_9_44# 69
+C A0 GND 10.79
+R A0 139
+= A0 8bitINV_0/A0
+= A0 8bitINV_0/INV_0/A
+= A0 mux2x1_8_0/A0
+= A0 mux2x1_8_0/mux2x1_0/I0
+= A0 mux2x1_8_0/mux2x1_0/AND2_0/A
+R Y0 12
+= Y0 mux2x1_8_0/Y0
+= Y0 mux2x1_8_0/mux2x1_0/Y
+= Y0 mux2x1_8_0/mux2x1_0/OR2_0/Y
+R mux2x1_8_0/mux2x1_0/OR2_0/a_9_8# 73
+R mux2x1_8_0/mux2x1_0/OR2_0/A 69
+= mux2x1_8_0/mux2x1_0/OR2_0/A mux2x1_8_0/mux2x1_0/AND2_1/Y
+= mux2x1_8_0/mux2x1_0/OR2_0/A mux2x1_8_0/mux2x1_0/m1_94_28#
+C 8bitAdder_0/Chain_HA_7/Co GND 3.18
+R 8bitAdder_0/Chain_HA_7/Co 12
+C 8bitAdder_0/Chain_HA_7/a_9_52# GND 2.02
+R 8bitAdder_0/Chain_HA_7/a_9_52# 79
+R 8bitAdder_0/Chain_HA_7/XOR2_0/a_2_44# 25
+C 8bitAdder_0/Chain_HA_7/XOR2_0/a_n7_8# GND 3.67
+R 8bitAdder_0/Chain_HA_7/XOR2_0/a_n7_8# 66
+C 8bitAdder_0/Chain_HA_7/XOR2_0/a_n23_8# GND 3.71
+R 8bitAdder_0/Chain_HA_7/XOR2_0/a_n23_8# 64
+C 8bitAdder_0/Chain_HA_7/B GND 10.40
+R 8bitAdder_0/Chain_HA_7/B 214
+= 8bitAdder_0/Chain_HA_7/B 8bitAdder_0/Chain_HA_6/Co
+= 8bitAdder_0/Chain_HA_7/B 8bitAdder_0/Chain_HA_7/XOR2_0/B
+C 8bitINV_0/Y7 GND 24.83
+R 8bitINV_0/Y7 225
+= 8bitINV_0/Y7 8bitINV_0/INV_7/Y
+= 8bitINV_0/Y7 8bitAdder_0/A7
+= 8bitINV_0/Y7 m1_122_n8#
+= 8bitINV_0/Y7 8bitAdder_0/m2_841_32#
+= 8bitINV_0/Y7 8bitAdder_0/Chain_HA_7/A
+= 8bitINV_0/Y7 8bitAdder_0/Chain_HA_7/XOR2_0/A
+C 8bitAdder_0/Chain_HA_6/a_9_52# GND 2.02
+R 8bitAdder_0/Chain_HA_6/a_9_52# 79
+R 8bitAdder_0/Chain_HA_6/XOR2_0/a_2_44# 25
+C 8bitAdder_0/Chain_HA_6/XOR2_0/a_n7_8# GND 3.67
+R 8bitAdder_0/Chain_HA_6/XOR2_0/a_n7_8# 66
+C 8bitAdder_0/Chain_HA_6/XOR2_0/a_n23_8# GND 3.71
+R 8bitAdder_0/Chain_HA_6/XOR2_0/a_n23_8# 64
+C 8bitAdder_0/Chain_HA_6/B GND 10.40
+R 8bitAdder_0/Chain_HA_6/B 214
+= 8bitAdder_0/Chain_HA_6/B 8bitAdder_0/Chain_HA_5/Co
+= 8bitAdder_0/Chain_HA_6/B 8bitAdder_0/Chain_HA_6/XOR2_0/B
+C 8bitINV_0/Y6 GND 22.41
+R 8bitINV_0/Y6 223
+= 8bitINV_0/Y6 8bitINV_0/INV_6/Y
+= 8bitINV_0/Y6 8bitAdder_0/A6
+= 8bitINV_0/Y6 m1_106_n16#
+= 8bitINV_0/Y6 8bitAdder_0/m2_721_32#
+= 8bitINV_0/Y6 8bitAdder_0/Chain_HA_6/A
+= 8bitINV_0/Y6 8bitAdder_0/Chain_HA_6/XOR2_0/A
+C 8bitAdder_0/Chain_HA_5/a_9_52# GND 2.02
+R 8bitAdder_0/Chain_HA_5/a_9_52# 79
+R 8bitAdder_0/Chain_HA_5/XOR2_0/a_2_44# 25
+C 8bitAdder_0/Chain_HA_5/XOR2_0/a_n7_8# GND 3.67
+R 8bitAdder_0/Chain_HA_5/XOR2_0/a_n7_8# 66
+C 8bitAdder_0/Chain_HA_5/XOR2_0/a_n23_8# GND 3.71
+R 8bitAdder_0/Chain_HA_5/XOR2_0/a_n23_8# 64
+C 8bitAdder_0/Chain_HA_5/B GND 10.35
+R 8bitAdder_0/Chain_HA_5/B 214
+= 8bitAdder_0/Chain_HA_5/B 8bitAdder_0/Chain_HA_4/Co
+= 8bitAdder_0/Chain_HA_5/B 8bitAdder_0/Chain_HA_5/XOR2_0/B
+C 8bitINV_0/Y5 GND 19.98
+R 8bitINV_0/Y5 221
+= 8bitINV_0/Y5 8bitINV_0/INV_5/Y
+= 8bitINV_0/Y5 8bitAdder_0/A5
+= 8bitINV_0/Y5 m1_90_n24#
+= 8bitINV_0/Y5 8bitAdder_0/m2_601_32#
+= 8bitINV_0/Y5 8bitAdder_0/Chain_HA_5/A
+= 8bitINV_0/Y5 8bitAdder_0/Chain_HA_5/XOR2_0/A
+C 8bitAdder_0/Chain_HA_4/a_9_52# GND 2.02
+R 8bitAdder_0/Chain_HA_4/a_9_52# 79
+R 8bitAdder_0/Chain_HA_4/XOR2_0/a_2_44# 25
+C 8bitAdder_0/Chain_HA_4/XOR2_0/a_n7_8# GND 3.67
+R 8bitAdder_0/Chain_HA_4/XOR2_0/a_n7_8# 66
+C 8bitAdder_0/Chain_HA_4/XOR2_0/a_n23_8# GND 3.71
+R 8bitAdder_0/Chain_HA_4/XOR2_0/a_n23_8# 64
+C 8bitAdder_0/Chain_HA_4/B GND 10.40
+R 8bitAdder_0/Chain_HA_4/B 214
+= 8bitAdder_0/Chain_HA_4/B 8bitAdder_0/Chain_HA_3/Co
+= 8bitAdder_0/Chain_HA_4/B 8bitAdder_0/Chain_HA_4/XOR2_0/B
+C 8bitINV_0/Y4 GND 17.56
+R 8bitINV_0/Y4 220
+= 8bitINV_0/Y4 8bitINV_0/INV_4/Y
+= 8bitINV_0/Y4 8bitAdder_0/A4
+= 8bitINV_0/Y4 m1_74_n32#
+= 8bitINV_0/Y4 8bitAdder_0/m2_481_32#
+= 8bitINV_0/Y4 8bitAdder_0/Chain_HA_4/A
+= 8bitINV_0/Y4 8bitAdder_0/Chain_HA_4/XOR2_0/A
+C 8bitAdder_0/Chain_HA_3/a_9_52# GND 2.02
+R 8bitAdder_0/Chain_HA_3/a_9_52# 79
+R 8bitAdder_0/Chain_HA_3/XOR2_0/a_2_44# 25
+C 8bitAdder_0/Chain_HA_3/XOR2_0/a_n7_8# GND 3.67
+R 8bitAdder_0/Chain_HA_3/XOR2_0/a_n7_8# 66
+C 8bitAdder_0/Chain_HA_3/XOR2_0/a_n23_8# GND 3.71
+R 8bitAdder_0/Chain_HA_3/XOR2_0/a_n23_8# 64
+C 8bitAdder_0/Chain_HA_3/B GND 10.40
+R 8bitAdder_0/Chain_HA_3/B 214
+= 8bitAdder_0/Chain_HA_3/B 8bitAdder_0/Chain_HA_2/Co
+= 8bitAdder_0/Chain_HA_3/B 8bitAdder_0/Chain_HA_3/XOR2_0/B
+C 8bitINV_0/Y3 GND 15.13
+R 8bitINV_0/Y3 218
+= 8bitINV_0/Y3 8bitINV_0/INV_3/Y
+= 8bitINV_0/Y3 8bitAdder_0/A3
+= 8bitINV_0/Y3 m1_58_n40#
+= 8bitINV_0/Y3 8bitAdder_0/m2_361_32#
+= 8bitINV_0/Y3 8bitAdder_0/Chain_HA_3/A
+= 8bitINV_0/Y3 8bitAdder_0/Chain_HA_3/XOR2_0/A
+C 8bitAdder_0/Chain_HA_2/a_9_52# GND 2.02
+R 8bitAdder_0/Chain_HA_2/a_9_52# 79
+R 8bitAdder_0/Chain_HA_2/XOR2_0/a_2_44# 25
+C 8bitAdder_0/Chain_HA_2/XOR2_0/a_n7_8# GND 3.67
+R 8bitAdder_0/Chain_HA_2/XOR2_0/a_n7_8# 66
+C 8bitAdder_0/Chain_HA_2/XOR2_0/a_n23_8# GND 3.71
+R 8bitAdder_0/Chain_HA_2/XOR2_0/a_n23_8# 64
+C 8bitAdder_0/Chain_HA_2/B GND 10.40
+R 8bitAdder_0/Chain_HA_2/B 214
+= 8bitAdder_0/Chain_HA_2/B 8bitAdder_0/Chain_HA_1/Co
+= 8bitAdder_0/Chain_HA_2/B 8bitAdder_0/Chain_HA_2/XOR2_0/B
+C 8bitINV_0/Y2 GND 12.73
+R 8bitINV_0/Y2 216
+= 8bitINV_0/Y2 8bitINV_0/INV_2/Y
+= 8bitINV_0/Y2 8bitAdder_0/A2
+= 8bitINV_0/Y2 m1_42_n48#
+= 8bitINV_0/Y2 8bitAdder_0/m2_242_32#
+= 8bitINV_0/Y2 8bitAdder_0/Chain_HA_2/A
+= 8bitINV_0/Y2 8bitAdder_0/Chain_HA_2/XOR2_0/A
+C 8bitAdder_0/Chain_HA_1/a_9_52# GND 2.02
+R 8bitAdder_0/Chain_HA_1/a_9_52# 79
+R 8bitAdder_0/Chain_HA_1/XOR2_0/a_2_44# 25
+C 8bitAdder_0/Chain_HA_1/XOR2_0/a_n7_8# GND 3.67
+R 8bitAdder_0/Chain_HA_1/XOR2_0/a_n7_8# 66
+C 8bitAdder_0/Chain_HA_1/XOR2_0/a_n23_8# GND 3.71
+R 8bitAdder_0/Chain_HA_1/XOR2_0/a_n23_8# 64
+C 8bitAdder_0/Chain_HA_1/B GND 10.40
+R 8bitAdder_0/Chain_HA_1/B 214
+= 8bitAdder_0/Chain_HA_1/B 8bitAdder_0/Chain_HA_0/Co
+= 8bitAdder_0/Chain_HA_1/B 8bitAdder_0/Chain_HA_1/XOR2_0/B
+C 8bitINV_0/Y1 GND 10.30
+R 8bitINV_0/Y1 214
+= 8bitINV_0/Y1 8bitINV_0/INV_1/Y
+= 8bitINV_0/Y1 8bitAdder_0/A1
+= 8bitINV_0/Y1 m1_26_n56#
+= 8bitINV_0/Y1 8bitAdder_0/m2_122_32#
+= 8bitINV_0/Y1 8bitAdder_0/Chain_HA_1/A
+= 8bitINV_0/Y1 8bitAdder_0/Chain_HA_1/XOR2_0/A
+C 8bitAdder_0/Chain_HA_0/a_9_52# GND 2.02
+R 8bitAdder_0/Chain_HA_0/a_9_52# 79
+R 8bitAdder_0/Chain_HA_0/XOR2_0/a_2_44# 25
+C 8bitAdder_0/Chain_HA_0/XOR2_0/a_n7_8# GND 3.67
+R 8bitAdder_0/Chain_HA_0/XOR2_0/a_n7_8# 66
+C 8bitAdder_0/Chain_HA_0/XOR2_0/a_n23_8# GND 3.71
+R 8bitAdder_0/Chain_HA_0/XOR2_0/a_n23_8# 64
+C B GND 7.22
+R B 203
+= B a_18_n96#
+= B 8bitAdder_0/B
+= B 8bitAdder_0/m2_18_32#
+= B 8bitAdder_0/Chain_HA_0/B
+= B 8bitAdder_0/Chain_HA_0/XOR2_0/B
+C 8bitINV_0/Y0 GND 7.89
+R 8bitINV_0/Y0 211
+= 8bitINV_0/Y0 8bitINV_0/INV_0/Y
+= 8bitINV_0/Y0 8bitAdder_0/A0
+= 8bitINV_0/Y0 m1_10_n144#
+= 8bitINV_0/Y0 8bitAdder_0/m2_2_32#
+= 8bitINV_0/Y0 8bitAdder_0/Chain_HA_0/A
+= 8bitINV_0/Y0 8bitAdder_0/Chain_HA_0/XOR2_0/A

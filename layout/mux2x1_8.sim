@@ -1,0 +1,473 @@
+| units: 30 tech: scmos format: MIT
+p mux2x1_0/OR2_0/A VDD mux2x1_0/OR2_0/a_9_36# 2 16 103 36
+p mux2x1_0/OR2_0/a_9_8# VDD Y0 2 16 127 36
+n mux2x1_0/OR2_0/B mux2x1_0/OR2_0/a_9_8# VSS 2 4 111 8
+n mux2x1_0/OR2_0/A VSS mux2x1_0/OR2_0/a_9_8# 2 4 103 8
+n mux2x1_0/OR2_0/a_9_8# VSS Y0 2 4 127 8
+p mux2x1_0/OR2_0/B mux2x1_0/OR2_0/a_9_36# mux2x1_0/OR2_0/a_9_8# 2 16 111 36
+p A0 VDD mux2x1_0/AND2_0/a_9_44# 2 8 23 44
+p mux2x1_0/AND2_0/a_9_44# VDD mux2x1_0/OR2_0/B 2 8 47 44
+n mux2x1_0/Sb mux2x1_0/AND2_0/a_9_8# mux2x1_0/AND2_0/a_9_44# 2 8 31 8
+n A0 VSS mux2x1_0/AND2_0/a_9_8# 2 8 23 8
+n mux2x1_0/AND2_0/a_9_44# VSS mux2x1_0/OR2_0/B 2 8 47 8
+p mux2x1_0/Sb mux2x1_0/AND2_0/a_9_44# VDD 2 8 31 44
+p B0 VDD mux2x1_0/AND2_1/a_9_44# 2 8 63 44
+p mux2x1_0/AND2_1/a_9_44# VDD mux2x1_0/OR2_0/A 2 8 87 44
+n S mux2x1_0/AND2_1/a_9_8# mux2x1_0/AND2_1/a_9_44# 2 8 71 8
+n B0 VSS mux2x1_0/AND2_1/a_9_8# 2 8 63 8
+n mux2x1_0/AND2_1/a_9_44# VSS mux2x1_0/OR2_0/A 2 8 87 8
+p S mux2x1_0/AND2_1/a_9_44# VDD 2 8 71 44
+p S VDD mux2x1_0/Sb 2 8 7 44
+n S VSS mux2x1_0/Sb 2 4 7 8
+p mux2x1_1/OR2_0/A VDD mux2x1_1/OR2_0/a_9_36# 2 16 239 36
+p mux2x1_1/OR2_0/a_9_8# VDD Y1 2 16 263 36
+n mux2x1_1/OR2_0/B mux2x1_1/OR2_0/a_9_8# VSS 2 4 247 8
+n mux2x1_1/OR2_0/A VSS mux2x1_1/OR2_0/a_9_8# 2 4 239 8
+n mux2x1_1/OR2_0/a_9_8# VSS Y1 2 4 263 8
+p mux2x1_1/OR2_0/B mux2x1_1/OR2_0/a_9_36# mux2x1_1/OR2_0/a_9_8# 2 16 247 36
+p A1 VDD mux2x1_1/AND2_0/a_9_44# 2 8 159 44
+p mux2x1_1/AND2_0/a_9_44# VDD mux2x1_1/OR2_0/B 2 8 183 44
+n mux2x1_1/Sb mux2x1_1/AND2_0/a_9_8# mux2x1_1/AND2_0/a_9_44# 2 8 167 8
+n A1 VSS mux2x1_1/AND2_0/a_9_8# 2 8 159 8
+n mux2x1_1/AND2_0/a_9_44# VSS mux2x1_1/OR2_0/B 2 8 183 8
+p mux2x1_1/Sb mux2x1_1/AND2_0/a_9_44# VDD 2 8 167 44
+p B1 VDD mux2x1_1/AND2_1/a_9_44# 2 8 199 44
+p mux2x1_1/AND2_1/a_9_44# VDD mux2x1_1/OR2_0/A 2 8 223 44
+n S mux2x1_1/AND2_1/a_9_8# mux2x1_1/AND2_1/a_9_44# 2 8 207 8
+n B1 VSS mux2x1_1/AND2_1/a_9_8# 2 8 199 8
+n mux2x1_1/AND2_1/a_9_44# VSS mux2x1_1/OR2_0/A 2 8 223 8
+p S mux2x1_1/AND2_1/a_9_44# VDD 2 8 207 44
+p S VDD mux2x1_1/Sb 2 8 143 44
+n S VSS mux2x1_1/Sb 2 4 143 8
+p mux2x1_2/OR2_0/A VDD mux2x1_2/OR2_0/a_9_36# 2 16 375 36
+p mux2x1_2/OR2_0/a_9_8# VDD Y2 2 16 399 36
+n mux2x1_2/OR2_0/B mux2x1_2/OR2_0/a_9_8# VSS 2 4 383 8
+n mux2x1_2/OR2_0/A VSS mux2x1_2/OR2_0/a_9_8# 2 4 375 8
+n mux2x1_2/OR2_0/a_9_8# VSS Y2 2 4 399 8
+p mux2x1_2/OR2_0/B mux2x1_2/OR2_0/a_9_36# mux2x1_2/OR2_0/a_9_8# 2 16 383 36
+p A2 VDD mux2x1_2/AND2_0/a_9_44# 2 8 295 44
+p mux2x1_2/AND2_0/a_9_44# VDD mux2x1_2/OR2_0/B 2 8 319 44
+n mux2x1_2/Sb mux2x1_2/AND2_0/a_9_8# mux2x1_2/AND2_0/a_9_44# 2 8 303 8
+n A2 VSS mux2x1_2/AND2_0/a_9_8# 2 8 295 8
+n mux2x1_2/AND2_0/a_9_44# VSS mux2x1_2/OR2_0/B 2 8 319 8
+p mux2x1_2/Sb mux2x1_2/AND2_0/a_9_44# VDD 2 8 303 44
+p B2 VDD mux2x1_2/AND2_1/a_9_44# 2 8 335 44
+p mux2x1_2/AND2_1/a_9_44# VDD mux2x1_2/OR2_0/A 2 8 359 44
+n S mux2x1_2/AND2_1/a_9_8# mux2x1_2/AND2_1/a_9_44# 2 8 343 8
+n B2 VSS mux2x1_2/AND2_1/a_9_8# 2 8 335 8
+n mux2x1_2/AND2_1/a_9_44# VSS mux2x1_2/OR2_0/A 2 8 359 8
+p S mux2x1_2/AND2_1/a_9_44# VDD 2 8 343 44
+p S VDD mux2x1_2/Sb 2 8 279 44
+n S VSS mux2x1_2/Sb 2 4 279 8
+p mux2x1_3/OR2_0/A VDD mux2x1_3/OR2_0/a_9_36# 2 16 511 36
+p mux2x1_3/OR2_0/a_9_8# VDD Y3 2 16 535 36
+n mux2x1_3/OR2_0/B mux2x1_3/OR2_0/a_9_8# VSS 2 4 519 8
+n mux2x1_3/OR2_0/A VSS mux2x1_3/OR2_0/a_9_8# 2 4 511 8
+n mux2x1_3/OR2_0/a_9_8# VSS Y3 2 4 535 8
+p mux2x1_3/OR2_0/B mux2x1_3/OR2_0/a_9_36# mux2x1_3/OR2_0/a_9_8# 2 16 519 36
+p A3 VDD mux2x1_3/AND2_0/a_9_44# 2 8 431 44
+p mux2x1_3/AND2_0/a_9_44# VDD mux2x1_3/OR2_0/B 2 8 455 44
+n mux2x1_3/Sb mux2x1_3/AND2_0/a_9_8# mux2x1_3/AND2_0/a_9_44# 2 8 439 8
+n A3 VSS mux2x1_3/AND2_0/a_9_8# 2 8 431 8
+n mux2x1_3/AND2_0/a_9_44# VSS mux2x1_3/OR2_0/B 2 8 455 8
+p mux2x1_3/Sb mux2x1_3/AND2_0/a_9_44# VDD 2 8 439 44
+p B3 VDD mux2x1_3/AND2_1/a_9_44# 2 8 471 44
+p mux2x1_3/AND2_1/a_9_44# VDD mux2x1_3/OR2_0/A 2 8 495 44
+n S mux2x1_3/AND2_1/a_9_8# mux2x1_3/AND2_1/a_9_44# 2 8 479 8
+n B3 VSS mux2x1_3/AND2_1/a_9_8# 2 8 471 8
+n mux2x1_3/AND2_1/a_9_44# VSS mux2x1_3/OR2_0/A 2 8 495 8
+p S mux2x1_3/AND2_1/a_9_44# VDD 2 8 479 44
+p S VDD mux2x1_3/Sb 2 8 415 44
+n S VSS mux2x1_3/Sb 2 4 415 8
+p mux2x1_4/OR2_0/A VDD mux2x1_4/OR2_0/a_9_36# 2 16 647 36
+p mux2x1_4/OR2_0/a_9_8# VDD Y4 2 16 671 36
+n mux2x1_4/OR2_0/B mux2x1_4/OR2_0/a_9_8# VSS 2 4 655 8
+n mux2x1_4/OR2_0/A VSS mux2x1_4/OR2_0/a_9_8# 2 4 647 8
+n mux2x1_4/OR2_0/a_9_8# VSS Y4 2 4 671 8
+p mux2x1_4/OR2_0/B mux2x1_4/OR2_0/a_9_36# mux2x1_4/OR2_0/a_9_8# 2 16 655 36
+p A4 VDD mux2x1_4/AND2_0/a_9_44# 2 8 567 44
+p mux2x1_4/AND2_0/a_9_44# VDD mux2x1_4/OR2_0/B 2 8 591 44
+n mux2x1_4/Sb mux2x1_4/AND2_0/a_9_8# mux2x1_4/AND2_0/a_9_44# 2 8 575 8
+n A4 VSS mux2x1_4/AND2_0/a_9_8# 2 8 567 8
+n mux2x1_4/AND2_0/a_9_44# VSS mux2x1_4/OR2_0/B 2 8 591 8
+p mux2x1_4/Sb mux2x1_4/AND2_0/a_9_44# VDD 2 8 575 44
+p B4 VDD mux2x1_4/AND2_1/a_9_44# 2 8 607 44
+p mux2x1_4/AND2_1/a_9_44# VDD mux2x1_4/OR2_0/A 2 8 631 44
+n S mux2x1_4/AND2_1/a_9_8# mux2x1_4/AND2_1/a_9_44# 2 8 615 8
+n B4 VSS mux2x1_4/AND2_1/a_9_8# 2 8 607 8
+n mux2x1_4/AND2_1/a_9_44# VSS mux2x1_4/OR2_0/A 2 8 631 8
+p S mux2x1_4/AND2_1/a_9_44# VDD 2 8 615 44
+p S VDD mux2x1_4/Sb 2 8 551 44
+n S VSS mux2x1_4/Sb 2 4 551 8
+p mux2x1_5/OR2_0/A VDD mux2x1_5/OR2_0/a_9_36# 2 16 783 36
+p mux2x1_5/OR2_0/a_9_8# VDD Y5 2 16 807 36
+n mux2x1_5/OR2_0/B mux2x1_5/OR2_0/a_9_8# VSS 2 4 791 8
+n mux2x1_5/OR2_0/A VSS mux2x1_5/OR2_0/a_9_8# 2 4 783 8
+n mux2x1_5/OR2_0/a_9_8# VSS Y5 2 4 807 8
+p mux2x1_5/OR2_0/B mux2x1_5/OR2_0/a_9_36# mux2x1_5/OR2_0/a_9_8# 2 16 791 36
+p A5 VDD mux2x1_5/AND2_0/a_9_44# 2 8 703 44
+p mux2x1_5/AND2_0/a_9_44# VDD mux2x1_5/OR2_0/B 2 8 727 44
+n mux2x1_5/Sb mux2x1_5/AND2_0/a_9_8# mux2x1_5/AND2_0/a_9_44# 2 8 711 8
+n A5 VSS mux2x1_5/AND2_0/a_9_8# 2 8 703 8
+n mux2x1_5/AND2_0/a_9_44# VSS mux2x1_5/OR2_0/B 2 8 727 8
+p mux2x1_5/Sb mux2x1_5/AND2_0/a_9_44# VDD 2 8 711 44
+p B5 VDD mux2x1_5/AND2_1/a_9_44# 2 8 743 44
+p mux2x1_5/AND2_1/a_9_44# VDD mux2x1_5/OR2_0/A 2 8 767 44
+n S mux2x1_5/AND2_1/a_9_8# mux2x1_5/AND2_1/a_9_44# 2 8 751 8
+n B5 VSS mux2x1_5/AND2_1/a_9_8# 2 8 743 8
+n mux2x1_5/AND2_1/a_9_44# VSS mux2x1_5/OR2_0/A 2 8 767 8
+p S mux2x1_5/AND2_1/a_9_44# VDD 2 8 751 44
+p S VDD mux2x1_5/Sb 2 8 687 44
+n S VSS mux2x1_5/Sb 2 4 687 8
+p mux2x1_6/OR2_0/A VDD mux2x1_6/OR2_0/a_9_36# 2 16 919 36
+p mux2x1_6/OR2_0/a_9_8# VDD Y6 2 16 943 36
+n mux2x1_6/OR2_0/B mux2x1_6/OR2_0/a_9_8# VSS 2 4 927 8
+n mux2x1_6/OR2_0/A VSS mux2x1_6/OR2_0/a_9_8# 2 4 919 8
+n mux2x1_6/OR2_0/a_9_8# VSS Y6 2 4 943 8
+p mux2x1_6/OR2_0/B mux2x1_6/OR2_0/a_9_36# mux2x1_6/OR2_0/a_9_8# 2 16 927 36
+p A6 VDD mux2x1_6/AND2_0/a_9_44# 2 8 839 44
+p mux2x1_6/AND2_0/a_9_44# VDD mux2x1_6/OR2_0/B 2 8 863 44
+n mux2x1_6/Sb mux2x1_6/AND2_0/a_9_8# mux2x1_6/AND2_0/a_9_44# 2 8 847 8
+n A6 VSS mux2x1_6/AND2_0/a_9_8# 2 8 839 8
+n mux2x1_6/AND2_0/a_9_44# VSS mux2x1_6/OR2_0/B 2 8 863 8
+p mux2x1_6/Sb mux2x1_6/AND2_0/a_9_44# VDD 2 8 847 44
+p B6 VDD mux2x1_6/AND2_1/a_9_44# 2 8 879 44
+p mux2x1_6/AND2_1/a_9_44# VDD mux2x1_6/OR2_0/A 2 8 903 44
+n S mux2x1_6/AND2_1/a_9_8# mux2x1_6/AND2_1/a_9_44# 2 8 887 8
+n B6 VSS mux2x1_6/AND2_1/a_9_8# 2 8 879 8
+n mux2x1_6/AND2_1/a_9_44# VSS mux2x1_6/OR2_0/A 2 8 903 8
+p S mux2x1_6/AND2_1/a_9_44# VDD 2 8 887 44
+p S VDD mux2x1_6/Sb 2 8 823 44
+n S VSS mux2x1_6/Sb 2 4 823 8
+p mux2x1_7/OR2_0/A VDD mux2x1_7/OR2_0/a_9_36# 2 16 1055 36
+p mux2x1_7/OR2_0/a_9_8# VDD Y7 2 16 1079 36
+n mux2x1_7/OR2_0/B mux2x1_7/OR2_0/a_9_8# VSS 2 4 1063 8
+n mux2x1_7/OR2_0/A VSS mux2x1_7/OR2_0/a_9_8# 2 4 1055 8
+n mux2x1_7/OR2_0/a_9_8# VSS Y7 2 4 1079 8
+p mux2x1_7/OR2_0/B mux2x1_7/OR2_0/a_9_36# mux2x1_7/OR2_0/a_9_8# 2 16 1063 36
+p A7 VDD mux2x1_7/AND2_0/a_9_44# 2 8 975 44
+p mux2x1_7/AND2_0/a_9_44# VDD mux2x1_7/OR2_0/B 2 8 999 44
+n mux2x1_7/Sb mux2x1_7/AND2_0/a_9_8# mux2x1_7/AND2_0/a_9_44# 2 8 983 8
+n A7 VSS mux2x1_7/AND2_0/a_9_8# 2 8 975 8
+n mux2x1_7/AND2_0/a_9_44# VSS mux2x1_7/OR2_0/B 2 8 999 8
+p mux2x1_7/Sb mux2x1_7/AND2_0/a_9_44# VDD 2 8 983 44
+p B7 VDD mux2x1_7/AND2_1/a_9_44# 2 8 1015 44
+p mux2x1_7/AND2_1/a_9_44# VDD mux2x1_7/OR2_0/A 2 8 1039 44
+n S mux2x1_7/AND2_1/a_9_8# mux2x1_7/AND2_1/a_9_44# 2 8 1023 8
+n B7 VSS mux2x1_7/AND2_1/a_9_8# 2 8 1015 8
+n mux2x1_7/AND2_1/a_9_44# VSS mux2x1_7/OR2_0/A 2 8 1039 8
+p S mux2x1_7/AND2_1/a_9_44# VDD 2 8 1023 44
+p S VDD mux2x1_7/Sb 2 8 959 44
+n S VSS mux2x1_7/Sb 2 4 959 8
+C VSS S 3.45
+C VDD S 8.07
+C mux2x1_7/Sb GND 2.72
+R mux2x1_7/Sb 70
+= mux2x1_7/Sb mux2x1_7/AND2_0/B
+= mux2x1_7/Sb mux2x1_7/INV_0/Y
+C mux2x1_7/AND2_1/a_9_44# GND 2.02
+R mux2x1_7/AND2_1/a_9_44# 69
+R B7 62
+= B7 mux2x1_7/I1
+= B7 mux2x1_7/AND2_1/A
+C mux2x1_7/OR2_0/B GND 3.61
+R mux2x1_7/OR2_0/B 72
+= mux2x1_7/OR2_0/B mux2x1_7/AND2_0/Y
+= mux2x1_7/OR2_0/B mux2x1_7/m1_50_n8#
+C mux2x1_7/AND2_0/a_9_44# GND 2.02
+R mux2x1_7/AND2_0/a_9_44# 69
+R A7 62
+= A7 mux2x1_7/I0
+= A7 mux2x1_7/AND2_0/A
+R Y7 12
+= Y7 mux2x1_7/Y
+= Y7 mux2x1_7/OR2_0/Y
+R mux2x1_7/OR2_0/a_9_8# 73
+R mux2x1_7/OR2_0/A 69
+= mux2x1_7/OR2_0/A mux2x1_7/AND2_1/Y
+= mux2x1_7/OR2_0/A mux2x1_7/m1_94_28#
+C mux2x1_6/Sb GND 2.72
+R mux2x1_6/Sb 70
+= mux2x1_6/Sb mux2x1_6/AND2_0/B
+= mux2x1_6/Sb mux2x1_6/INV_0/Y
+C S GND 50.29
+R S 1079
+= S mux2x1_0/S
+= S mux2x1_0/AND2_1/B
+= S mux2x1_0/INV_0/A
+= S mux2x1_1/S
+= S mux2x1_1/AND2_1/B
+= S mux2x1_1/INV_0/A
+= S mux2x1_7/S
+= S mux2x1_3/S
+= S mux2x1_2/S
+= S mux2x1_2/AND2_1/B
+= S mux2x1_2/INV_0/A
+= S mux2x1_3/AND2_1/B
+= S mux2x1_3/INV_0/A
+= S mux2x1_4/S
+= S mux2x1_4/AND2_1/B
+= S mux2x1_4/INV_0/A
+= S mux2x1_7/AND2_1/B
+= S mux2x1_7/INV_0/A
+= S mux2x1_6/S
+= S mux2x1_5/S
+= S mux2x1_5/AND2_1/B
+= S mux2x1_5/INV_0/A
+= S mux2x1_6/AND2_1/B
+= S mux2x1_6/INV_0/A
+C mux2x1_6/AND2_1/a_9_44# GND 2.02
+R mux2x1_6/AND2_1/a_9_44# 69
+R B6 62
+= B6 mux2x1_6/I1
+= B6 mux2x1_6/AND2_1/A
+C mux2x1_6/OR2_0/B GND 3.61
+R mux2x1_6/OR2_0/B 72
+= mux2x1_6/OR2_0/B mux2x1_6/AND2_0/Y
+= mux2x1_6/OR2_0/B mux2x1_6/m1_50_n8#
+C mux2x1_6/AND2_0/a_9_44# GND 2.02
+R mux2x1_6/AND2_0/a_9_44# 69
+R A6 62
+= A6 mux2x1_6/I0
+= A6 mux2x1_6/AND2_0/A
+R Y6 12
+= Y6 mux2x1_6/Y
+= Y6 mux2x1_6/OR2_0/Y
+R mux2x1_6/OR2_0/a_9_8# 73
+R mux2x1_6/OR2_0/A 69
+= mux2x1_6/OR2_0/A mux2x1_6/AND2_1/Y
+= mux2x1_6/OR2_0/A mux2x1_6/m1_94_28#
+C mux2x1_5/Sb GND 2.72
+R mux2x1_5/Sb 70
+= mux2x1_5/Sb mux2x1_5/AND2_0/B
+= mux2x1_5/Sb mux2x1_5/INV_0/Y
+C mux2x1_5/AND2_1/a_9_44# GND 2.02
+R mux2x1_5/AND2_1/a_9_44# 69
+R B5 62
+= B5 mux2x1_5/I1
+= B5 mux2x1_5/AND2_1/A
+C mux2x1_5/OR2_0/B GND 3.61
+R mux2x1_5/OR2_0/B 72
+= mux2x1_5/OR2_0/B mux2x1_5/AND2_0/Y
+= mux2x1_5/OR2_0/B mux2x1_5/m1_50_n8#
+C mux2x1_5/AND2_0/a_9_44# GND 2.02
+R mux2x1_5/AND2_0/a_9_44# 69
+R A5 62
+= A5 mux2x1_5/I0
+= A5 mux2x1_5/AND2_0/A
+R Y5 12
+= Y5 mux2x1_5/Y
+= Y5 mux2x1_5/OR2_0/Y
+R mux2x1_5/OR2_0/a_9_8# 73
+R mux2x1_5/OR2_0/A 69
+= mux2x1_5/OR2_0/A mux2x1_5/AND2_1/Y
+= mux2x1_5/OR2_0/A mux2x1_5/m1_94_28#
+C mux2x1_4/Sb GND 2.72
+R mux2x1_4/Sb 70
+= mux2x1_4/Sb mux2x1_4/AND2_0/B
+= mux2x1_4/Sb mux2x1_4/INV_0/Y
+C mux2x1_4/AND2_1/a_9_44# GND 2.02
+R mux2x1_4/AND2_1/a_9_44# 69
+R B4 62
+= B4 mux2x1_4/I1
+= B4 mux2x1_4/AND2_1/A
+C mux2x1_4/OR2_0/B GND 3.61
+R mux2x1_4/OR2_0/B 72
+= mux2x1_4/OR2_0/B mux2x1_4/AND2_0/Y
+= mux2x1_4/OR2_0/B mux2x1_4/m1_50_n8#
+C mux2x1_4/AND2_0/a_9_44# GND 2.02
+R mux2x1_4/AND2_0/a_9_44# 69
+R A4 62
+= A4 mux2x1_4/I0
+= A4 mux2x1_4/AND2_0/A
+R Y4 12
+= Y4 mux2x1_4/Y
+= Y4 mux2x1_4/OR2_0/Y
+R mux2x1_4/OR2_0/a_9_8# 73
+R mux2x1_4/OR2_0/A 69
+= mux2x1_4/OR2_0/A mux2x1_4/AND2_1/Y
+= mux2x1_4/OR2_0/A mux2x1_4/m1_94_28#
+C VSS GND 29.92
+R VSS 1331
+= VSS mux2x1_2/VSS
+= VSS mux2x1_2/AND2_0/VSS
+= VSS mux2x1_2/AND2_1/VSS
+= VSS mux2x1_2/OR2_0/VSS
+= VSS mux2x1_2/INV_0/VSS
+= VSS mux2x1_1/VSS
+= VSS mux2x1_1/AND2_0/VSS
+= VSS mux2x1_1/AND2_1/VSS
+= VSS mux2x1_1/OR2_0/VSS
+= VSS mux2x1_1/INV_0/VSS
+= VSS mux2x1_0/VSS
+= VSS mux2x1_0/AND2_0/VSS
+= VSS mux2x1_0/AND2_1/VSS
+= VSS mux2x1_0/OR2_0/VSS
+= VSS mux2x1_0/INV_0/VSS
+= VSS mux2x1_7/VSS
+= VSS mux2x1_7/AND2_0/VSS
+= VSS mux2x1_7/AND2_1/VSS
+= VSS mux2x1_7/OR2_0/VSS
+= VSS mux2x1_7/INV_0/VSS
+= VSS mux2x1_6/VSS
+= VSS mux2x1_6/AND2_0/VSS
+= VSS mux2x1_6/AND2_1/VSS
+= VSS mux2x1_6/OR2_0/VSS
+= VSS mux2x1_6/INV_0/VSS
+= VSS mux2x1_5/VSS
+= VSS mux2x1_5/AND2_0/VSS
+= VSS mux2x1_5/AND2_1/VSS
+= VSS mux2x1_5/OR2_0/VSS
+= VSS mux2x1_5/INV_0/VSS
+= VSS mux2x1_4/VSS
+= VSS mux2x1_4/AND2_0/VSS
+= VSS mux2x1_4/AND2_1/VSS
+= VSS mux2x1_4/OR2_0/VSS
+= VSS mux2x1_4/INV_0/VSS
+= VSS mux2x1_3/VSS
+= VSS mux2x1_3/AND2_0/VSS
+= VSS mux2x1_3/AND2_1/VSS
+= VSS mux2x1_3/OR2_0/VSS
+= VSS mux2x1_3/INV_0/VSS
+C mux2x1_3/Sb GND 2.72
+R mux2x1_3/Sb 70
+= mux2x1_3/Sb mux2x1_3/AND2_0/B
+= mux2x1_3/Sb mux2x1_3/INV_0/Y
+C VDD GND 284.85
+R VDD 30299
+= VDD mux2x1_2/VDD
+= VDD mux2x1_2/AND2_0/VDD
+= VDD mux2x1_2/AND2_1/VDD
+= VDD mux2x1_2/OR2_0/VDD
+= VDD mux2x1_2/INV_0/VDD
+= VDD mux2x1_1/VDD
+= VDD mux2x1_1/AND2_0/VDD
+= VDD mux2x1_1/AND2_1/VDD
+= VDD mux2x1_1/OR2_0/VDD
+= VDD mux2x1_1/INV_0/VDD
+= VDD mux2x1_0/VDD
+= VDD mux2x1_0/AND2_0/VDD
+= VDD mux2x1_0/AND2_1/VDD
+= VDD mux2x1_0/OR2_0/VDD
+= VDD mux2x1_0/INV_0/VDD
+= VDD mux2x1_7/VDD
+= VDD mux2x1_7/AND2_0/VDD
+= VDD mux2x1_7/AND2_1/VDD
+= VDD mux2x1_7/OR2_0/VDD
+= VDD mux2x1_7/INV_0/VDD
+= VDD mux2x1_6/VDD
+= VDD mux2x1_6/AND2_0/VDD
+= VDD mux2x1_6/AND2_1/VDD
+= VDD mux2x1_6/OR2_0/VDD
+= VDD mux2x1_6/INV_0/VDD
+= VDD mux2x1_5/VDD
+= VDD mux2x1_5/AND2_0/VDD
+= VDD mux2x1_5/AND2_1/VDD
+= VDD mux2x1_5/OR2_0/VDD
+= VDD mux2x1_5/INV_0/VDD
+= VDD mux2x1_4/VDD
+= VDD mux2x1_4/AND2_0/VDD
+= VDD mux2x1_4/AND2_1/VDD
+= VDD mux2x1_4/OR2_0/VDD
+= VDD mux2x1_4/INV_0/VDD
+= VDD mux2x1_3/VDD
+= VDD mux2x1_3/AND2_0/VDD
+= VDD mux2x1_3/AND2_1/VDD
+= VDD mux2x1_3/OR2_0/VDD
+= VDD mux2x1_3/INV_0/VDD
+C mux2x1_3/AND2_1/a_9_44# GND 2.02
+R mux2x1_3/AND2_1/a_9_44# 69
+R B3 62
+= B3 mux2x1_3/I1
+= B3 mux2x1_3/AND2_1/A
+C mux2x1_3/OR2_0/B GND 3.61
+R mux2x1_3/OR2_0/B 72
+= mux2x1_3/OR2_0/B mux2x1_3/AND2_0/Y
+= mux2x1_3/OR2_0/B mux2x1_3/m1_50_n8#
+C mux2x1_3/AND2_0/a_9_44# GND 2.02
+R mux2x1_3/AND2_0/a_9_44# 69
+R A3 62
+= A3 mux2x1_3/I0
+= A3 mux2x1_3/AND2_0/A
+R Y3 12
+= Y3 mux2x1_3/Y
+= Y3 mux2x1_3/OR2_0/Y
+R mux2x1_3/OR2_0/a_9_8# 73
+R mux2x1_3/OR2_0/A 69
+= mux2x1_3/OR2_0/A mux2x1_3/AND2_1/Y
+= mux2x1_3/OR2_0/A mux2x1_3/m1_94_28#
+C mux2x1_2/Sb GND 2.72
+R mux2x1_2/Sb 70
+= mux2x1_2/Sb mux2x1_2/AND2_0/B
+= mux2x1_2/Sb mux2x1_2/INV_0/Y
+C mux2x1_2/AND2_1/a_9_44# GND 2.02
+R mux2x1_2/AND2_1/a_9_44# 69
+R B2 62
+= B2 mux2x1_2/I1
+= B2 mux2x1_2/AND2_1/A
+C mux2x1_2/OR2_0/B GND 3.61
+R mux2x1_2/OR2_0/B 72
+= mux2x1_2/OR2_0/B mux2x1_2/AND2_0/Y
+= mux2x1_2/OR2_0/B mux2x1_2/m1_50_n8#
+C mux2x1_2/AND2_0/a_9_44# GND 2.02
+R mux2x1_2/AND2_0/a_9_44# 69
+R A2 62
+= A2 mux2x1_2/I0
+= A2 mux2x1_2/AND2_0/A
+R Y2 12
+= Y2 mux2x1_2/Y
+= Y2 mux2x1_2/OR2_0/Y
+R mux2x1_2/OR2_0/a_9_8# 73
+R mux2x1_2/OR2_0/A 69
+= mux2x1_2/OR2_0/A mux2x1_2/AND2_1/Y
+= mux2x1_2/OR2_0/A mux2x1_2/m1_94_28#
+C mux2x1_1/Sb GND 2.72
+R mux2x1_1/Sb 70
+= mux2x1_1/Sb mux2x1_1/AND2_0/B
+= mux2x1_1/Sb mux2x1_1/INV_0/Y
+C mux2x1_1/AND2_1/a_9_44# GND 2.02
+R mux2x1_1/AND2_1/a_9_44# 69
+R B1 62
+= B1 mux2x1_1/I1
+= B1 mux2x1_1/AND2_1/A
+C mux2x1_1/OR2_0/B GND 3.61
+R mux2x1_1/OR2_0/B 72
+= mux2x1_1/OR2_0/B mux2x1_1/AND2_0/Y
+= mux2x1_1/OR2_0/B mux2x1_1/m1_50_n8#
+C mux2x1_1/AND2_0/a_9_44# GND 2.02
+R mux2x1_1/AND2_0/a_9_44# 69
+R A1 62
+= A1 mux2x1_1/I0
+= A1 mux2x1_1/AND2_0/A
+R Y1 12
+= Y1 mux2x1_1/Y
+= Y1 mux2x1_1/OR2_0/Y
+R mux2x1_1/OR2_0/a_9_8# 73
+R mux2x1_1/OR2_0/A 69
+= mux2x1_1/OR2_0/A mux2x1_1/AND2_1/Y
+= mux2x1_1/OR2_0/A mux2x1_1/m1_94_28#
+C mux2x1_0/Sb GND 2.72
+R mux2x1_0/Sb 70
+= mux2x1_0/Sb mux2x1_0/AND2_0/B
+= mux2x1_0/Sb mux2x1_0/INV_0/Y
+C mux2x1_0/AND2_1/a_9_44# GND 2.02
+R mux2x1_0/AND2_1/a_9_44# 69
+R B0 62
+= B0 mux2x1_0/I1
+= B0 mux2x1_0/AND2_1/A
+C mux2x1_0/OR2_0/B GND 3.61
+R mux2x1_0/OR2_0/B 72
+= mux2x1_0/OR2_0/B mux2x1_0/AND2_0/Y
+= mux2x1_0/OR2_0/B mux2x1_0/m1_50_n8#
+C mux2x1_0/AND2_0/a_9_44# GND 2.02
+R mux2x1_0/AND2_0/a_9_44# 69
+R A0 62
+= A0 mux2x1_0/I0
+= A0 mux2x1_0/AND2_0/A
+R Y0 12
+= Y0 mux2x1_0/Y
+= Y0 mux2x1_0/OR2_0/Y
+R mux2x1_0/OR2_0/a_9_8# 73
+R mux2x1_0/OR2_0/A 69
+= mux2x1_0/OR2_0/A mux2x1_0/AND2_1/Y
+= mux2x1_0/OR2_0/A mux2x1_0/m1_94_28#

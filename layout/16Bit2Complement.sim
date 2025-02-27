@@ -1,0 +1,2010 @@
+| units: 30 tech: scmos format: MIT
+n 2Complement_1/8bitAdder_0/Chain_HA_0/XOR2_0/a_n23_8# VSS 2Complement_1/8bitAdder_0/Chain_HA_0/XOR2_0/a_25_8# 2 4 95 -326
+p 2Complement_1/B VDD 2Complement_1/8bitAdder_0/Chain_HA_0/XOR2_0/a_n7_8# 2 8 64 -290
+p 2Complement_1/8bitINV_0/Y0 2Complement_1/8bitAdder_0/Chain_HA_0/XOR2_0/a_2_44# VDD 2 8 79 -290
+p 2Complement_1/8bitAdder_0/Chain_HA_0/XOR2_0/a_n23_8# 2Complement_1/8bitAdder_0/Chain_HA_0/XOR2_0/a_2_44# 2Complement_1/mux2x1_8_0/B0 2 8 95 -290
+p 2Complement_1/8bitAdder_0/Chain_HA_0/XOR2_0/a_n7_8# 2Complement_1/mux2x1_8_0/B0 2Complement_1/8bitAdder_0/Chain_HA_0/XOR2_0/a_2_44# 2 8 103 -290
+n 2Complement_1/B 2Complement_1/8bitAdder_0/Chain_HA_0/XOR2_0/a_9_8# VSS 2 4 87 -326
+n 2Complement_1/8bitINV_0/Y0 2Complement_1/mux2x1_8_0/B0 2Complement_1/8bitAdder_0/Chain_HA_0/XOR2_0/a_9_8# 2 4 79 -326
+p 2Complement_1/8bitINV_0/Y0 VDD 2Complement_1/8bitAdder_0/Chain_HA_0/XOR2_0/a_n23_8# 2 8 48 -290
+n 2Complement_1/8bitAdder_0/Chain_HA_0/XOR2_0/a_n7_8# 2Complement_1/8bitAdder_0/Chain_HA_0/XOR2_0/a_25_8# 2Complement_1/mux2x1_8_0/B0 2 4 103 -326
+n 2Complement_1/B VSS 2Complement_1/8bitAdder_0/Chain_HA_0/XOR2_0/a_n7_8# 2 4 64 -326
+n 2Complement_1/8bitINV_0/Y0 VSS 2Complement_1/8bitAdder_0/Chain_HA_0/XOR2_0/a_n23_8# 2 4 48 -326
+p 2Complement_1/B VDD 2Complement_1/8bitAdder_0/Chain_HA_0/XOR2_0/a_2_44# 2 8 87 -290
+p 2Complement_1/8bitINV_0/Y0 VDD 2Complement_1/8bitAdder_0/Chain_HA_0/a_9_52# 2 8 7 -282
+p 2Complement_1/8bitAdder_0/Chain_HA_0/a_9_52# VDD 2Complement_1/8bitAdder_0/Chain_HA_1/B 2 8 31 -282
+n 2Complement_1/B 2Complement_1/8bitAdder_0/Chain_HA_0/a_9_8# 2Complement_1/8bitAdder_0/Chain_HA_0/a_9_52# 2 8 15 -326
+n 2Complement_1/8bitINV_0/Y0 VSS 2Complement_1/8bitAdder_0/Chain_HA_0/a_9_8# 2 8 7 -326
+n 2Complement_1/8bitAdder_0/Chain_HA_0/a_9_52# VSS 2Complement_1/8bitAdder_0/Chain_HA_1/B 2 8 31 -326
+p 2Complement_1/B 2Complement_1/8bitAdder_0/Chain_HA_0/a_9_52# VDD 2 8 15 -282
+n 2Complement_1/8bitAdder_0/Chain_HA_1/XOR2_0/a_n23_8# VSS 2Complement_1/8bitAdder_0/Chain_HA_1/XOR2_0/a_25_8# 2 4 215 -326
+p 2Complement_1/8bitAdder_0/Chain_HA_1/B VDD 2Complement_1/8bitAdder_0/Chain_HA_1/XOR2_0/a_n7_8# 2 8 184 -290
+p 2Complement_1/8bitINV_0/Y1 2Complement_1/8bitAdder_0/Chain_HA_1/XOR2_0/a_2_44# VDD 2 8 199 -290
+p 2Complement_1/8bitAdder_0/Chain_HA_1/XOR2_0/a_n23_8# 2Complement_1/8bitAdder_0/Chain_HA_1/XOR2_0/a_2_44# 2Complement_1/mux2x1_8_0/B1 2 8 215 -290
+p 2Complement_1/8bitAdder_0/Chain_HA_1/XOR2_0/a_n7_8# 2Complement_1/mux2x1_8_0/B1 2Complement_1/8bitAdder_0/Chain_HA_1/XOR2_0/a_2_44# 2 8 223 -290
+n 2Complement_1/8bitAdder_0/Chain_HA_1/B 2Complement_1/8bitAdder_0/Chain_HA_1/XOR2_0/a_9_8# VSS 2 4 207 -326
+n 2Complement_1/8bitINV_0/Y1 2Complement_1/mux2x1_8_0/B1 2Complement_1/8bitAdder_0/Chain_HA_1/XOR2_0/a_9_8# 2 4 199 -326
+p 2Complement_1/8bitINV_0/Y1 VDD 2Complement_1/8bitAdder_0/Chain_HA_1/XOR2_0/a_n23_8# 2 8 168 -290
+n 2Complement_1/8bitAdder_0/Chain_HA_1/XOR2_0/a_n7_8# 2Complement_1/8bitAdder_0/Chain_HA_1/XOR2_0/a_25_8# 2Complement_1/mux2x1_8_0/B1 2 4 223 -326
+n 2Complement_1/8bitAdder_0/Chain_HA_1/B VSS 2Complement_1/8bitAdder_0/Chain_HA_1/XOR2_0/a_n7_8# 2 4 184 -326
+n 2Complement_1/8bitINV_0/Y1 VSS 2Complement_1/8bitAdder_0/Chain_HA_1/XOR2_0/a_n23_8# 2 4 168 -326
+p 2Complement_1/8bitAdder_0/Chain_HA_1/B VDD 2Complement_1/8bitAdder_0/Chain_HA_1/XOR2_0/a_2_44# 2 8 207 -290
+p 2Complement_1/8bitINV_0/Y1 VDD 2Complement_1/8bitAdder_0/Chain_HA_1/a_9_52# 2 8 127 -282
+p 2Complement_1/8bitAdder_0/Chain_HA_1/a_9_52# VDD 2Complement_1/8bitAdder_0/Chain_HA_2/B 2 8 151 -282
+n 2Complement_1/8bitAdder_0/Chain_HA_1/B 2Complement_1/8bitAdder_0/Chain_HA_1/a_9_8# 2Complement_1/8bitAdder_0/Chain_HA_1/a_9_52# 2 8 135 -326
+n 2Complement_1/8bitINV_0/Y1 VSS 2Complement_1/8bitAdder_0/Chain_HA_1/a_9_8# 2 8 127 -326
+n 2Complement_1/8bitAdder_0/Chain_HA_1/a_9_52# VSS 2Complement_1/8bitAdder_0/Chain_HA_2/B 2 8 151 -326
+p 2Complement_1/8bitAdder_0/Chain_HA_1/B 2Complement_1/8bitAdder_0/Chain_HA_1/a_9_52# VDD 2 8 135 -282
+n 2Complement_1/8bitAdder_0/Chain_HA_2/XOR2_0/a_n23_8# VSS 2Complement_1/8bitAdder_0/Chain_HA_2/XOR2_0/a_25_8# 2 4 335 -326
+p 2Complement_1/8bitAdder_0/Chain_HA_2/B VDD 2Complement_1/8bitAdder_0/Chain_HA_2/XOR2_0/a_n7_8# 2 8 304 -290
+p 2Complement_1/8bitINV_0/Y2 2Complement_1/8bitAdder_0/Chain_HA_2/XOR2_0/a_2_44# VDD 2 8 319 -290
+p 2Complement_1/8bitAdder_0/Chain_HA_2/XOR2_0/a_n23_8# 2Complement_1/8bitAdder_0/Chain_HA_2/XOR2_0/a_2_44# 2Complement_1/mux2x1_8_0/B2 2 8 335 -290
+p 2Complement_1/8bitAdder_0/Chain_HA_2/XOR2_0/a_n7_8# 2Complement_1/mux2x1_8_0/B2 2Complement_1/8bitAdder_0/Chain_HA_2/XOR2_0/a_2_44# 2 8 343 -290
+n 2Complement_1/8bitAdder_0/Chain_HA_2/B 2Complement_1/8bitAdder_0/Chain_HA_2/XOR2_0/a_9_8# VSS 2 4 327 -326
+n 2Complement_1/8bitINV_0/Y2 2Complement_1/mux2x1_8_0/B2 2Complement_1/8bitAdder_0/Chain_HA_2/XOR2_0/a_9_8# 2 4 319 -326
+p 2Complement_1/8bitINV_0/Y2 VDD 2Complement_1/8bitAdder_0/Chain_HA_2/XOR2_0/a_n23_8# 2 8 288 -290
+n 2Complement_1/8bitAdder_0/Chain_HA_2/XOR2_0/a_n7_8# 2Complement_1/8bitAdder_0/Chain_HA_2/XOR2_0/a_25_8# 2Complement_1/mux2x1_8_0/B2 2 4 343 -326
+n 2Complement_1/8bitAdder_0/Chain_HA_2/B VSS 2Complement_1/8bitAdder_0/Chain_HA_2/XOR2_0/a_n7_8# 2 4 304 -326
+n 2Complement_1/8bitINV_0/Y2 VSS 2Complement_1/8bitAdder_0/Chain_HA_2/XOR2_0/a_n23_8# 2 4 288 -326
+p 2Complement_1/8bitAdder_0/Chain_HA_2/B VDD 2Complement_1/8bitAdder_0/Chain_HA_2/XOR2_0/a_2_44# 2 8 327 -290
+p 2Complement_1/8bitINV_0/Y2 VDD 2Complement_1/8bitAdder_0/Chain_HA_2/a_9_52# 2 8 247 -282
+p 2Complement_1/8bitAdder_0/Chain_HA_2/a_9_52# VDD 2Complement_1/8bitAdder_0/Chain_HA_3/B 2 8 271 -282
+n 2Complement_1/8bitAdder_0/Chain_HA_2/B 2Complement_1/8bitAdder_0/Chain_HA_2/a_9_8# 2Complement_1/8bitAdder_0/Chain_HA_2/a_9_52# 2 8 255 -326
+n 2Complement_1/8bitINV_0/Y2 VSS 2Complement_1/8bitAdder_0/Chain_HA_2/a_9_8# 2 8 247 -326
+n 2Complement_1/8bitAdder_0/Chain_HA_2/a_9_52# VSS 2Complement_1/8bitAdder_0/Chain_HA_3/B 2 8 271 -326
+p 2Complement_1/8bitAdder_0/Chain_HA_2/B 2Complement_1/8bitAdder_0/Chain_HA_2/a_9_52# VDD 2 8 255 -282
+n 2Complement_1/8bitAdder_0/Chain_HA_3/XOR2_0/a_n23_8# VSS 2Complement_1/8bitAdder_0/Chain_HA_3/XOR2_0/a_25_8# 2 4 454 -326
+p 2Complement_1/8bitAdder_0/Chain_HA_3/B VDD 2Complement_1/8bitAdder_0/Chain_HA_3/XOR2_0/a_n7_8# 2 8 423 -290
+p 2Complement_1/8bitINV_0/Y3 2Complement_1/8bitAdder_0/Chain_HA_3/XOR2_0/a_2_44# VDD 2 8 438 -290
+p 2Complement_1/8bitAdder_0/Chain_HA_3/XOR2_0/a_n23_8# 2Complement_1/8bitAdder_0/Chain_HA_3/XOR2_0/a_2_44# 2Complement_1/mux2x1_8_0/B3 2 8 454 -290
+p 2Complement_1/8bitAdder_0/Chain_HA_3/XOR2_0/a_n7_8# 2Complement_1/mux2x1_8_0/B3 2Complement_1/8bitAdder_0/Chain_HA_3/XOR2_0/a_2_44# 2 8 462 -290
+n 2Complement_1/8bitAdder_0/Chain_HA_3/B 2Complement_1/8bitAdder_0/Chain_HA_3/XOR2_0/a_9_8# VSS 2 4 446 -326
+n 2Complement_1/8bitINV_0/Y3 2Complement_1/mux2x1_8_0/B3 2Complement_1/8bitAdder_0/Chain_HA_3/XOR2_0/a_9_8# 2 4 438 -326
+p 2Complement_1/8bitINV_0/Y3 VDD 2Complement_1/8bitAdder_0/Chain_HA_3/XOR2_0/a_n23_8# 2 8 407 -290
+n 2Complement_1/8bitAdder_0/Chain_HA_3/XOR2_0/a_n7_8# 2Complement_1/8bitAdder_0/Chain_HA_3/XOR2_0/a_25_8# 2Complement_1/mux2x1_8_0/B3 2 4 462 -326
+n 2Complement_1/8bitAdder_0/Chain_HA_3/B VSS 2Complement_1/8bitAdder_0/Chain_HA_3/XOR2_0/a_n7_8# 2 4 423 -326
+n 2Complement_1/8bitINV_0/Y3 VSS 2Complement_1/8bitAdder_0/Chain_HA_3/XOR2_0/a_n23_8# 2 4 407 -326
+p 2Complement_1/8bitAdder_0/Chain_HA_3/B VDD 2Complement_1/8bitAdder_0/Chain_HA_3/XOR2_0/a_2_44# 2 8 446 -290
+p 2Complement_1/8bitINV_0/Y3 VDD 2Complement_1/8bitAdder_0/Chain_HA_3/a_9_52# 2 8 366 -282
+p 2Complement_1/8bitAdder_0/Chain_HA_3/a_9_52# VDD 2Complement_1/8bitAdder_0/Chain_HA_4/B 2 8 390 -282
+n 2Complement_1/8bitAdder_0/Chain_HA_3/B 2Complement_1/8bitAdder_0/Chain_HA_3/a_9_8# 2Complement_1/8bitAdder_0/Chain_HA_3/a_9_52# 2 8 374 -326
+n 2Complement_1/8bitINV_0/Y3 VSS 2Complement_1/8bitAdder_0/Chain_HA_3/a_9_8# 2 8 366 -326
+n 2Complement_1/8bitAdder_0/Chain_HA_3/a_9_52# VSS 2Complement_1/8bitAdder_0/Chain_HA_4/B 2 8 390 -326
+p 2Complement_1/8bitAdder_0/Chain_HA_3/B 2Complement_1/8bitAdder_0/Chain_HA_3/a_9_52# VDD 2 8 374 -282
+n 2Complement_1/8bitAdder_0/Chain_HA_4/XOR2_0/a_n23_8# VSS 2Complement_1/8bitAdder_0/Chain_HA_4/XOR2_0/a_25_8# 2 4 574 -326
+p 2Complement_1/8bitAdder_0/Chain_HA_4/B VDD 2Complement_1/8bitAdder_0/Chain_HA_4/XOR2_0/a_n7_8# 2 8 543 -290
+p 2Complement_1/8bitINV_0/Y4 2Complement_1/8bitAdder_0/Chain_HA_4/XOR2_0/a_2_44# VDD 2 8 558 -290
+p 2Complement_1/8bitAdder_0/Chain_HA_4/XOR2_0/a_n23_8# 2Complement_1/8bitAdder_0/Chain_HA_4/XOR2_0/a_2_44# 2Complement_1/mux2x1_8_0/B4 2 8 574 -290
+p 2Complement_1/8bitAdder_0/Chain_HA_4/XOR2_0/a_n7_8# 2Complement_1/mux2x1_8_0/B4 2Complement_1/8bitAdder_0/Chain_HA_4/XOR2_0/a_2_44# 2 8 582 -290
+n 2Complement_1/8bitAdder_0/Chain_HA_4/B 2Complement_1/8bitAdder_0/Chain_HA_4/XOR2_0/a_9_8# VSS 2 4 566 -326
+n 2Complement_1/8bitINV_0/Y4 2Complement_1/mux2x1_8_0/B4 2Complement_1/8bitAdder_0/Chain_HA_4/XOR2_0/a_9_8# 2 4 558 -326
+p 2Complement_1/8bitINV_0/Y4 VDD 2Complement_1/8bitAdder_0/Chain_HA_4/XOR2_0/a_n23_8# 2 8 527 -290
+n 2Complement_1/8bitAdder_0/Chain_HA_4/XOR2_0/a_n7_8# 2Complement_1/8bitAdder_0/Chain_HA_4/XOR2_0/a_25_8# 2Complement_1/mux2x1_8_0/B4 2 4 582 -326
+n 2Complement_1/8bitAdder_0/Chain_HA_4/B VSS 2Complement_1/8bitAdder_0/Chain_HA_4/XOR2_0/a_n7_8# 2 4 543 -326
+n 2Complement_1/8bitINV_0/Y4 VSS 2Complement_1/8bitAdder_0/Chain_HA_4/XOR2_0/a_n23_8# 2 4 527 -326
+p 2Complement_1/8bitAdder_0/Chain_HA_4/B VDD 2Complement_1/8bitAdder_0/Chain_HA_4/XOR2_0/a_2_44# 2 8 566 -290
+p 2Complement_1/8bitINV_0/Y4 VDD 2Complement_1/8bitAdder_0/Chain_HA_4/a_9_52# 2 8 486 -282
+p 2Complement_1/8bitAdder_0/Chain_HA_4/a_9_52# VDD 2Complement_1/8bitAdder_0/Chain_HA_5/B 2 8 510 -282
+n 2Complement_1/8bitAdder_0/Chain_HA_4/B 2Complement_1/8bitAdder_0/Chain_HA_4/a_9_8# 2Complement_1/8bitAdder_0/Chain_HA_4/a_9_52# 2 8 494 -326
+n 2Complement_1/8bitINV_0/Y4 VSS 2Complement_1/8bitAdder_0/Chain_HA_4/a_9_8# 2 8 486 -326
+n 2Complement_1/8bitAdder_0/Chain_HA_4/a_9_52# VSS 2Complement_1/8bitAdder_0/Chain_HA_5/B 2 8 510 -326
+p 2Complement_1/8bitAdder_0/Chain_HA_4/B 2Complement_1/8bitAdder_0/Chain_HA_4/a_9_52# VDD 2 8 494 -282
+n 2Complement_1/8bitAdder_0/Chain_HA_5/XOR2_0/a_n23_8# VSS 2Complement_1/8bitAdder_0/Chain_HA_5/XOR2_0/a_25_8# 2 4 694 -326
+p 2Complement_1/8bitAdder_0/Chain_HA_5/B VDD 2Complement_1/8bitAdder_0/Chain_HA_5/XOR2_0/a_n7_8# 2 8 663 -290
+p 2Complement_1/8bitINV_0/Y5 2Complement_1/8bitAdder_0/Chain_HA_5/XOR2_0/a_2_44# VDD 2 8 678 -290
+p 2Complement_1/8bitAdder_0/Chain_HA_5/XOR2_0/a_n23_8# 2Complement_1/8bitAdder_0/Chain_HA_5/XOR2_0/a_2_44# 2Complement_1/mux2x1_8_0/B5 2 8 694 -290
+p 2Complement_1/8bitAdder_0/Chain_HA_5/XOR2_0/a_n7_8# 2Complement_1/mux2x1_8_0/B5 2Complement_1/8bitAdder_0/Chain_HA_5/XOR2_0/a_2_44# 2 8 702 -290
+n 2Complement_1/8bitAdder_0/Chain_HA_5/B 2Complement_1/8bitAdder_0/Chain_HA_5/XOR2_0/a_9_8# VSS 2 4 686 -326
+n 2Complement_1/8bitINV_0/Y5 2Complement_1/mux2x1_8_0/B5 2Complement_1/8bitAdder_0/Chain_HA_5/XOR2_0/a_9_8# 2 4 678 -326
+p 2Complement_1/8bitINV_0/Y5 VDD 2Complement_1/8bitAdder_0/Chain_HA_5/XOR2_0/a_n23_8# 2 8 647 -290
+n 2Complement_1/8bitAdder_0/Chain_HA_5/XOR2_0/a_n7_8# 2Complement_1/8bitAdder_0/Chain_HA_5/XOR2_0/a_25_8# 2Complement_1/mux2x1_8_0/B5 2 4 702 -326
+n 2Complement_1/8bitAdder_0/Chain_HA_5/B VSS 2Complement_1/8bitAdder_0/Chain_HA_5/XOR2_0/a_n7_8# 2 4 663 -326
+n 2Complement_1/8bitINV_0/Y5 VSS 2Complement_1/8bitAdder_0/Chain_HA_5/XOR2_0/a_n23_8# 2 4 647 -326
+p 2Complement_1/8bitAdder_0/Chain_HA_5/B VDD 2Complement_1/8bitAdder_0/Chain_HA_5/XOR2_0/a_2_44# 2 8 686 -290
+p 2Complement_1/8bitINV_0/Y5 VDD 2Complement_1/8bitAdder_0/Chain_HA_5/a_9_52# 2 8 606 -282
+p 2Complement_1/8bitAdder_0/Chain_HA_5/a_9_52# VDD 2Complement_1/8bitAdder_0/Chain_HA_6/B 2 8 630 -282
+n 2Complement_1/8bitAdder_0/Chain_HA_5/B 2Complement_1/8bitAdder_0/Chain_HA_5/a_9_8# 2Complement_1/8bitAdder_0/Chain_HA_5/a_9_52# 2 8 614 -326
+n 2Complement_1/8bitINV_0/Y5 VSS 2Complement_1/8bitAdder_0/Chain_HA_5/a_9_8# 2 8 606 -326
+n 2Complement_1/8bitAdder_0/Chain_HA_5/a_9_52# VSS 2Complement_1/8bitAdder_0/Chain_HA_6/B 2 8 630 -326
+p 2Complement_1/8bitAdder_0/Chain_HA_5/B 2Complement_1/8bitAdder_0/Chain_HA_5/a_9_52# VDD 2 8 614 -282
+n 2Complement_1/8bitAdder_0/Chain_HA_6/XOR2_0/a_n23_8# VSS 2Complement_1/8bitAdder_0/Chain_HA_6/XOR2_0/a_25_8# 2 4 814 -326
+p 2Complement_1/8bitAdder_0/Chain_HA_6/B VDD 2Complement_1/8bitAdder_0/Chain_HA_6/XOR2_0/a_n7_8# 2 8 783 -290
+p 2Complement_1/8bitINV_0/Y6 2Complement_1/8bitAdder_0/Chain_HA_6/XOR2_0/a_2_44# VDD 2 8 798 -290
+p 2Complement_1/8bitAdder_0/Chain_HA_6/XOR2_0/a_n23_8# 2Complement_1/8bitAdder_0/Chain_HA_6/XOR2_0/a_2_44# 2Complement_1/mux2x1_8_0/B6 2 8 814 -290
+p 2Complement_1/8bitAdder_0/Chain_HA_6/XOR2_0/a_n7_8# 2Complement_1/mux2x1_8_0/B6 2Complement_1/8bitAdder_0/Chain_HA_6/XOR2_0/a_2_44# 2 8 822 -290
+n 2Complement_1/8bitAdder_0/Chain_HA_6/B 2Complement_1/8bitAdder_0/Chain_HA_6/XOR2_0/a_9_8# VSS 2 4 806 -326
+n 2Complement_1/8bitINV_0/Y6 2Complement_1/mux2x1_8_0/B6 2Complement_1/8bitAdder_0/Chain_HA_6/XOR2_0/a_9_8# 2 4 798 -326
+p 2Complement_1/8bitINV_0/Y6 VDD 2Complement_1/8bitAdder_0/Chain_HA_6/XOR2_0/a_n23_8# 2 8 767 -290
+n 2Complement_1/8bitAdder_0/Chain_HA_6/XOR2_0/a_n7_8# 2Complement_1/8bitAdder_0/Chain_HA_6/XOR2_0/a_25_8# 2Complement_1/mux2x1_8_0/B6 2 4 822 -326
+n 2Complement_1/8bitAdder_0/Chain_HA_6/B VSS 2Complement_1/8bitAdder_0/Chain_HA_6/XOR2_0/a_n7_8# 2 4 783 -326
+n 2Complement_1/8bitINV_0/Y6 VSS 2Complement_1/8bitAdder_0/Chain_HA_6/XOR2_0/a_n23_8# 2 4 767 -326
+p 2Complement_1/8bitAdder_0/Chain_HA_6/B VDD 2Complement_1/8bitAdder_0/Chain_HA_6/XOR2_0/a_2_44# 2 8 806 -290
+p 2Complement_1/8bitINV_0/Y6 VDD 2Complement_1/8bitAdder_0/Chain_HA_6/a_9_52# 2 8 726 -282
+p 2Complement_1/8bitAdder_0/Chain_HA_6/a_9_52# VDD 2Complement_1/8bitAdder_0/Chain_HA_7/B 2 8 750 -282
+n 2Complement_1/8bitAdder_0/Chain_HA_6/B 2Complement_1/8bitAdder_0/Chain_HA_6/a_9_8# 2Complement_1/8bitAdder_0/Chain_HA_6/a_9_52# 2 8 734 -326
+n 2Complement_1/8bitINV_0/Y6 VSS 2Complement_1/8bitAdder_0/Chain_HA_6/a_9_8# 2 8 726 -326
+n 2Complement_1/8bitAdder_0/Chain_HA_6/a_9_52# VSS 2Complement_1/8bitAdder_0/Chain_HA_7/B 2 8 750 -326
+p 2Complement_1/8bitAdder_0/Chain_HA_6/B 2Complement_1/8bitAdder_0/Chain_HA_6/a_9_52# VDD 2 8 734 -282
+n 2Complement_1/8bitAdder_0/Chain_HA_7/XOR2_0/a_n23_8# VSS 2Complement_1/8bitAdder_0/Chain_HA_7/XOR2_0/a_25_8# 2 4 934 -326
+p 2Complement_1/8bitAdder_0/Chain_HA_7/B VDD 2Complement_1/8bitAdder_0/Chain_HA_7/XOR2_0/a_n7_8# 2 8 903 -290
+p 2Complement_1/8bitINV_0/Y7 2Complement_1/8bitAdder_0/Chain_HA_7/XOR2_0/a_2_44# VDD 2 8 918 -290
+p 2Complement_1/8bitAdder_0/Chain_HA_7/XOR2_0/a_n23_8# 2Complement_1/8bitAdder_0/Chain_HA_7/XOR2_0/a_2_44# 2Complement_1/mux2x1_8_0/B7 2 8 934 -290
+p 2Complement_1/8bitAdder_0/Chain_HA_7/XOR2_0/a_n7_8# 2Complement_1/mux2x1_8_0/B7 2Complement_1/8bitAdder_0/Chain_HA_7/XOR2_0/a_2_44# 2 8 942 -290
+n 2Complement_1/8bitAdder_0/Chain_HA_7/B 2Complement_1/8bitAdder_0/Chain_HA_7/XOR2_0/a_9_8# VSS 2 4 926 -326
+n 2Complement_1/8bitINV_0/Y7 2Complement_1/mux2x1_8_0/B7 2Complement_1/8bitAdder_0/Chain_HA_7/XOR2_0/a_9_8# 2 4 918 -326
+p 2Complement_1/8bitINV_0/Y7 VDD 2Complement_1/8bitAdder_0/Chain_HA_7/XOR2_0/a_n23_8# 2 8 887 -290
+n 2Complement_1/8bitAdder_0/Chain_HA_7/XOR2_0/a_n7_8# 2Complement_1/8bitAdder_0/Chain_HA_7/XOR2_0/a_25_8# 2Complement_1/mux2x1_8_0/B7 2 4 942 -326
+n 2Complement_1/8bitAdder_0/Chain_HA_7/B VSS 2Complement_1/8bitAdder_0/Chain_HA_7/XOR2_0/a_n7_8# 2 4 903 -326
+n 2Complement_1/8bitINV_0/Y7 VSS 2Complement_1/8bitAdder_0/Chain_HA_7/XOR2_0/a_n23_8# 2 4 887 -326
+p 2Complement_1/8bitAdder_0/Chain_HA_7/B VDD 2Complement_1/8bitAdder_0/Chain_HA_7/XOR2_0/a_2_44# 2 8 926 -290
+p 2Complement_1/8bitINV_0/Y7 VDD 2Complement_1/8bitAdder_0/Chain_HA_7/a_9_52# 2 8 846 -282
+p 2Complement_1/8bitAdder_0/Chain_HA_7/a_9_52# VDD 2Complement_1/8bitAdder_0/Cout 2 8 870 -282
+n 2Complement_1/8bitAdder_0/Chain_HA_7/B 2Complement_1/8bitAdder_0/Chain_HA_7/a_9_8# 2Complement_1/8bitAdder_0/Chain_HA_7/a_9_52# 2 8 854 -326
+n 2Complement_1/8bitINV_0/Y7 VSS 2Complement_1/8bitAdder_0/Chain_HA_7/a_9_8# 2 8 846 -326
+n 2Complement_1/8bitAdder_0/Chain_HA_7/a_9_52# VSS 2Complement_1/8bitAdder_0/Cout 2 8 870 -326
+p 2Complement_1/8bitAdder_0/Chain_HA_7/B 2Complement_1/8bitAdder_0/Chain_HA_7/a_9_52# VDD 2 8 854 -282
+p 2Complement_1/mux2x1_8_0/mux2x1_0/OR2_0/A VDD 2Complement_1/mux2x1_8_0/mux2x1_0/OR2_0/a_9_36# 2 16 103 -416
+p 2Complement_1/mux2x1_8_0/mux2x1_0/OR2_0/a_9_8# VDD Y8 2 16 127 -416
+n 2Complement_1/mux2x1_8_0/mux2x1_0/OR2_0/B 2Complement_1/mux2x1_8_0/mux2x1_0/OR2_0/a_9_8# VSS 2 4 111 -444
+n 2Complement_1/mux2x1_8_0/mux2x1_0/OR2_0/A VSS 2Complement_1/mux2x1_8_0/mux2x1_0/OR2_0/a_9_8# 2 4 103 -444
+n 2Complement_1/mux2x1_8_0/mux2x1_0/OR2_0/a_9_8# VSS Y8 2 4 127 -444
+p 2Complement_1/mux2x1_8_0/mux2x1_0/OR2_0/B 2Complement_1/mux2x1_8_0/mux2x1_0/OR2_0/a_9_36# 2Complement_1/mux2x1_8_0/mux2x1_0/OR2_0/a_9_8# 2 16 111 -416
+p A8 VDD 2Complement_1/mux2x1_8_0/mux2x1_0/AND2_0/a_9_44# 2 8 23 -408
+p 2Complement_1/mux2x1_8_0/mux2x1_0/AND2_0/a_9_44# VDD 2Complement_1/mux2x1_8_0/mux2x1_0/OR2_0/B 2 8 47 -408
+n 2Complement_1/mux2x1_8_0/mux2x1_0/Sb 2Complement_1/mux2x1_8_0/mux2x1_0/AND2_0/a_9_8# 2Complement_1/mux2x1_8_0/mux2x1_0/AND2_0/a_9_44# 2 8 31 -444
+n A8 VSS 2Complement_1/mux2x1_8_0/mux2x1_0/AND2_0/a_9_8# 2 8 23 -444
+n 2Complement_1/mux2x1_8_0/mux2x1_0/AND2_0/a_9_44# VSS 2Complement_1/mux2x1_8_0/mux2x1_0/OR2_0/B 2 8 47 -444
+p 2Complement_1/mux2x1_8_0/mux2x1_0/Sb 2Complement_1/mux2x1_8_0/mux2x1_0/AND2_0/a_9_44# VDD 2 8 31 -408
+p 2Complement_1/mux2x1_8_0/B0 VDD 2Complement_1/mux2x1_8_0/mux2x1_0/AND2_1/a_9_44# 2 8 63 -408
+p 2Complement_1/mux2x1_8_0/mux2x1_0/AND2_1/a_9_44# VDD 2Complement_1/mux2x1_8_0/mux2x1_0/OR2_0/A 2 8 87 -408
+n XOR2_0/Y 2Complement_1/mux2x1_8_0/mux2x1_0/AND2_1/a_9_8# 2Complement_1/mux2x1_8_0/mux2x1_0/AND2_1/a_9_44# 2 8 71 -444
+n 2Complement_1/mux2x1_8_0/B0 VSS 2Complement_1/mux2x1_8_0/mux2x1_0/AND2_1/a_9_8# 2 8 63 -444
+n 2Complement_1/mux2x1_8_0/mux2x1_0/AND2_1/a_9_44# VSS 2Complement_1/mux2x1_8_0/mux2x1_0/OR2_0/A 2 8 87 -444
+p XOR2_0/Y 2Complement_1/mux2x1_8_0/mux2x1_0/AND2_1/a_9_44# VDD 2 8 71 -408
+p XOR2_0/Y VDD 2Complement_1/mux2x1_8_0/mux2x1_0/Sb 2 8 7 -408
+n XOR2_0/Y VSS 2Complement_1/mux2x1_8_0/mux2x1_0/Sb 2 4 7 -444
+p 2Complement_1/mux2x1_8_0/mux2x1_1/OR2_0/A VDD 2Complement_1/mux2x1_8_0/mux2x1_1/OR2_0/a_9_36# 2 16 239 -416
+p 2Complement_1/mux2x1_8_0/mux2x1_1/OR2_0/a_9_8# VDD Y9 2 16 263 -416
+n 2Complement_1/mux2x1_8_0/mux2x1_1/OR2_0/B 2Complement_1/mux2x1_8_0/mux2x1_1/OR2_0/a_9_8# VSS 2 4 247 -444
+n 2Complement_1/mux2x1_8_0/mux2x1_1/OR2_0/A VSS 2Complement_1/mux2x1_8_0/mux2x1_1/OR2_0/a_9_8# 2 4 239 -444
+n 2Complement_1/mux2x1_8_0/mux2x1_1/OR2_0/a_9_8# VSS Y9 2 4 263 -444
+p 2Complement_1/mux2x1_8_0/mux2x1_1/OR2_0/B 2Complement_1/mux2x1_8_0/mux2x1_1/OR2_0/a_9_36# 2Complement_1/mux2x1_8_0/mux2x1_1/OR2_0/a_9_8# 2 16 247 -416
+p A9 VDD 2Complement_1/mux2x1_8_0/mux2x1_1/AND2_0/a_9_44# 2 8 159 -408
+p 2Complement_1/mux2x1_8_0/mux2x1_1/AND2_0/a_9_44# VDD 2Complement_1/mux2x1_8_0/mux2x1_1/OR2_0/B 2 8 183 -408
+n 2Complement_1/mux2x1_8_0/mux2x1_1/Sb 2Complement_1/mux2x1_8_0/mux2x1_1/AND2_0/a_9_8# 2Complement_1/mux2x1_8_0/mux2x1_1/AND2_0/a_9_44# 2 8 167 -444
+n A9 VSS 2Complement_1/mux2x1_8_0/mux2x1_1/AND2_0/a_9_8# 2 8 159 -444
+n 2Complement_1/mux2x1_8_0/mux2x1_1/AND2_0/a_9_44# VSS 2Complement_1/mux2x1_8_0/mux2x1_1/OR2_0/B 2 8 183 -444
+p 2Complement_1/mux2x1_8_0/mux2x1_1/Sb 2Complement_1/mux2x1_8_0/mux2x1_1/AND2_0/a_9_44# VDD 2 8 167 -408
+p 2Complement_1/mux2x1_8_0/B1 VDD 2Complement_1/mux2x1_8_0/mux2x1_1/AND2_1/a_9_44# 2 8 199 -408
+p 2Complement_1/mux2x1_8_0/mux2x1_1/AND2_1/a_9_44# VDD 2Complement_1/mux2x1_8_0/mux2x1_1/OR2_0/A 2 8 223 -408
+n XOR2_0/Y 2Complement_1/mux2x1_8_0/mux2x1_1/AND2_1/a_9_8# 2Complement_1/mux2x1_8_0/mux2x1_1/AND2_1/a_9_44# 2 8 207 -444
+n 2Complement_1/mux2x1_8_0/B1 VSS 2Complement_1/mux2x1_8_0/mux2x1_1/AND2_1/a_9_8# 2 8 199 -444
+n 2Complement_1/mux2x1_8_0/mux2x1_1/AND2_1/a_9_44# VSS 2Complement_1/mux2x1_8_0/mux2x1_1/OR2_0/A 2 8 223 -444
+p XOR2_0/Y 2Complement_1/mux2x1_8_0/mux2x1_1/AND2_1/a_9_44# VDD 2 8 207 -408
+p XOR2_0/Y VDD 2Complement_1/mux2x1_8_0/mux2x1_1/Sb 2 8 143 -408
+n XOR2_0/Y VSS 2Complement_1/mux2x1_8_0/mux2x1_1/Sb 2 4 143 -444
+p 2Complement_1/mux2x1_8_0/mux2x1_2/OR2_0/A VDD 2Complement_1/mux2x1_8_0/mux2x1_2/OR2_0/a_9_36# 2 16 375 -416
+p 2Complement_1/mux2x1_8_0/mux2x1_2/OR2_0/a_9_8# VDD Y10 2 16 399 -416
+n 2Complement_1/mux2x1_8_0/mux2x1_2/OR2_0/B 2Complement_1/mux2x1_8_0/mux2x1_2/OR2_0/a_9_8# VSS 2 4 383 -444
+n 2Complement_1/mux2x1_8_0/mux2x1_2/OR2_0/A VSS 2Complement_1/mux2x1_8_0/mux2x1_2/OR2_0/a_9_8# 2 4 375 -444
+n 2Complement_1/mux2x1_8_0/mux2x1_2/OR2_0/a_9_8# VSS Y10 2 4 399 -444
+p 2Complement_1/mux2x1_8_0/mux2x1_2/OR2_0/B 2Complement_1/mux2x1_8_0/mux2x1_2/OR2_0/a_9_36# 2Complement_1/mux2x1_8_0/mux2x1_2/OR2_0/a_9_8# 2 16 383 -416
+p A10 VDD 2Complement_1/mux2x1_8_0/mux2x1_2/AND2_0/a_9_44# 2 8 295 -408
+p 2Complement_1/mux2x1_8_0/mux2x1_2/AND2_0/a_9_44# VDD 2Complement_1/mux2x1_8_0/mux2x1_2/OR2_0/B 2 8 319 -408
+n 2Complement_1/mux2x1_8_0/mux2x1_2/Sb 2Complement_1/mux2x1_8_0/mux2x1_2/AND2_0/a_9_8# 2Complement_1/mux2x1_8_0/mux2x1_2/AND2_0/a_9_44# 2 8 303 -444
+n A10 VSS 2Complement_1/mux2x1_8_0/mux2x1_2/AND2_0/a_9_8# 2 8 295 -444
+n 2Complement_1/mux2x1_8_0/mux2x1_2/AND2_0/a_9_44# VSS 2Complement_1/mux2x1_8_0/mux2x1_2/OR2_0/B 2 8 319 -444
+p 2Complement_1/mux2x1_8_0/mux2x1_2/Sb 2Complement_1/mux2x1_8_0/mux2x1_2/AND2_0/a_9_44# VDD 2 8 303 -408
+p 2Complement_1/mux2x1_8_0/B2 VDD 2Complement_1/mux2x1_8_0/mux2x1_2/AND2_1/a_9_44# 2 8 335 -408
+p 2Complement_1/mux2x1_8_0/mux2x1_2/AND2_1/a_9_44# VDD 2Complement_1/mux2x1_8_0/mux2x1_2/OR2_0/A 2 8 359 -408
+n XOR2_0/Y 2Complement_1/mux2x1_8_0/mux2x1_2/AND2_1/a_9_8# 2Complement_1/mux2x1_8_0/mux2x1_2/AND2_1/a_9_44# 2 8 343 -444
+n 2Complement_1/mux2x1_8_0/B2 VSS 2Complement_1/mux2x1_8_0/mux2x1_2/AND2_1/a_9_8# 2 8 335 -444
+n 2Complement_1/mux2x1_8_0/mux2x1_2/AND2_1/a_9_44# VSS 2Complement_1/mux2x1_8_0/mux2x1_2/OR2_0/A 2 8 359 -444
+p XOR2_0/Y 2Complement_1/mux2x1_8_0/mux2x1_2/AND2_1/a_9_44# VDD 2 8 343 -408
+p XOR2_0/Y VDD 2Complement_1/mux2x1_8_0/mux2x1_2/Sb 2 8 279 -408
+n XOR2_0/Y VSS 2Complement_1/mux2x1_8_0/mux2x1_2/Sb 2 4 279 -444
+p 2Complement_1/mux2x1_8_0/mux2x1_3/OR2_0/A VDD 2Complement_1/mux2x1_8_0/mux2x1_3/OR2_0/a_9_36# 2 16 511 -416
+p 2Complement_1/mux2x1_8_0/mux2x1_3/OR2_0/a_9_8# VDD Y11 2 16 535 -416
+n 2Complement_1/mux2x1_8_0/mux2x1_3/OR2_0/B 2Complement_1/mux2x1_8_0/mux2x1_3/OR2_0/a_9_8# VSS 2 4 519 -444
+n 2Complement_1/mux2x1_8_0/mux2x1_3/OR2_0/A VSS 2Complement_1/mux2x1_8_0/mux2x1_3/OR2_0/a_9_8# 2 4 511 -444
+n 2Complement_1/mux2x1_8_0/mux2x1_3/OR2_0/a_9_8# VSS Y11 2 4 535 -444
+p 2Complement_1/mux2x1_8_0/mux2x1_3/OR2_0/B 2Complement_1/mux2x1_8_0/mux2x1_3/OR2_0/a_9_36# 2Complement_1/mux2x1_8_0/mux2x1_3/OR2_0/a_9_8# 2 16 519 -416
+p A11 VDD 2Complement_1/mux2x1_8_0/mux2x1_3/AND2_0/a_9_44# 2 8 431 -408
+p 2Complement_1/mux2x1_8_0/mux2x1_3/AND2_0/a_9_44# VDD 2Complement_1/mux2x1_8_0/mux2x1_3/OR2_0/B 2 8 455 -408
+n 2Complement_1/mux2x1_8_0/mux2x1_3/Sb 2Complement_1/mux2x1_8_0/mux2x1_3/AND2_0/a_9_8# 2Complement_1/mux2x1_8_0/mux2x1_3/AND2_0/a_9_44# 2 8 439 -444
+n A11 VSS 2Complement_1/mux2x1_8_0/mux2x1_3/AND2_0/a_9_8# 2 8 431 -444
+n 2Complement_1/mux2x1_8_0/mux2x1_3/AND2_0/a_9_44# VSS 2Complement_1/mux2x1_8_0/mux2x1_3/OR2_0/B 2 8 455 -444
+p 2Complement_1/mux2x1_8_0/mux2x1_3/Sb 2Complement_1/mux2x1_8_0/mux2x1_3/AND2_0/a_9_44# VDD 2 8 439 -408
+p 2Complement_1/mux2x1_8_0/B3 VDD 2Complement_1/mux2x1_8_0/mux2x1_3/AND2_1/a_9_44# 2 8 471 -408
+p 2Complement_1/mux2x1_8_0/mux2x1_3/AND2_1/a_9_44# VDD 2Complement_1/mux2x1_8_0/mux2x1_3/OR2_0/A 2 8 495 -408
+n XOR2_0/Y 2Complement_1/mux2x1_8_0/mux2x1_3/AND2_1/a_9_8# 2Complement_1/mux2x1_8_0/mux2x1_3/AND2_1/a_9_44# 2 8 479 -444
+n 2Complement_1/mux2x1_8_0/B3 VSS 2Complement_1/mux2x1_8_0/mux2x1_3/AND2_1/a_9_8# 2 8 471 -444
+n 2Complement_1/mux2x1_8_0/mux2x1_3/AND2_1/a_9_44# VSS 2Complement_1/mux2x1_8_0/mux2x1_3/OR2_0/A 2 8 495 -444
+p XOR2_0/Y 2Complement_1/mux2x1_8_0/mux2x1_3/AND2_1/a_9_44# VDD 2 8 479 -408
+p XOR2_0/Y VDD 2Complement_1/mux2x1_8_0/mux2x1_3/Sb 2 8 415 -408
+n XOR2_0/Y VSS 2Complement_1/mux2x1_8_0/mux2x1_3/Sb 2 4 415 -444
+p 2Complement_1/mux2x1_8_0/mux2x1_4/OR2_0/A VDD 2Complement_1/mux2x1_8_0/mux2x1_4/OR2_0/a_9_36# 2 16 647 -416
+p 2Complement_1/mux2x1_8_0/mux2x1_4/OR2_0/a_9_8# VDD Y12 2 16 671 -416
+n 2Complement_1/mux2x1_8_0/mux2x1_4/OR2_0/B 2Complement_1/mux2x1_8_0/mux2x1_4/OR2_0/a_9_8# VSS 2 4 655 -444
+n 2Complement_1/mux2x1_8_0/mux2x1_4/OR2_0/A VSS 2Complement_1/mux2x1_8_0/mux2x1_4/OR2_0/a_9_8# 2 4 647 -444
+n 2Complement_1/mux2x1_8_0/mux2x1_4/OR2_0/a_9_8# VSS Y12 2 4 671 -444
+p 2Complement_1/mux2x1_8_0/mux2x1_4/OR2_0/B 2Complement_1/mux2x1_8_0/mux2x1_4/OR2_0/a_9_36# 2Complement_1/mux2x1_8_0/mux2x1_4/OR2_0/a_9_8# 2 16 655 -416
+p A12 VDD 2Complement_1/mux2x1_8_0/mux2x1_4/AND2_0/a_9_44# 2 8 567 -408
+p 2Complement_1/mux2x1_8_0/mux2x1_4/AND2_0/a_9_44# VDD 2Complement_1/mux2x1_8_0/mux2x1_4/OR2_0/B 2 8 591 -408
+n 2Complement_1/mux2x1_8_0/mux2x1_4/Sb 2Complement_1/mux2x1_8_0/mux2x1_4/AND2_0/a_9_8# 2Complement_1/mux2x1_8_0/mux2x1_4/AND2_0/a_9_44# 2 8 575 -444
+n A12 VSS 2Complement_1/mux2x1_8_0/mux2x1_4/AND2_0/a_9_8# 2 8 567 -444
+n 2Complement_1/mux2x1_8_0/mux2x1_4/AND2_0/a_9_44# VSS 2Complement_1/mux2x1_8_0/mux2x1_4/OR2_0/B 2 8 591 -444
+p 2Complement_1/mux2x1_8_0/mux2x1_4/Sb 2Complement_1/mux2x1_8_0/mux2x1_4/AND2_0/a_9_44# VDD 2 8 575 -408
+p 2Complement_1/mux2x1_8_0/B4 VDD 2Complement_1/mux2x1_8_0/mux2x1_4/AND2_1/a_9_44# 2 8 607 -408
+p 2Complement_1/mux2x1_8_0/mux2x1_4/AND2_1/a_9_44# VDD 2Complement_1/mux2x1_8_0/mux2x1_4/OR2_0/A 2 8 631 -408
+n XOR2_0/Y 2Complement_1/mux2x1_8_0/mux2x1_4/AND2_1/a_9_8# 2Complement_1/mux2x1_8_0/mux2x1_4/AND2_1/a_9_44# 2 8 615 -444
+n 2Complement_1/mux2x1_8_0/B4 VSS 2Complement_1/mux2x1_8_0/mux2x1_4/AND2_1/a_9_8# 2 8 607 -444
+n 2Complement_1/mux2x1_8_0/mux2x1_4/AND2_1/a_9_44# VSS 2Complement_1/mux2x1_8_0/mux2x1_4/OR2_0/A 2 8 631 -444
+p XOR2_0/Y 2Complement_1/mux2x1_8_0/mux2x1_4/AND2_1/a_9_44# VDD 2 8 615 -408
+p XOR2_0/Y VDD 2Complement_1/mux2x1_8_0/mux2x1_4/Sb 2 8 551 -408
+n XOR2_0/Y VSS 2Complement_1/mux2x1_8_0/mux2x1_4/Sb 2 4 551 -444
+p 2Complement_1/mux2x1_8_0/mux2x1_5/OR2_0/A VDD 2Complement_1/mux2x1_8_0/mux2x1_5/OR2_0/a_9_36# 2 16 783 -416
+p 2Complement_1/mux2x1_8_0/mux2x1_5/OR2_0/a_9_8# VDD Y13 2 16 807 -416
+n 2Complement_1/mux2x1_8_0/mux2x1_5/OR2_0/B 2Complement_1/mux2x1_8_0/mux2x1_5/OR2_0/a_9_8# VSS 2 4 791 -444
+n 2Complement_1/mux2x1_8_0/mux2x1_5/OR2_0/A VSS 2Complement_1/mux2x1_8_0/mux2x1_5/OR2_0/a_9_8# 2 4 783 -444
+n 2Complement_1/mux2x1_8_0/mux2x1_5/OR2_0/a_9_8# VSS Y13 2 4 807 -444
+p 2Complement_1/mux2x1_8_0/mux2x1_5/OR2_0/B 2Complement_1/mux2x1_8_0/mux2x1_5/OR2_0/a_9_36# 2Complement_1/mux2x1_8_0/mux2x1_5/OR2_0/a_9_8# 2 16 791 -416
+p A13 VDD 2Complement_1/mux2x1_8_0/mux2x1_5/AND2_0/a_9_44# 2 8 703 -408
+p 2Complement_1/mux2x1_8_0/mux2x1_5/AND2_0/a_9_44# VDD 2Complement_1/mux2x1_8_0/mux2x1_5/OR2_0/B 2 8 727 -408
+n 2Complement_1/mux2x1_8_0/mux2x1_5/Sb 2Complement_1/mux2x1_8_0/mux2x1_5/AND2_0/a_9_8# 2Complement_1/mux2x1_8_0/mux2x1_5/AND2_0/a_9_44# 2 8 711 -444
+n A13 VSS 2Complement_1/mux2x1_8_0/mux2x1_5/AND2_0/a_9_8# 2 8 703 -444
+n 2Complement_1/mux2x1_8_0/mux2x1_5/AND2_0/a_9_44# VSS 2Complement_1/mux2x1_8_0/mux2x1_5/OR2_0/B 2 8 727 -444
+p 2Complement_1/mux2x1_8_0/mux2x1_5/Sb 2Complement_1/mux2x1_8_0/mux2x1_5/AND2_0/a_9_44# VDD 2 8 711 -408
+p 2Complement_1/mux2x1_8_0/B5 VDD 2Complement_1/mux2x1_8_0/mux2x1_5/AND2_1/a_9_44# 2 8 743 -408
+p 2Complement_1/mux2x1_8_0/mux2x1_5/AND2_1/a_9_44# VDD 2Complement_1/mux2x1_8_0/mux2x1_5/OR2_0/A 2 8 767 -408
+n XOR2_0/Y 2Complement_1/mux2x1_8_0/mux2x1_5/AND2_1/a_9_8# 2Complement_1/mux2x1_8_0/mux2x1_5/AND2_1/a_9_44# 2 8 751 -444
+n 2Complement_1/mux2x1_8_0/B5 VSS 2Complement_1/mux2x1_8_0/mux2x1_5/AND2_1/a_9_8# 2 8 743 -444
+n 2Complement_1/mux2x1_8_0/mux2x1_5/AND2_1/a_9_44# VSS 2Complement_1/mux2x1_8_0/mux2x1_5/OR2_0/A 2 8 767 -444
+p XOR2_0/Y 2Complement_1/mux2x1_8_0/mux2x1_5/AND2_1/a_9_44# VDD 2 8 751 -408
+p XOR2_0/Y VDD 2Complement_1/mux2x1_8_0/mux2x1_5/Sb 2 8 687 -408
+n XOR2_0/Y VSS 2Complement_1/mux2x1_8_0/mux2x1_5/Sb 2 4 687 -444
+p 2Complement_1/mux2x1_8_0/mux2x1_6/OR2_0/A VDD 2Complement_1/mux2x1_8_0/mux2x1_6/OR2_0/a_9_36# 2 16 919 -416
+p 2Complement_1/mux2x1_8_0/mux2x1_6/OR2_0/a_9_8# VDD Y14 2 16 943 -416
+n 2Complement_1/mux2x1_8_0/mux2x1_6/OR2_0/B 2Complement_1/mux2x1_8_0/mux2x1_6/OR2_0/a_9_8# VSS 2 4 927 -444
+n 2Complement_1/mux2x1_8_0/mux2x1_6/OR2_0/A VSS 2Complement_1/mux2x1_8_0/mux2x1_6/OR2_0/a_9_8# 2 4 919 -444
+n 2Complement_1/mux2x1_8_0/mux2x1_6/OR2_0/a_9_8# VSS Y14 2 4 943 -444
+p 2Complement_1/mux2x1_8_0/mux2x1_6/OR2_0/B 2Complement_1/mux2x1_8_0/mux2x1_6/OR2_0/a_9_36# 2Complement_1/mux2x1_8_0/mux2x1_6/OR2_0/a_9_8# 2 16 927 -416
+p A14 VDD 2Complement_1/mux2x1_8_0/mux2x1_6/AND2_0/a_9_44# 2 8 839 -408
+p 2Complement_1/mux2x1_8_0/mux2x1_6/AND2_0/a_9_44# VDD 2Complement_1/mux2x1_8_0/mux2x1_6/OR2_0/B 2 8 863 -408
+n 2Complement_1/mux2x1_8_0/mux2x1_6/Sb 2Complement_1/mux2x1_8_0/mux2x1_6/AND2_0/a_9_8# 2Complement_1/mux2x1_8_0/mux2x1_6/AND2_0/a_9_44# 2 8 847 -444
+n A14 VSS 2Complement_1/mux2x1_8_0/mux2x1_6/AND2_0/a_9_8# 2 8 839 -444
+n 2Complement_1/mux2x1_8_0/mux2x1_6/AND2_0/a_9_44# VSS 2Complement_1/mux2x1_8_0/mux2x1_6/OR2_0/B 2 8 863 -444
+p 2Complement_1/mux2x1_8_0/mux2x1_6/Sb 2Complement_1/mux2x1_8_0/mux2x1_6/AND2_0/a_9_44# VDD 2 8 847 -408
+p 2Complement_1/mux2x1_8_0/B6 VDD 2Complement_1/mux2x1_8_0/mux2x1_6/AND2_1/a_9_44# 2 8 879 -408
+p 2Complement_1/mux2x1_8_0/mux2x1_6/AND2_1/a_9_44# VDD 2Complement_1/mux2x1_8_0/mux2x1_6/OR2_0/A 2 8 903 -408
+n XOR2_0/Y 2Complement_1/mux2x1_8_0/mux2x1_6/AND2_1/a_9_8# 2Complement_1/mux2x1_8_0/mux2x1_6/AND2_1/a_9_44# 2 8 887 -444
+n 2Complement_1/mux2x1_8_0/B6 VSS 2Complement_1/mux2x1_8_0/mux2x1_6/AND2_1/a_9_8# 2 8 879 -444
+n 2Complement_1/mux2x1_8_0/mux2x1_6/AND2_1/a_9_44# VSS 2Complement_1/mux2x1_8_0/mux2x1_6/OR2_0/A 2 8 903 -444
+p XOR2_0/Y 2Complement_1/mux2x1_8_0/mux2x1_6/AND2_1/a_9_44# VDD 2 8 887 -408
+p XOR2_0/Y VDD 2Complement_1/mux2x1_8_0/mux2x1_6/Sb 2 8 823 -408
+n XOR2_0/Y VSS 2Complement_1/mux2x1_8_0/mux2x1_6/Sb 2 4 823 -444
+p 2Complement_1/mux2x1_8_0/mux2x1_7/OR2_0/A VDD 2Complement_1/mux2x1_8_0/mux2x1_7/OR2_0/a_9_36# 2 16 1055 -416
+p 2Complement_1/mux2x1_8_0/mux2x1_7/OR2_0/a_9_8# VDD Y15 2 16 1079 -416
+n 2Complement_1/mux2x1_8_0/mux2x1_7/OR2_0/B 2Complement_1/mux2x1_8_0/mux2x1_7/OR2_0/a_9_8# VSS 2 4 1063 -444
+n 2Complement_1/mux2x1_8_0/mux2x1_7/OR2_0/A VSS 2Complement_1/mux2x1_8_0/mux2x1_7/OR2_0/a_9_8# 2 4 1055 -444
+n 2Complement_1/mux2x1_8_0/mux2x1_7/OR2_0/a_9_8# VSS Y15 2 4 1079 -444
+p 2Complement_1/mux2x1_8_0/mux2x1_7/OR2_0/B 2Complement_1/mux2x1_8_0/mux2x1_7/OR2_0/a_9_36# 2Complement_1/mux2x1_8_0/mux2x1_7/OR2_0/a_9_8# 2 16 1063 -416
+p A15 VDD 2Complement_1/mux2x1_8_0/mux2x1_7/AND2_0/a_9_44# 2 8 975 -408
+p 2Complement_1/mux2x1_8_0/mux2x1_7/AND2_0/a_9_44# VDD 2Complement_1/mux2x1_8_0/mux2x1_7/OR2_0/B 2 8 999 -408
+n 2Complement_1/mux2x1_8_0/mux2x1_7/Sb 2Complement_1/mux2x1_8_0/mux2x1_7/AND2_0/a_9_8# 2Complement_1/mux2x1_8_0/mux2x1_7/AND2_0/a_9_44# 2 8 983 -444
+n A15 VSS 2Complement_1/mux2x1_8_0/mux2x1_7/AND2_0/a_9_8# 2 8 975 -444
+n 2Complement_1/mux2x1_8_0/mux2x1_7/AND2_0/a_9_44# VSS 2Complement_1/mux2x1_8_0/mux2x1_7/OR2_0/B 2 8 999 -444
+p 2Complement_1/mux2x1_8_0/mux2x1_7/Sb 2Complement_1/mux2x1_8_0/mux2x1_7/AND2_0/a_9_44# VDD 2 8 983 -408
+p 2Complement_1/mux2x1_8_0/B7 VDD 2Complement_1/mux2x1_8_0/mux2x1_7/AND2_1/a_9_44# 2 8 1015 -408
+p 2Complement_1/mux2x1_8_0/mux2x1_7/AND2_1/a_9_44# VDD 2Complement_1/mux2x1_8_0/mux2x1_7/OR2_0/A 2 8 1039 -408
+n XOR2_0/Y 2Complement_1/mux2x1_8_0/mux2x1_7/AND2_1/a_9_8# 2Complement_1/mux2x1_8_0/mux2x1_7/AND2_1/a_9_44# 2 8 1023 -444
+n 2Complement_1/mux2x1_8_0/B7 VSS 2Complement_1/mux2x1_8_0/mux2x1_7/AND2_1/a_9_8# 2 8 1015 -444
+n 2Complement_1/mux2x1_8_0/mux2x1_7/AND2_1/a_9_44# VSS 2Complement_1/mux2x1_8_0/mux2x1_7/OR2_0/A 2 8 1039 -444
+p XOR2_0/Y 2Complement_1/mux2x1_8_0/mux2x1_7/AND2_1/a_9_44# VDD 2 8 1023 -408
+p XOR2_0/Y VDD 2Complement_1/mux2x1_8_0/mux2x1_7/Sb 2 8 959 -408
+n XOR2_0/Y VSS 2Complement_1/mux2x1_8_0/mux2x1_7/Sb 2 4 959 -444
+p A9 VDD 2Complement_1/8bitINV_0/Y1 2 8 23 -162
+n A9 VSS 2Complement_1/8bitINV_0/Y1 2 4 23 -198
+p A10 VDD 2Complement_1/8bitINV_0/Y2 2 8 39 -162
+n A10 VSS 2Complement_1/8bitINV_0/Y2 2 4 39 -198
+p A11 VDD 2Complement_1/8bitINV_0/Y3 2 8 55 -162
+n A11 VSS 2Complement_1/8bitINV_0/Y3 2 4 55 -198
+p A12 VDD 2Complement_1/8bitINV_0/Y4 2 8 71 -162
+n A12 VSS 2Complement_1/8bitINV_0/Y4 2 4 71 -198
+p A13 VDD 2Complement_1/8bitINV_0/Y5 2 8 87 -162
+n A13 VSS 2Complement_1/8bitINV_0/Y5 2 4 87 -198
+p A14 VDD 2Complement_1/8bitINV_0/Y6 2 8 103 -162
+n A14 VSS 2Complement_1/8bitINV_0/Y6 2 4 103 -198
+p A15 VDD 2Complement_1/8bitINV_0/Y7 2 8 119 -162
+n A15 VSS 2Complement_1/8bitINV_0/Y7 2 4 119 -198
+p A8 VDD 2Complement_1/8bitINV_0/Y0 2 8 7 -162
+n A8 VSS 2Complement_1/8bitINV_0/Y0 2 4 7 -198
+n 2Complement_2/8bitAdder_0/Chain_HA_0/XOR2_0/a_n23_8# VSS 2Complement_2/8bitAdder_0/Chain_HA_0/XOR2_0/a_25_8# 2 4 95 126
+p XOR2_0/Y VDD 2Complement_2/8bitAdder_0/Chain_HA_0/XOR2_0/a_n7_8# 2 8 64 162
+p 2Complement_2/8bitINV_0/Y0 2Complement_2/8bitAdder_0/Chain_HA_0/XOR2_0/a_2_44# VDD 2 8 79 162
+p 2Complement_2/8bitAdder_0/Chain_HA_0/XOR2_0/a_n23_8# 2Complement_2/8bitAdder_0/Chain_HA_0/XOR2_0/a_2_44# 2Complement_2/mux2x1_8_0/B0 2 8 95 162
+p 2Complement_2/8bitAdder_0/Chain_HA_0/XOR2_0/a_n7_8# 2Complement_2/mux2x1_8_0/B0 2Complement_2/8bitAdder_0/Chain_HA_0/XOR2_0/a_2_44# 2 8 103 162
+n XOR2_0/Y 2Complement_2/8bitAdder_0/Chain_HA_0/XOR2_0/a_9_8# VSS 2 4 87 126
+n 2Complement_2/8bitINV_0/Y0 2Complement_2/mux2x1_8_0/B0 2Complement_2/8bitAdder_0/Chain_HA_0/XOR2_0/a_9_8# 2 4 79 126
+p 2Complement_2/8bitINV_0/Y0 VDD 2Complement_2/8bitAdder_0/Chain_HA_0/XOR2_0/a_n23_8# 2 8 48 162
+n 2Complement_2/8bitAdder_0/Chain_HA_0/XOR2_0/a_n7_8# 2Complement_2/8bitAdder_0/Chain_HA_0/XOR2_0/a_25_8# 2Complement_2/mux2x1_8_0/B0 2 4 103 126
+n XOR2_0/Y VSS 2Complement_2/8bitAdder_0/Chain_HA_0/XOR2_0/a_n7_8# 2 4 64 126
+n 2Complement_2/8bitINV_0/Y0 VSS 2Complement_2/8bitAdder_0/Chain_HA_0/XOR2_0/a_n23_8# 2 4 48 126
+p XOR2_0/Y VDD 2Complement_2/8bitAdder_0/Chain_HA_0/XOR2_0/a_2_44# 2 8 87 162
+p 2Complement_2/8bitINV_0/Y0 VDD 2Complement_2/8bitAdder_0/Chain_HA_0/a_9_52# 2 8 7 170
+p 2Complement_2/8bitAdder_0/Chain_HA_0/a_9_52# VDD 2Complement_2/8bitAdder_0/Chain_HA_1/B 2 8 31 170
+n XOR2_0/Y 2Complement_2/8bitAdder_0/Chain_HA_0/a_9_8# 2Complement_2/8bitAdder_0/Chain_HA_0/a_9_52# 2 8 15 126
+n 2Complement_2/8bitINV_0/Y0 VSS 2Complement_2/8bitAdder_0/Chain_HA_0/a_9_8# 2 8 7 126
+n 2Complement_2/8bitAdder_0/Chain_HA_0/a_9_52# VSS 2Complement_2/8bitAdder_0/Chain_HA_1/B 2 8 31 126
+p XOR2_0/Y 2Complement_2/8bitAdder_0/Chain_HA_0/a_9_52# VDD 2 8 15 170
+n 2Complement_2/8bitAdder_0/Chain_HA_1/XOR2_0/a_n23_8# VSS 2Complement_2/8bitAdder_0/Chain_HA_1/XOR2_0/a_25_8# 2 4 215 126
+p 2Complement_2/8bitAdder_0/Chain_HA_1/B VDD 2Complement_2/8bitAdder_0/Chain_HA_1/XOR2_0/a_n7_8# 2 8 184 162
+p 2Complement_2/8bitINV_0/Y1 2Complement_2/8bitAdder_0/Chain_HA_1/XOR2_0/a_2_44# VDD 2 8 199 162
+p 2Complement_2/8bitAdder_0/Chain_HA_1/XOR2_0/a_n23_8# 2Complement_2/8bitAdder_0/Chain_HA_1/XOR2_0/a_2_44# 2Complement_2/mux2x1_8_0/B1 2 8 215 162
+p 2Complement_2/8bitAdder_0/Chain_HA_1/XOR2_0/a_n7_8# 2Complement_2/mux2x1_8_0/B1 2Complement_2/8bitAdder_0/Chain_HA_1/XOR2_0/a_2_44# 2 8 223 162
+n 2Complement_2/8bitAdder_0/Chain_HA_1/B 2Complement_2/8bitAdder_0/Chain_HA_1/XOR2_0/a_9_8# VSS 2 4 207 126
+n 2Complement_2/8bitINV_0/Y1 2Complement_2/mux2x1_8_0/B1 2Complement_2/8bitAdder_0/Chain_HA_1/XOR2_0/a_9_8# 2 4 199 126
+p 2Complement_2/8bitINV_0/Y1 VDD 2Complement_2/8bitAdder_0/Chain_HA_1/XOR2_0/a_n23_8# 2 8 168 162
+n 2Complement_2/8bitAdder_0/Chain_HA_1/XOR2_0/a_n7_8# 2Complement_2/8bitAdder_0/Chain_HA_1/XOR2_0/a_25_8# 2Complement_2/mux2x1_8_0/B1 2 4 223 126
+n 2Complement_2/8bitAdder_0/Chain_HA_1/B VSS 2Complement_2/8bitAdder_0/Chain_HA_1/XOR2_0/a_n7_8# 2 4 184 126
+n 2Complement_2/8bitINV_0/Y1 VSS 2Complement_2/8bitAdder_0/Chain_HA_1/XOR2_0/a_n23_8# 2 4 168 126
+p 2Complement_2/8bitAdder_0/Chain_HA_1/B VDD 2Complement_2/8bitAdder_0/Chain_HA_1/XOR2_0/a_2_44# 2 8 207 162
+p 2Complement_2/8bitINV_0/Y1 VDD 2Complement_2/8bitAdder_0/Chain_HA_1/a_9_52# 2 8 127 170
+p 2Complement_2/8bitAdder_0/Chain_HA_1/a_9_52# VDD 2Complement_2/8bitAdder_0/Chain_HA_2/B 2 8 151 170
+n 2Complement_2/8bitAdder_0/Chain_HA_1/B 2Complement_2/8bitAdder_0/Chain_HA_1/a_9_8# 2Complement_2/8bitAdder_0/Chain_HA_1/a_9_52# 2 8 135 126
+n 2Complement_2/8bitINV_0/Y1 VSS 2Complement_2/8bitAdder_0/Chain_HA_1/a_9_8# 2 8 127 126
+n 2Complement_2/8bitAdder_0/Chain_HA_1/a_9_52# VSS 2Complement_2/8bitAdder_0/Chain_HA_2/B 2 8 151 126
+p 2Complement_2/8bitAdder_0/Chain_HA_1/B 2Complement_2/8bitAdder_0/Chain_HA_1/a_9_52# VDD 2 8 135 170
+n 2Complement_2/8bitAdder_0/Chain_HA_2/XOR2_0/a_n23_8# VSS 2Complement_2/8bitAdder_0/Chain_HA_2/XOR2_0/a_25_8# 2 4 335 126
+p 2Complement_2/8bitAdder_0/Chain_HA_2/B VDD 2Complement_2/8bitAdder_0/Chain_HA_2/XOR2_0/a_n7_8# 2 8 304 162
+p 2Complement_2/8bitINV_0/Y2 2Complement_2/8bitAdder_0/Chain_HA_2/XOR2_0/a_2_44# VDD 2 8 319 162
+p 2Complement_2/8bitAdder_0/Chain_HA_2/XOR2_0/a_n23_8# 2Complement_2/8bitAdder_0/Chain_HA_2/XOR2_0/a_2_44# 2Complement_2/mux2x1_8_0/B2 2 8 335 162
+p 2Complement_2/8bitAdder_0/Chain_HA_2/XOR2_0/a_n7_8# 2Complement_2/mux2x1_8_0/B2 2Complement_2/8bitAdder_0/Chain_HA_2/XOR2_0/a_2_44# 2 8 343 162
+n 2Complement_2/8bitAdder_0/Chain_HA_2/B 2Complement_2/8bitAdder_0/Chain_HA_2/XOR2_0/a_9_8# VSS 2 4 327 126
+n 2Complement_2/8bitINV_0/Y2 2Complement_2/mux2x1_8_0/B2 2Complement_2/8bitAdder_0/Chain_HA_2/XOR2_0/a_9_8# 2 4 319 126
+p 2Complement_2/8bitINV_0/Y2 VDD 2Complement_2/8bitAdder_0/Chain_HA_2/XOR2_0/a_n23_8# 2 8 288 162
+n 2Complement_2/8bitAdder_0/Chain_HA_2/XOR2_0/a_n7_8# 2Complement_2/8bitAdder_0/Chain_HA_2/XOR2_0/a_25_8# 2Complement_2/mux2x1_8_0/B2 2 4 343 126
+n 2Complement_2/8bitAdder_0/Chain_HA_2/B VSS 2Complement_2/8bitAdder_0/Chain_HA_2/XOR2_0/a_n7_8# 2 4 304 126
+n 2Complement_2/8bitINV_0/Y2 VSS 2Complement_2/8bitAdder_0/Chain_HA_2/XOR2_0/a_n23_8# 2 4 288 126
+p 2Complement_2/8bitAdder_0/Chain_HA_2/B VDD 2Complement_2/8bitAdder_0/Chain_HA_2/XOR2_0/a_2_44# 2 8 327 162
+p 2Complement_2/8bitINV_0/Y2 VDD 2Complement_2/8bitAdder_0/Chain_HA_2/a_9_52# 2 8 247 170
+p 2Complement_2/8bitAdder_0/Chain_HA_2/a_9_52# VDD 2Complement_2/8bitAdder_0/Chain_HA_3/B 2 8 271 170
+n 2Complement_2/8bitAdder_0/Chain_HA_2/B 2Complement_2/8bitAdder_0/Chain_HA_2/a_9_8# 2Complement_2/8bitAdder_0/Chain_HA_2/a_9_52# 2 8 255 126
+n 2Complement_2/8bitINV_0/Y2 VSS 2Complement_2/8bitAdder_0/Chain_HA_2/a_9_8# 2 8 247 126
+n 2Complement_2/8bitAdder_0/Chain_HA_2/a_9_52# VSS 2Complement_2/8bitAdder_0/Chain_HA_3/B 2 8 271 126
+p 2Complement_2/8bitAdder_0/Chain_HA_2/B 2Complement_2/8bitAdder_0/Chain_HA_2/a_9_52# VDD 2 8 255 170
+n 2Complement_2/8bitAdder_0/Chain_HA_3/XOR2_0/a_n23_8# VSS 2Complement_2/8bitAdder_0/Chain_HA_3/XOR2_0/a_25_8# 2 4 454 126
+p 2Complement_2/8bitAdder_0/Chain_HA_3/B VDD 2Complement_2/8bitAdder_0/Chain_HA_3/XOR2_0/a_n7_8# 2 8 423 162
+p 2Complement_2/8bitINV_0/Y3 2Complement_2/8bitAdder_0/Chain_HA_3/XOR2_0/a_2_44# VDD 2 8 438 162
+p 2Complement_2/8bitAdder_0/Chain_HA_3/XOR2_0/a_n23_8# 2Complement_2/8bitAdder_0/Chain_HA_3/XOR2_0/a_2_44# 2Complement_2/mux2x1_8_0/B3 2 8 454 162
+p 2Complement_2/8bitAdder_0/Chain_HA_3/XOR2_0/a_n7_8# 2Complement_2/mux2x1_8_0/B3 2Complement_2/8bitAdder_0/Chain_HA_3/XOR2_0/a_2_44# 2 8 462 162
+n 2Complement_2/8bitAdder_0/Chain_HA_3/B 2Complement_2/8bitAdder_0/Chain_HA_3/XOR2_0/a_9_8# VSS 2 4 446 126
+n 2Complement_2/8bitINV_0/Y3 2Complement_2/mux2x1_8_0/B3 2Complement_2/8bitAdder_0/Chain_HA_3/XOR2_0/a_9_8# 2 4 438 126
+p 2Complement_2/8bitINV_0/Y3 VDD 2Complement_2/8bitAdder_0/Chain_HA_3/XOR2_0/a_n23_8# 2 8 407 162
+n 2Complement_2/8bitAdder_0/Chain_HA_3/XOR2_0/a_n7_8# 2Complement_2/8bitAdder_0/Chain_HA_3/XOR2_0/a_25_8# 2Complement_2/mux2x1_8_0/B3 2 4 462 126
+n 2Complement_2/8bitAdder_0/Chain_HA_3/B VSS 2Complement_2/8bitAdder_0/Chain_HA_3/XOR2_0/a_n7_8# 2 4 423 126
+n 2Complement_2/8bitINV_0/Y3 VSS 2Complement_2/8bitAdder_0/Chain_HA_3/XOR2_0/a_n23_8# 2 4 407 126
+p 2Complement_2/8bitAdder_0/Chain_HA_3/B VDD 2Complement_2/8bitAdder_0/Chain_HA_3/XOR2_0/a_2_44# 2 8 446 162
+p 2Complement_2/8bitINV_0/Y3 VDD 2Complement_2/8bitAdder_0/Chain_HA_3/a_9_52# 2 8 366 170
+p 2Complement_2/8bitAdder_0/Chain_HA_3/a_9_52# VDD 2Complement_2/8bitAdder_0/Chain_HA_4/B 2 8 390 170
+n 2Complement_2/8bitAdder_0/Chain_HA_3/B 2Complement_2/8bitAdder_0/Chain_HA_3/a_9_8# 2Complement_2/8bitAdder_0/Chain_HA_3/a_9_52# 2 8 374 126
+n 2Complement_2/8bitINV_0/Y3 VSS 2Complement_2/8bitAdder_0/Chain_HA_3/a_9_8# 2 8 366 126
+n 2Complement_2/8bitAdder_0/Chain_HA_3/a_9_52# VSS 2Complement_2/8bitAdder_0/Chain_HA_4/B 2 8 390 126
+p 2Complement_2/8bitAdder_0/Chain_HA_3/B 2Complement_2/8bitAdder_0/Chain_HA_3/a_9_52# VDD 2 8 374 170
+n 2Complement_2/8bitAdder_0/Chain_HA_4/XOR2_0/a_n23_8# VSS 2Complement_2/8bitAdder_0/Chain_HA_4/XOR2_0/a_25_8# 2 4 574 126
+p 2Complement_2/8bitAdder_0/Chain_HA_4/B VDD 2Complement_2/8bitAdder_0/Chain_HA_4/XOR2_0/a_n7_8# 2 8 543 162
+p 2Complement_2/8bitINV_0/Y4 2Complement_2/8bitAdder_0/Chain_HA_4/XOR2_0/a_2_44# VDD 2 8 558 162
+p 2Complement_2/8bitAdder_0/Chain_HA_4/XOR2_0/a_n23_8# 2Complement_2/8bitAdder_0/Chain_HA_4/XOR2_0/a_2_44# 2Complement_2/mux2x1_8_0/B4 2 8 574 162
+p 2Complement_2/8bitAdder_0/Chain_HA_4/XOR2_0/a_n7_8# 2Complement_2/mux2x1_8_0/B4 2Complement_2/8bitAdder_0/Chain_HA_4/XOR2_0/a_2_44# 2 8 582 162
+n 2Complement_2/8bitAdder_0/Chain_HA_4/B 2Complement_2/8bitAdder_0/Chain_HA_4/XOR2_0/a_9_8# VSS 2 4 566 126
+n 2Complement_2/8bitINV_0/Y4 2Complement_2/mux2x1_8_0/B4 2Complement_2/8bitAdder_0/Chain_HA_4/XOR2_0/a_9_8# 2 4 558 126
+p 2Complement_2/8bitINV_0/Y4 VDD 2Complement_2/8bitAdder_0/Chain_HA_4/XOR2_0/a_n23_8# 2 8 527 162
+n 2Complement_2/8bitAdder_0/Chain_HA_4/XOR2_0/a_n7_8# 2Complement_2/8bitAdder_0/Chain_HA_4/XOR2_0/a_25_8# 2Complement_2/mux2x1_8_0/B4 2 4 582 126
+n 2Complement_2/8bitAdder_0/Chain_HA_4/B VSS 2Complement_2/8bitAdder_0/Chain_HA_4/XOR2_0/a_n7_8# 2 4 543 126
+n 2Complement_2/8bitINV_0/Y4 VSS 2Complement_2/8bitAdder_0/Chain_HA_4/XOR2_0/a_n23_8# 2 4 527 126
+p 2Complement_2/8bitAdder_0/Chain_HA_4/B VDD 2Complement_2/8bitAdder_0/Chain_HA_4/XOR2_0/a_2_44# 2 8 566 162
+p 2Complement_2/8bitINV_0/Y4 VDD 2Complement_2/8bitAdder_0/Chain_HA_4/a_9_52# 2 8 486 170
+p 2Complement_2/8bitAdder_0/Chain_HA_4/a_9_52# VDD 2Complement_2/8bitAdder_0/Chain_HA_5/B 2 8 510 170
+n 2Complement_2/8bitAdder_0/Chain_HA_4/B 2Complement_2/8bitAdder_0/Chain_HA_4/a_9_8# 2Complement_2/8bitAdder_0/Chain_HA_4/a_9_52# 2 8 494 126
+n 2Complement_2/8bitINV_0/Y4 VSS 2Complement_2/8bitAdder_0/Chain_HA_4/a_9_8# 2 8 486 126
+n 2Complement_2/8bitAdder_0/Chain_HA_4/a_9_52# VSS 2Complement_2/8bitAdder_0/Chain_HA_5/B 2 8 510 126
+p 2Complement_2/8bitAdder_0/Chain_HA_4/B 2Complement_2/8bitAdder_0/Chain_HA_4/a_9_52# VDD 2 8 494 170
+n 2Complement_2/8bitAdder_0/Chain_HA_5/XOR2_0/a_n23_8# VSS 2Complement_2/8bitAdder_0/Chain_HA_5/XOR2_0/a_25_8# 2 4 694 126
+p 2Complement_2/8bitAdder_0/Chain_HA_5/B VDD 2Complement_2/8bitAdder_0/Chain_HA_5/XOR2_0/a_n7_8# 2 8 663 162
+p 2Complement_2/8bitINV_0/Y5 2Complement_2/8bitAdder_0/Chain_HA_5/XOR2_0/a_2_44# VDD 2 8 678 162
+p 2Complement_2/8bitAdder_0/Chain_HA_5/XOR2_0/a_n23_8# 2Complement_2/8bitAdder_0/Chain_HA_5/XOR2_0/a_2_44# 2Complement_2/mux2x1_8_0/B5 2 8 694 162
+p 2Complement_2/8bitAdder_0/Chain_HA_5/XOR2_0/a_n7_8# 2Complement_2/mux2x1_8_0/B5 2Complement_2/8bitAdder_0/Chain_HA_5/XOR2_0/a_2_44# 2 8 702 162
+n 2Complement_2/8bitAdder_0/Chain_HA_5/B 2Complement_2/8bitAdder_0/Chain_HA_5/XOR2_0/a_9_8# VSS 2 4 686 126
+n 2Complement_2/8bitINV_0/Y5 2Complement_2/mux2x1_8_0/B5 2Complement_2/8bitAdder_0/Chain_HA_5/XOR2_0/a_9_8# 2 4 678 126
+p 2Complement_2/8bitINV_0/Y5 VDD 2Complement_2/8bitAdder_0/Chain_HA_5/XOR2_0/a_n23_8# 2 8 647 162
+n 2Complement_2/8bitAdder_0/Chain_HA_5/XOR2_0/a_n7_8# 2Complement_2/8bitAdder_0/Chain_HA_5/XOR2_0/a_25_8# 2Complement_2/mux2x1_8_0/B5 2 4 702 126
+n 2Complement_2/8bitAdder_0/Chain_HA_5/B VSS 2Complement_2/8bitAdder_0/Chain_HA_5/XOR2_0/a_n7_8# 2 4 663 126
+n 2Complement_2/8bitINV_0/Y5 VSS 2Complement_2/8bitAdder_0/Chain_HA_5/XOR2_0/a_n23_8# 2 4 647 126
+p 2Complement_2/8bitAdder_0/Chain_HA_5/B VDD 2Complement_2/8bitAdder_0/Chain_HA_5/XOR2_0/a_2_44# 2 8 686 162
+p 2Complement_2/8bitINV_0/Y5 VDD 2Complement_2/8bitAdder_0/Chain_HA_5/a_9_52# 2 8 606 170
+p 2Complement_2/8bitAdder_0/Chain_HA_5/a_9_52# VDD 2Complement_2/8bitAdder_0/Chain_HA_6/B 2 8 630 170
+n 2Complement_2/8bitAdder_0/Chain_HA_5/B 2Complement_2/8bitAdder_0/Chain_HA_5/a_9_8# 2Complement_2/8bitAdder_0/Chain_HA_5/a_9_52# 2 8 614 126
+n 2Complement_2/8bitINV_0/Y5 VSS 2Complement_2/8bitAdder_0/Chain_HA_5/a_9_8# 2 8 606 126
+n 2Complement_2/8bitAdder_0/Chain_HA_5/a_9_52# VSS 2Complement_2/8bitAdder_0/Chain_HA_6/B 2 8 630 126
+p 2Complement_2/8bitAdder_0/Chain_HA_5/B 2Complement_2/8bitAdder_0/Chain_HA_5/a_9_52# VDD 2 8 614 170
+n 2Complement_2/8bitAdder_0/Chain_HA_6/XOR2_0/a_n23_8# VSS 2Complement_2/8bitAdder_0/Chain_HA_6/XOR2_0/a_25_8# 2 4 814 126
+p 2Complement_2/8bitAdder_0/Chain_HA_6/B VDD 2Complement_2/8bitAdder_0/Chain_HA_6/XOR2_0/a_n7_8# 2 8 783 162
+p 2Complement_2/8bitINV_0/Y6 2Complement_2/8bitAdder_0/Chain_HA_6/XOR2_0/a_2_44# VDD 2 8 798 162
+p 2Complement_2/8bitAdder_0/Chain_HA_6/XOR2_0/a_n23_8# 2Complement_2/8bitAdder_0/Chain_HA_6/XOR2_0/a_2_44# 2Complement_2/mux2x1_8_0/B6 2 8 814 162
+p 2Complement_2/8bitAdder_0/Chain_HA_6/XOR2_0/a_n7_8# 2Complement_2/mux2x1_8_0/B6 2Complement_2/8bitAdder_0/Chain_HA_6/XOR2_0/a_2_44# 2 8 822 162
+n 2Complement_2/8bitAdder_0/Chain_HA_6/B 2Complement_2/8bitAdder_0/Chain_HA_6/XOR2_0/a_9_8# VSS 2 4 806 126
+n 2Complement_2/8bitINV_0/Y6 2Complement_2/mux2x1_8_0/B6 2Complement_2/8bitAdder_0/Chain_HA_6/XOR2_0/a_9_8# 2 4 798 126
+p 2Complement_2/8bitINV_0/Y6 VDD 2Complement_2/8bitAdder_0/Chain_HA_6/XOR2_0/a_n23_8# 2 8 767 162
+n 2Complement_2/8bitAdder_0/Chain_HA_6/XOR2_0/a_n7_8# 2Complement_2/8bitAdder_0/Chain_HA_6/XOR2_0/a_25_8# 2Complement_2/mux2x1_8_0/B6 2 4 822 126
+n 2Complement_2/8bitAdder_0/Chain_HA_6/B VSS 2Complement_2/8bitAdder_0/Chain_HA_6/XOR2_0/a_n7_8# 2 4 783 126
+n 2Complement_2/8bitINV_0/Y6 VSS 2Complement_2/8bitAdder_0/Chain_HA_6/XOR2_0/a_n23_8# 2 4 767 126
+p 2Complement_2/8bitAdder_0/Chain_HA_6/B VDD 2Complement_2/8bitAdder_0/Chain_HA_6/XOR2_0/a_2_44# 2 8 806 162
+p 2Complement_2/8bitINV_0/Y6 VDD 2Complement_2/8bitAdder_0/Chain_HA_6/a_9_52# 2 8 726 170
+p 2Complement_2/8bitAdder_0/Chain_HA_6/a_9_52# VDD 2Complement_2/8bitAdder_0/Chain_HA_7/B 2 8 750 170
+n 2Complement_2/8bitAdder_0/Chain_HA_6/B 2Complement_2/8bitAdder_0/Chain_HA_6/a_9_8# 2Complement_2/8bitAdder_0/Chain_HA_6/a_9_52# 2 8 734 126
+n 2Complement_2/8bitINV_0/Y6 VSS 2Complement_2/8bitAdder_0/Chain_HA_6/a_9_8# 2 8 726 126
+n 2Complement_2/8bitAdder_0/Chain_HA_6/a_9_52# VSS 2Complement_2/8bitAdder_0/Chain_HA_7/B 2 8 750 126
+p 2Complement_2/8bitAdder_0/Chain_HA_6/B 2Complement_2/8bitAdder_0/Chain_HA_6/a_9_52# VDD 2 8 734 170
+n 2Complement_2/8bitAdder_0/Chain_HA_7/XOR2_0/a_n23_8# VSS 2Complement_2/8bitAdder_0/Chain_HA_7/XOR2_0/a_25_8# 2 4 934 126
+p 2Complement_2/8bitAdder_0/Chain_HA_7/B VDD 2Complement_2/8bitAdder_0/Chain_HA_7/XOR2_0/a_n7_8# 2 8 903 162
+p 2Complement_2/8bitINV_0/Y7 2Complement_2/8bitAdder_0/Chain_HA_7/XOR2_0/a_2_44# VDD 2 8 918 162
+p 2Complement_2/8bitAdder_0/Chain_HA_7/XOR2_0/a_n23_8# 2Complement_2/8bitAdder_0/Chain_HA_7/XOR2_0/a_2_44# 2Complement_2/mux2x1_8_0/B7 2 8 934 162
+p 2Complement_2/8bitAdder_0/Chain_HA_7/XOR2_0/a_n7_8# 2Complement_2/mux2x1_8_0/B7 2Complement_2/8bitAdder_0/Chain_HA_7/XOR2_0/a_2_44# 2 8 942 162
+n 2Complement_2/8bitAdder_0/Chain_HA_7/B 2Complement_2/8bitAdder_0/Chain_HA_7/XOR2_0/a_9_8# VSS 2 4 926 126
+n 2Complement_2/8bitINV_0/Y7 2Complement_2/mux2x1_8_0/B7 2Complement_2/8bitAdder_0/Chain_HA_7/XOR2_0/a_9_8# 2 4 918 126
+p 2Complement_2/8bitINV_0/Y7 VDD 2Complement_2/8bitAdder_0/Chain_HA_7/XOR2_0/a_n23_8# 2 8 887 162
+n 2Complement_2/8bitAdder_0/Chain_HA_7/XOR2_0/a_n7_8# 2Complement_2/8bitAdder_0/Chain_HA_7/XOR2_0/a_25_8# 2Complement_2/mux2x1_8_0/B7 2 4 942 126
+n 2Complement_2/8bitAdder_0/Chain_HA_7/B VSS 2Complement_2/8bitAdder_0/Chain_HA_7/XOR2_0/a_n7_8# 2 4 903 126
+n 2Complement_2/8bitINV_0/Y7 VSS 2Complement_2/8bitAdder_0/Chain_HA_7/XOR2_0/a_n23_8# 2 4 887 126
+p 2Complement_2/8bitAdder_0/Chain_HA_7/B VDD 2Complement_2/8bitAdder_0/Chain_HA_7/XOR2_0/a_2_44# 2 8 926 162
+p 2Complement_2/8bitINV_0/Y7 VDD 2Complement_2/8bitAdder_0/Chain_HA_7/a_9_52# 2 8 846 170
+p 2Complement_2/8bitAdder_0/Chain_HA_7/a_9_52# VDD 2Complement_1/B 2 8 870 170
+n 2Complement_2/8bitAdder_0/Chain_HA_7/B 2Complement_2/8bitAdder_0/Chain_HA_7/a_9_8# 2Complement_2/8bitAdder_0/Chain_HA_7/a_9_52# 2 8 854 126
+n 2Complement_2/8bitINV_0/Y7 VSS 2Complement_2/8bitAdder_0/Chain_HA_7/a_9_8# 2 8 846 126
+n 2Complement_2/8bitAdder_0/Chain_HA_7/a_9_52# VSS 2Complement_1/B 2 8 870 126
+p 2Complement_2/8bitAdder_0/Chain_HA_7/B 2Complement_2/8bitAdder_0/Chain_HA_7/a_9_52# VDD 2 8 854 170
+p 2Complement_2/mux2x1_8_0/mux2x1_0/OR2_0/A VDD 2Complement_2/mux2x1_8_0/mux2x1_0/OR2_0/a_9_36# 2 16 103 36
+p 2Complement_2/mux2x1_8_0/mux2x1_0/OR2_0/a_9_8# VDD Y0 2 16 127 36
+n 2Complement_2/mux2x1_8_0/mux2x1_0/OR2_0/B 2Complement_2/mux2x1_8_0/mux2x1_0/OR2_0/a_9_8# VSS 2 4 111 8
+n 2Complement_2/mux2x1_8_0/mux2x1_0/OR2_0/A VSS 2Complement_2/mux2x1_8_0/mux2x1_0/OR2_0/a_9_8# 2 4 103 8
+n 2Complement_2/mux2x1_8_0/mux2x1_0/OR2_0/a_9_8# VSS Y0 2 4 127 8
+p 2Complement_2/mux2x1_8_0/mux2x1_0/OR2_0/B 2Complement_2/mux2x1_8_0/mux2x1_0/OR2_0/a_9_36# 2Complement_2/mux2x1_8_0/mux2x1_0/OR2_0/a_9_8# 2 16 111 36
+p A0 VDD 2Complement_2/mux2x1_8_0/mux2x1_0/AND2_0/a_9_44# 2 8 23 44
+p 2Complement_2/mux2x1_8_0/mux2x1_0/AND2_0/a_9_44# VDD 2Complement_2/mux2x1_8_0/mux2x1_0/OR2_0/B 2 8 47 44
+n 2Complement_2/mux2x1_8_0/mux2x1_0/Sb 2Complement_2/mux2x1_8_0/mux2x1_0/AND2_0/a_9_8# 2Complement_2/mux2x1_8_0/mux2x1_0/AND2_0/a_9_44# 2 8 31 8
+n A0 VSS 2Complement_2/mux2x1_8_0/mux2x1_0/AND2_0/a_9_8# 2 8 23 8
+n 2Complement_2/mux2x1_8_0/mux2x1_0/AND2_0/a_9_44# VSS 2Complement_2/mux2x1_8_0/mux2x1_0/OR2_0/B 2 8 47 8
+p 2Complement_2/mux2x1_8_0/mux2x1_0/Sb 2Complement_2/mux2x1_8_0/mux2x1_0/AND2_0/a_9_44# VDD 2 8 31 44
+p 2Complement_2/mux2x1_8_0/B0 VDD 2Complement_2/mux2x1_8_0/mux2x1_0/AND2_1/a_9_44# 2 8 63 44
+p 2Complement_2/mux2x1_8_0/mux2x1_0/AND2_1/a_9_44# VDD 2Complement_2/mux2x1_8_0/mux2x1_0/OR2_0/A 2 8 87 44
+n XOR2_0/Y 2Complement_2/mux2x1_8_0/mux2x1_0/AND2_1/a_9_8# 2Complement_2/mux2x1_8_0/mux2x1_0/AND2_1/a_9_44# 2 8 71 8
+n 2Complement_2/mux2x1_8_0/B0 VSS 2Complement_2/mux2x1_8_0/mux2x1_0/AND2_1/a_9_8# 2 8 63 8
+n 2Complement_2/mux2x1_8_0/mux2x1_0/AND2_1/a_9_44# VSS 2Complement_2/mux2x1_8_0/mux2x1_0/OR2_0/A 2 8 87 8
+p XOR2_0/Y 2Complement_2/mux2x1_8_0/mux2x1_0/AND2_1/a_9_44# VDD 2 8 71 44
+p XOR2_0/Y VDD 2Complement_2/mux2x1_8_0/mux2x1_0/Sb 2 8 7 44
+n XOR2_0/Y VSS 2Complement_2/mux2x1_8_0/mux2x1_0/Sb 2 4 7 8
+p 2Complement_2/mux2x1_8_0/mux2x1_1/OR2_0/A VDD 2Complement_2/mux2x1_8_0/mux2x1_1/OR2_0/a_9_36# 2 16 239 36
+p 2Complement_2/mux2x1_8_0/mux2x1_1/OR2_0/a_9_8# VDD Y1 2 16 263 36
+n 2Complement_2/mux2x1_8_0/mux2x1_1/OR2_0/B 2Complement_2/mux2x1_8_0/mux2x1_1/OR2_0/a_9_8# VSS 2 4 247 8
+n 2Complement_2/mux2x1_8_0/mux2x1_1/OR2_0/A VSS 2Complement_2/mux2x1_8_0/mux2x1_1/OR2_0/a_9_8# 2 4 239 8
+n 2Complement_2/mux2x1_8_0/mux2x1_1/OR2_0/a_9_8# VSS Y1 2 4 263 8
+p 2Complement_2/mux2x1_8_0/mux2x1_1/OR2_0/B 2Complement_2/mux2x1_8_0/mux2x1_1/OR2_0/a_9_36# 2Complement_2/mux2x1_8_0/mux2x1_1/OR2_0/a_9_8# 2 16 247 36
+p A1 VDD 2Complement_2/mux2x1_8_0/mux2x1_1/AND2_0/a_9_44# 2 8 159 44
+p 2Complement_2/mux2x1_8_0/mux2x1_1/AND2_0/a_9_44# VDD 2Complement_2/mux2x1_8_0/mux2x1_1/OR2_0/B 2 8 183 44
+n 2Complement_2/mux2x1_8_0/mux2x1_1/Sb 2Complement_2/mux2x1_8_0/mux2x1_1/AND2_0/a_9_8# 2Complement_2/mux2x1_8_0/mux2x1_1/AND2_0/a_9_44# 2 8 167 8
+n A1 VSS 2Complement_2/mux2x1_8_0/mux2x1_1/AND2_0/a_9_8# 2 8 159 8
+n 2Complement_2/mux2x1_8_0/mux2x1_1/AND2_0/a_9_44# VSS 2Complement_2/mux2x1_8_0/mux2x1_1/OR2_0/B 2 8 183 8
+p 2Complement_2/mux2x1_8_0/mux2x1_1/Sb 2Complement_2/mux2x1_8_0/mux2x1_1/AND2_0/a_9_44# VDD 2 8 167 44
+p 2Complement_2/mux2x1_8_0/B1 VDD 2Complement_2/mux2x1_8_0/mux2x1_1/AND2_1/a_9_44# 2 8 199 44
+p 2Complement_2/mux2x1_8_0/mux2x1_1/AND2_1/a_9_44# VDD 2Complement_2/mux2x1_8_0/mux2x1_1/OR2_0/A 2 8 223 44
+n XOR2_0/Y 2Complement_2/mux2x1_8_0/mux2x1_1/AND2_1/a_9_8# 2Complement_2/mux2x1_8_0/mux2x1_1/AND2_1/a_9_44# 2 8 207 8
+n 2Complement_2/mux2x1_8_0/B1 VSS 2Complement_2/mux2x1_8_0/mux2x1_1/AND2_1/a_9_8# 2 8 199 8
+n 2Complement_2/mux2x1_8_0/mux2x1_1/AND2_1/a_9_44# VSS 2Complement_2/mux2x1_8_0/mux2x1_1/OR2_0/A 2 8 223 8
+p XOR2_0/Y 2Complement_2/mux2x1_8_0/mux2x1_1/AND2_1/a_9_44# VDD 2 8 207 44
+p XOR2_0/Y VDD 2Complement_2/mux2x1_8_0/mux2x1_1/Sb 2 8 143 44
+n XOR2_0/Y VSS 2Complement_2/mux2x1_8_0/mux2x1_1/Sb 2 4 143 8
+p 2Complement_2/mux2x1_8_0/mux2x1_2/OR2_0/A VDD 2Complement_2/mux2x1_8_0/mux2x1_2/OR2_0/a_9_36# 2 16 375 36
+p 2Complement_2/mux2x1_8_0/mux2x1_2/OR2_0/a_9_8# VDD Y2 2 16 399 36
+n 2Complement_2/mux2x1_8_0/mux2x1_2/OR2_0/B 2Complement_2/mux2x1_8_0/mux2x1_2/OR2_0/a_9_8# VSS 2 4 383 8
+n 2Complement_2/mux2x1_8_0/mux2x1_2/OR2_0/A VSS 2Complement_2/mux2x1_8_0/mux2x1_2/OR2_0/a_9_8# 2 4 375 8
+n 2Complement_2/mux2x1_8_0/mux2x1_2/OR2_0/a_9_8# VSS Y2 2 4 399 8
+p 2Complement_2/mux2x1_8_0/mux2x1_2/OR2_0/B 2Complement_2/mux2x1_8_0/mux2x1_2/OR2_0/a_9_36# 2Complement_2/mux2x1_8_0/mux2x1_2/OR2_0/a_9_8# 2 16 383 36
+p A2 VDD 2Complement_2/mux2x1_8_0/mux2x1_2/AND2_0/a_9_44# 2 8 295 44
+p 2Complement_2/mux2x1_8_0/mux2x1_2/AND2_0/a_9_44# VDD 2Complement_2/mux2x1_8_0/mux2x1_2/OR2_0/B 2 8 319 44
+n 2Complement_2/mux2x1_8_0/mux2x1_2/Sb 2Complement_2/mux2x1_8_0/mux2x1_2/AND2_0/a_9_8# 2Complement_2/mux2x1_8_0/mux2x1_2/AND2_0/a_9_44# 2 8 303 8
+n A2 VSS 2Complement_2/mux2x1_8_0/mux2x1_2/AND2_0/a_9_8# 2 8 295 8
+n 2Complement_2/mux2x1_8_0/mux2x1_2/AND2_0/a_9_44# VSS 2Complement_2/mux2x1_8_0/mux2x1_2/OR2_0/B 2 8 319 8
+p 2Complement_2/mux2x1_8_0/mux2x1_2/Sb 2Complement_2/mux2x1_8_0/mux2x1_2/AND2_0/a_9_44# VDD 2 8 303 44
+p 2Complement_2/mux2x1_8_0/B2 VDD 2Complement_2/mux2x1_8_0/mux2x1_2/AND2_1/a_9_44# 2 8 335 44
+p 2Complement_2/mux2x1_8_0/mux2x1_2/AND2_1/a_9_44# VDD 2Complement_2/mux2x1_8_0/mux2x1_2/OR2_0/A 2 8 359 44
+n XOR2_0/Y 2Complement_2/mux2x1_8_0/mux2x1_2/AND2_1/a_9_8# 2Complement_2/mux2x1_8_0/mux2x1_2/AND2_1/a_9_44# 2 8 343 8
+n 2Complement_2/mux2x1_8_0/B2 VSS 2Complement_2/mux2x1_8_0/mux2x1_2/AND2_1/a_9_8# 2 8 335 8
+n 2Complement_2/mux2x1_8_0/mux2x1_2/AND2_1/a_9_44# VSS 2Complement_2/mux2x1_8_0/mux2x1_2/OR2_0/A 2 8 359 8
+p XOR2_0/Y 2Complement_2/mux2x1_8_0/mux2x1_2/AND2_1/a_9_44# VDD 2 8 343 44
+p XOR2_0/Y VDD 2Complement_2/mux2x1_8_0/mux2x1_2/Sb 2 8 279 44
+n XOR2_0/Y VSS 2Complement_2/mux2x1_8_0/mux2x1_2/Sb 2 4 279 8
+p 2Complement_2/mux2x1_8_0/mux2x1_3/OR2_0/A VDD 2Complement_2/mux2x1_8_0/mux2x1_3/OR2_0/a_9_36# 2 16 511 36
+p 2Complement_2/mux2x1_8_0/mux2x1_3/OR2_0/a_9_8# VDD Y3 2 16 535 36
+n 2Complement_2/mux2x1_8_0/mux2x1_3/OR2_0/B 2Complement_2/mux2x1_8_0/mux2x1_3/OR2_0/a_9_8# VSS 2 4 519 8
+n 2Complement_2/mux2x1_8_0/mux2x1_3/OR2_0/A VSS 2Complement_2/mux2x1_8_0/mux2x1_3/OR2_0/a_9_8# 2 4 511 8
+n 2Complement_2/mux2x1_8_0/mux2x1_3/OR2_0/a_9_8# VSS Y3 2 4 535 8
+p 2Complement_2/mux2x1_8_0/mux2x1_3/OR2_0/B 2Complement_2/mux2x1_8_0/mux2x1_3/OR2_0/a_9_36# 2Complement_2/mux2x1_8_0/mux2x1_3/OR2_0/a_9_8# 2 16 519 36
+p A3 VDD 2Complement_2/mux2x1_8_0/mux2x1_3/AND2_0/a_9_44# 2 8 431 44
+p 2Complement_2/mux2x1_8_0/mux2x1_3/AND2_0/a_9_44# VDD 2Complement_2/mux2x1_8_0/mux2x1_3/OR2_0/B 2 8 455 44
+n 2Complement_2/mux2x1_8_0/mux2x1_3/Sb 2Complement_2/mux2x1_8_0/mux2x1_3/AND2_0/a_9_8# 2Complement_2/mux2x1_8_0/mux2x1_3/AND2_0/a_9_44# 2 8 439 8
+n A3 VSS 2Complement_2/mux2x1_8_0/mux2x1_3/AND2_0/a_9_8# 2 8 431 8
+n 2Complement_2/mux2x1_8_0/mux2x1_3/AND2_0/a_9_44# VSS 2Complement_2/mux2x1_8_0/mux2x1_3/OR2_0/B 2 8 455 8
+p 2Complement_2/mux2x1_8_0/mux2x1_3/Sb 2Complement_2/mux2x1_8_0/mux2x1_3/AND2_0/a_9_44# VDD 2 8 439 44
+p 2Complement_2/mux2x1_8_0/B3 VDD 2Complement_2/mux2x1_8_0/mux2x1_3/AND2_1/a_9_44# 2 8 471 44
+p 2Complement_2/mux2x1_8_0/mux2x1_3/AND2_1/a_9_44# VDD 2Complement_2/mux2x1_8_0/mux2x1_3/OR2_0/A 2 8 495 44
+n XOR2_0/Y 2Complement_2/mux2x1_8_0/mux2x1_3/AND2_1/a_9_8# 2Complement_2/mux2x1_8_0/mux2x1_3/AND2_1/a_9_44# 2 8 479 8
+n 2Complement_2/mux2x1_8_0/B3 VSS 2Complement_2/mux2x1_8_0/mux2x1_3/AND2_1/a_9_8# 2 8 471 8
+n 2Complement_2/mux2x1_8_0/mux2x1_3/AND2_1/a_9_44# VSS 2Complement_2/mux2x1_8_0/mux2x1_3/OR2_0/A 2 8 495 8
+p XOR2_0/Y 2Complement_2/mux2x1_8_0/mux2x1_3/AND2_1/a_9_44# VDD 2 8 479 44
+p XOR2_0/Y VDD 2Complement_2/mux2x1_8_0/mux2x1_3/Sb 2 8 415 44
+n XOR2_0/Y VSS 2Complement_2/mux2x1_8_0/mux2x1_3/Sb 2 4 415 8
+p 2Complement_2/mux2x1_8_0/mux2x1_4/OR2_0/A VDD 2Complement_2/mux2x1_8_0/mux2x1_4/OR2_0/a_9_36# 2 16 647 36
+p 2Complement_2/mux2x1_8_0/mux2x1_4/OR2_0/a_9_8# VDD Y4 2 16 671 36
+n 2Complement_2/mux2x1_8_0/mux2x1_4/OR2_0/B 2Complement_2/mux2x1_8_0/mux2x1_4/OR2_0/a_9_8# VSS 2 4 655 8
+n 2Complement_2/mux2x1_8_0/mux2x1_4/OR2_0/A VSS 2Complement_2/mux2x1_8_0/mux2x1_4/OR2_0/a_9_8# 2 4 647 8
+n 2Complement_2/mux2x1_8_0/mux2x1_4/OR2_0/a_9_8# VSS Y4 2 4 671 8
+p 2Complement_2/mux2x1_8_0/mux2x1_4/OR2_0/B 2Complement_2/mux2x1_8_0/mux2x1_4/OR2_0/a_9_36# 2Complement_2/mux2x1_8_0/mux2x1_4/OR2_0/a_9_8# 2 16 655 36
+p A4 VDD 2Complement_2/mux2x1_8_0/mux2x1_4/AND2_0/a_9_44# 2 8 567 44
+p 2Complement_2/mux2x1_8_0/mux2x1_4/AND2_0/a_9_44# VDD 2Complement_2/mux2x1_8_0/mux2x1_4/OR2_0/B 2 8 591 44
+n 2Complement_2/mux2x1_8_0/mux2x1_4/Sb 2Complement_2/mux2x1_8_0/mux2x1_4/AND2_0/a_9_8# 2Complement_2/mux2x1_8_0/mux2x1_4/AND2_0/a_9_44# 2 8 575 8
+n A4 VSS 2Complement_2/mux2x1_8_0/mux2x1_4/AND2_0/a_9_8# 2 8 567 8
+n 2Complement_2/mux2x1_8_0/mux2x1_4/AND2_0/a_9_44# VSS 2Complement_2/mux2x1_8_0/mux2x1_4/OR2_0/B 2 8 591 8
+p 2Complement_2/mux2x1_8_0/mux2x1_4/Sb 2Complement_2/mux2x1_8_0/mux2x1_4/AND2_0/a_9_44# VDD 2 8 575 44
+p 2Complement_2/mux2x1_8_0/B4 VDD 2Complement_2/mux2x1_8_0/mux2x1_4/AND2_1/a_9_44# 2 8 607 44
+p 2Complement_2/mux2x1_8_0/mux2x1_4/AND2_1/a_9_44# VDD 2Complement_2/mux2x1_8_0/mux2x1_4/OR2_0/A 2 8 631 44
+n XOR2_0/Y 2Complement_2/mux2x1_8_0/mux2x1_4/AND2_1/a_9_8# 2Complement_2/mux2x1_8_0/mux2x1_4/AND2_1/a_9_44# 2 8 615 8
+n 2Complement_2/mux2x1_8_0/B4 VSS 2Complement_2/mux2x1_8_0/mux2x1_4/AND2_1/a_9_8# 2 8 607 8
+n 2Complement_2/mux2x1_8_0/mux2x1_4/AND2_1/a_9_44# VSS 2Complement_2/mux2x1_8_0/mux2x1_4/OR2_0/A 2 8 631 8
+p XOR2_0/Y 2Complement_2/mux2x1_8_0/mux2x1_4/AND2_1/a_9_44# VDD 2 8 615 44
+p XOR2_0/Y VDD 2Complement_2/mux2x1_8_0/mux2x1_4/Sb 2 8 551 44
+n XOR2_0/Y VSS 2Complement_2/mux2x1_8_0/mux2x1_4/Sb 2 4 551 8
+p 2Complement_2/mux2x1_8_0/mux2x1_5/OR2_0/A VDD 2Complement_2/mux2x1_8_0/mux2x1_5/OR2_0/a_9_36# 2 16 783 36
+p 2Complement_2/mux2x1_8_0/mux2x1_5/OR2_0/a_9_8# VDD Y5 2 16 807 36
+n 2Complement_2/mux2x1_8_0/mux2x1_5/OR2_0/B 2Complement_2/mux2x1_8_0/mux2x1_5/OR2_0/a_9_8# VSS 2 4 791 8
+n 2Complement_2/mux2x1_8_0/mux2x1_5/OR2_0/A VSS 2Complement_2/mux2x1_8_0/mux2x1_5/OR2_0/a_9_8# 2 4 783 8
+n 2Complement_2/mux2x1_8_0/mux2x1_5/OR2_0/a_9_8# VSS Y5 2 4 807 8
+p 2Complement_2/mux2x1_8_0/mux2x1_5/OR2_0/B 2Complement_2/mux2x1_8_0/mux2x1_5/OR2_0/a_9_36# 2Complement_2/mux2x1_8_0/mux2x1_5/OR2_0/a_9_8# 2 16 791 36
+p A5 VDD 2Complement_2/mux2x1_8_0/mux2x1_5/AND2_0/a_9_44# 2 8 703 44
+p 2Complement_2/mux2x1_8_0/mux2x1_5/AND2_0/a_9_44# VDD 2Complement_2/mux2x1_8_0/mux2x1_5/OR2_0/B 2 8 727 44
+n 2Complement_2/mux2x1_8_0/mux2x1_5/Sb 2Complement_2/mux2x1_8_0/mux2x1_5/AND2_0/a_9_8# 2Complement_2/mux2x1_8_0/mux2x1_5/AND2_0/a_9_44# 2 8 711 8
+n A5 VSS 2Complement_2/mux2x1_8_0/mux2x1_5/AND2_0/a_9_8# 2 8 703 8
+n 2Complement_2/mux2x1_8_0/mux2x1_5/AND2_0/a_9_44# VSS 2Complement_2/mux2x1_8_0/mux2x1_5/OR2_0/B 2 8 727 8
+p 2Complement_2/mux2x1_8_0/mux2x1_5/Sb 2Complement_2/mux2x1_8_0/mux2x1_5/AND2_0/a_9_44# VDD 2 8 711 44
+p 2Complement_2/mux2x1_8_0/B5 VDD 2Complement_2/mux2x1_8_0/mux2x1_5/AND2_1/a_9_44# 2 8 743 44
+p 2Complement_2/mux2x1_8_0/mux2x1_5/AND2_1/a_9_44# VDD 2Complement_2/mux2x1_8_0/mux2x1_5/OR2_0/A 2 8 767 44
+n XOR2_0/Y 2Complement_2/mux2x1_8_0/mux2x1_5/AND2_1/a_9_8# 2Complement_2/mux2x1_8_0/mux2x1_5/AND2_1/a_9_44# 2 8 751 8
+n 2Complement_2/mux2x1_8_0/B5 VSS 2Complement_2/mux2x1_8_0/mux2x1_5/AND2_1/a_9_8# 2 8 743 8
+n 2Complement_2/mux2x1_8_0/mux2x1_5/AND2_1/a_9_44# VSS 2Complement_2/mux2x1_8_0/mux2x1_5/OR2_0/A 2 8 767 8
+p XOR2_0/Y 2Complement_2/mux2x1_8_0/mux2x1_5/AND2_1/a_9_44# VDD 2 8 751 44
+p XOR2_0/Y VDD 2Complement_2/mux2x1_8_0/mux2x1_5/Sb 2 8 687 44
+n XOR2_0/Y VSS 2Complement_2/mux2x1_8_0/mux2x1_5/Sb 2 4 687 8
+p 2Complement_2/mux2x1_8_0/mux2x1_6/OR2_0/A VDD 2Complement_2/mux2x1_8_0/mux2x1_6/OR2_0/a_9_36# 2 16 919 36
+p 2Complement_2/mux2x1_8_0/mux2x1_6/OR2_0/a_9_8# VDD Y6 2 16 943 36
+n 2Complement_2/mux2x1_8_0/mux2x1_6/OR2_0/B 2Complement_2/mux2x1_8_0/mux2x1_6/OR2_0/a_9_8# VSS 2 4 927 8
+n 2Complement_2/mux2x1_8_0/mux2x1_6/OR2_0/A VSS 2Complement_2/mux2x1_8_0/mux2x1_6/OR2_0/a_9_8# 2 4 919 8
+n 2Complement_2/mux2x1_8_0/mux2x1_6/OR2_0/a_9_8# VSS Y6 2 4 943 8
+p 2Complement_2/mux2x1_8_0/mux2x1_6/OR2_0/B 2Complement_2/mux2x1_8_0/mux2x1_6/OR2_0/a_9_36# 2Complement_2/mux2x1_8_0/mux2x1_6/OR2_0/a_9_8# 2 16 927 36
+p A6 VDD 2Complement_2/mux2x1_8_0/mux2x1_6/AND2_0/a_9_44# 2 8 839 44
+p 2Complement_2/mux2x1_8_0/mux2x1_6/AND2_0/a_9_44# VDD 2Complement_2/mux2x1_8_0/mux2x1_6/OR2_0/B 2 8 863 44
+n 2Complement_2/mux2x1_8_0/mux2x1_6/Sb 2Complement_2/mux2x1_8_0/mux2x1_6/AND2_0/a_9_8# 2Complement_2/mux2x1_8_0/mux2x1_6/AND2_0/a_9_44# 2 8 847 8
+n A6 VSS 2Complement_2/mux2x1_8_0/mux2x1_6/AND2_0/a_9_8# 2 8 839 8
+n 2Complement_2/mux2x1_8_0/mux2x1_6/AND2_0/a_9_44# VSS 2Complement_2/mux2x1_8_0/mux2x1_6/OR2_0/B 2 8 863 8
+p 2Complement_2/mux2x1_8_0/mux2x1_6/Sb 2Complement_2/mux2x1_8_0/mux2x1_6/AND2_0/a_9_44# VDD 2 8 847 44
+p 2Complement_2/mux2x1_8_0/B6 VDD 2Complement_2/mux2x1_8_0/mux2x1_6/AND2_1/a_9_44# 2 8 879 44
+p 2Complement_2/mux2x1_8_0/mux2x1_6/AND2_1/a_9_44# VDD 2Complement_2/mux2x1_8_0/mux2x1_6/OR2_0/A 2 8 903 44
+n XOR2_0/Y 2Complement_2/mux2x1_8_0/mux2x1_6/AND2_1/a_9_8# 2Complement_2/mux2x1_8_0/mux2x1_6/AND2_1/a_9_44# 2 8 887 8
+n 2Complement_2/mux2x1_8_0/B6 VSS 2Complement_2/mux2x1_8_0/mux2x1_6/AND2_1/a_9_8# 2 8 879 8
+n 2Complement_2/mux2x1_8_0/mux2x1_6/AND2_1/a_9_44# VSS 2Complement_2/mux2x1_8_0/mux2x1_6/OR2_0/A 2 8 903 8
+p XOR2_0/Y 2Complement_2/mux2x1_8_0/mux2x1_6/AND2_1/a_9_44# VDD 2 8 887 44
+p XOR2_0/Y VDD 2Complement_2/mux2x1_8_0/mux2x1_6/Sb 2 8 823 44
+n XOR2_0/Y VSS 2Complement_2/mux2x1_8_0/mux2x1_6/Sb 2 4 823 8
+p 2Complement_2/mux2x1_8_0/mux2x1_7/OR2_0/A VDD 2Complement_2/mux2x1_8_0/mux2x1_7/OR2_0/a_9_36# 2 16 1055 36
+p 2Complement_2/mux2x1_8_0/mux2x1_7/OR2_0/a_9_8# VDD Y7 2 16 1079 36
+n 2Complement_2/mux2x1_8_0/mux2x1_7/OR2_0/B 2Complement_2/mux2x1_8_0/mux2x1_7/OR2_0/a_9_8# VSS 2 4 1063 8
+n 2Complement_2/mux2x1_8_0/mux2x1_7/OR2_0/A VSS 2Complement_2/mux2x1_8_0/mux2x1_7/OR2_0/a_9_8# 2 4 1055 8
+n 2Complement_2/mux2x1_8_0/mux2x1_7/OR2_0/a_9_8# VSS Y7 2 4 1079 8
+p 2Complement_2/mux2x1_8_0/mux2x1_7/OR2_0/B 2Complement_2/mux2x1_8_0/mux2x1_7/OR2_0/a_9_36# 2Complement_2/mux2x1_8_0/mux2x1_7/OR2_0/a_9_8# 2 16 1063 36
+p A7 VDD 2Complement_2/mux2x1_8_0/mux2x1_7/AND2_0/a_9_44# 2 8 975 44
+p 2Complement_2/mux2x1_8_0/mux2x1_7/AND2_0/a_9_44# VDD 2Complement_2/mux2x1_8_0/mux2x1_7/OR2_0/B 2 8 999 44
+n 2Complement_2/mux2x1_8_0/mux2x1_7/Sb 2Complement_2/mux2x1_8_0/mux2x1_7/AND2_0/a_9_8# 2Complement_2/mux2x1_8_0/mux2x1_7/AND2_0/a_9_44# 2 8 983 8
+n A7 VSS 2Complement_2/mux2x1_8_0/mux2x1_7/AND2_0/a_9_8# 2 8 975 8
+n 2Complement_2/mux2x1_8_0/mux2x1_7/AND2_0/a_9_44# VSS 2Complement_2/mux2x1_8_0/mux2x1_7/OR2_0/B 2 8 999 8
+p 2Complement_2/mux2x1_8_0/mux2x1_7/Sb 2Complement_2/mux2x1_8_0/mux2x1_7/AND2_0/a_9_44# VDD 2 8 983 44
+p 2Complement_2/mux2x1_8_0/B7 VDD 2Complement_2/mux2x1_8_0/mux2x1_7/AND2_1/a_9_44# 2 8 1015 44
+p 2Complement_2/mux2x1_8_0/mux2x1_7/AND2_1/a_9_44# VDD 2Complement_2/mux2x1_8_0/mux2x1_7/OR2_0/A 2 8 1039 44
+n XOR2_0/Y 2Complement_2/mux2x1_8_0/mux2x1_7/AND2_1/a_9_8# 2Complement_2/mux2x1_8_0/mux2x1_7/AND2_1/a_9_44# 2 8 1023 8
+n 2Complement_2/mux2x1_8_0/B7 VSS 2Complement_2/mux2x1_8_0/mux2x1_7/AND2_1/a_9_8# 2 8 1015 8
+n 2Complement_2/mux2x1_8_0/mux2x1_7/AND2_1/a_9_44# VSS 2Complement_2/mux2x1_8_0/mux2x1_7/OR2_0/A 2 8 1039 8
+p XOR2_0/Y 2Complement_2/mux2x1_8_0/mux2x1_7/AND2_1/a_9_44# VDD 2 8 1023 44
+p XOR2_0/Y VDD 2Complement_2/mux2x1_8_0/mux2x1_7/Sb 2 8 959 44
+n XOR2_0/Y VSS 2Complement_2/mux2x1_8_0/mux2x1_7/Sb 2 4 959 8
+p A1 VDD 2Complement_2/8bitINV_0/Y1 2 8 23 290
+n A1 VSS 2Complement_2/8bitINV_0/Y1 2 4 23 254
+p A2 VDD 2Complement_2/8bitINV_0/Y2 2 8 39 290
+n A2 VSS 2Complement_2/8bitINV_0/Y2 2 4 39 254
+p A3 VDD 2Complement_2/8bitINV_0/Y3 2 8 55 290
+n A3 VSS 2Complement_2/8bitINV_0/Y3 2 4 55 254
+p A4 VDD 2Complement_2/8bitINV_0/Y4 2 8 71 290
+n A4 VSS 2Complement_2/8bitINV_0/Y4 2 4 71 254
+p A5 VDD 2Complement_2/8bitINV_0/Y5 2 8 87 290
+n A5 VSS 2Complement_2/8bitINV_0/Y5 2 4 87 254
+p A6 VDD 2Complement_2/8bitINV_0/Y6 2 8 103 290
+n A6 VSS 2Complement_2/8bitINV_0/Y6 2 4 103 254
+p A7 VDD 2Complement_2/8bitINV_0/Y7 2 8 119 290
+n A7 VSS 2Complement_2/8bitINV_0/Y7 2 4 119 254
+p A0 VDD 2Complement_2/8bitINV_0/Y0 2 8 7 290
+n A0 VSS 2Complement_2/8bitINV_0/Y0 2 4 7 254
+n XOR2_0/a_n23_8# VSS XOR2_0/a_25_8# 2 4 -115 126
+p S0 VDD XOR2_0/a_n7_8# 2 8 -146 162
+p S1 XOR2_0/a_2_44# VDD 2 8 -131 162
+p XOR2_0/a_n23_8# XOR2_0/a_2_44# XOR2_0/Y 2 8 -115 162
+p XOR2_0/a_n7_8# XOR2_0/Y XOR2_0/a_2_44# 2 8 -107 162
+n S0 XOR2_0/a_9_8# VSS 2 4 -123 126
+n S1 XOR2_0/Y XOR2_0/a_9_8# 2 4 -131 126
+p S1 VDD XOR2_0/a_n23_8# 2 8 -162 162
+n XOR2_0/a_n7_8# XOR2_0/a_25_8# XOR2_0/Y 2 4 -107 126
+n S0 VSS XOR2_0/a_n7_8# 2 4 -146 126
+n S1 VSS XOR2_0/a_n23_8# 2 4 -162 126
+p S0 VDD XOR2_0/a_2_44# 2 8 -123 162
+C 2Complement_2/8bitINV_0/Y7 VDD 2.34
+C A13 A14 23.46
+C 2Complement_2/8bitINV_0/Y4 VDD 2.44
+C 2Complement_2/8bitINV_0/Y4 2Complement_2/8bitINV_0/Y5 4.56
+C A1 VDD 2.61
+C A10 A11 17.62
+C A5 A6 13.43
+C A12 A13 21.52
+C 2Complement_2/8bitINV_0/Y1 VDD 3.68
+C m1_n146_342# m1_n154_334# 3.08
+C 2Complement_1/8bitAdder_0/Chain_HA_6/B VDD 2.19
+C m1_n138_350# m1_n146_342# 2.70
+C 2Complement_2/8bitAdder_0/Chain_HA_2/B VDD 2.19
+C A2 A3 8.72
+C 2Complement_1/8bitAdder_0/Chain_HA_3/B VDD 2.19
+C A4 A5 11.86
+C 2Complement_2/8bitAdder_0/Chain_HA_6/B VDD 2.19
+C 2Complement_1/8bitINV_0/Y5 2Complement_1/8bitINV_0/Y6 5.76
+C A11 A12 19.57
+C 2Complement_2/8bitAdder_0/Chain_HA_3/B VDD 2.19
+C 2Complement_1/8bitINV_0/Y6 VDD 2.44
+C 2Complement_1/8bitINV_0/Y2 2Complement_1/8bitINV_0/Y3 2.17
+C 2Complement_1/8bitINV_0/Y3 VDD 2.44
+C 2Complement_2/8bitINV_0/Y6 VDD 2.44
+C A10 A9 15.67
+C 2Complement_2/8bitINV_0/Y5 2Complement_2/8bitINV_0/Y6 5.76
+C A3 A4 10.29
+C 2Complement_2/8bitINV_0/Y3 VDD 2.44
+C m1_n138_350# m1_n130_358# 2.32
+C 2Complement_2/8bitINV_0/Y0 VDD 2.69
+C 2Complement_2/8bitINV_0/Y2 2Complement_2/8bitINV_0/Y3 2.17
+C A15 VSS 2.19
+C A2 A1 7.15
+C A15 VDD 5.68
+C A8 XOR2_0/Y 3.93
+C VSS A7 2.35
+C 2Complement_1/8bitAdder_0/Chain_HA_5/B VDD 2.19
+C 2Complement_1/B A7 2.58
+C VDD A7 4.57
+C 2Complement_1/8bitINV_0/Y6 2Complement_1/8bitINV_0/Y7 6.96
+C 2Complement_1/8bitINV_0/Y1 VDD 3.68
+C 2Complement_1/8bitAdder_0/Chain_HA_2/B VDD 2.19
+C A8 A9 7.74
+C m1_n162_326# A7 3.73
+C 2Complement_2/8bitAdder_0/Chain_HA_5/B VDD 2.19
+C 2Complement_1/B VSS 2.25
+C 2Complement_1/8bitINV_0/Y3 2Complement_1/8bitINV_0/Y4 3.36
+C 2Complement_1/8bitINV_0/Y5 VDD 2.44
+C XOR2_0/Y 2Complement_2/8bitINV_0/Y0 2.59
+C 2Complement_2/8bitINV_0/Y6 2Complement_2/8bitINV_0/Y7 6.96
+C 2Complement_1/B VDD 6.08
+C 2Complement_1/8bitINV_0/Y2 VDD 2.44
+C 2Complement_1/8bitINV_0/Y0 2Complement_1/B 2.59
+C 2Complement_1/8bitINV_0/Y0 VDD 2.69
+C 2Complement_2/8bitINV_0/Y5 VDD 2.44
+C A0 A1 4.59
+C 2Complement_2/8bitINV_0/Y2 VDD 2.44
+C 2Complement_2/8bitINV_0/Y3 2Complement_2/8bitINV_0/Y4 3.36
+C 2Complement_2/8bitAdder_0/Chain_HA_1/B VDD 2.19
+C m1_n162_326# m1_n154_334# 3.46
+C 2Complement_1/8bitAdder_0/Chain_HA_7/B VDD 2.19
+C XOR2_0/Y VSS 8.80
+C A14 A15 25.41
+C 2Complement_1/8bitAdder_0/Chain_HA_4/B VDD 2.19
+C 2Complement_2/8bitAdder_0/Chain_HA_7/B VDD 2.19
+C 2Complement_1/8bitINV_0/Y7 VSS 9.41
+C 2Complement_1/B XOR2_0/Y 3.83
+C XOR2_0/Y VDD 18.58
+C 2Complement_1/8bitAdder_0/Chain_HA_1/B VDD 2.19
+C 2Complement_2/8bitAdder_0/Chain_HA_4/B VDD 2.19
+C 2Complement_1/8bitINV_0/Y4 2Complement_1/8bitINV_0/Y5 4.56
+C 2Complement_1/8bitINV_0/Y7 VDD 2.34
+C 2Complement_2/8bitINV_0/Y7 VSS 9.41
+C 2Complement_1/8bitINV_0/Y4 VDD 2.44
+C A6 A7 15.05
+C S0 GND 4.02
+R S0 128
+= S0 XOR2_0/B
+= S0 m2_n152_142#
+C S1 GND 4.47
+R S1 129
+= S1 XOR2_0/A
+= S1 m2_n168_142#
+C m1_n162_326# GND 6.62
+C m1_n154_334# GND 6.03
+C m1_n146_342# GND 5.44
+C m1_n138_350# GND 4.85
+C m1_n130_358# GND 4.26
+C m1_n122_366# GND 3.67
+R XOR2_0/a_2_44# 25
+C XOR2_0/a_n7_8# GND 3.67
+R XOR2_0/a_n7_8# 66
+C XOR2_0/a_n23_8# GND 3.71
+R XOR2_0/a_n23_8# 64
+C 2Complement_2/mux2x1_8_0/mux2x1_7/Sb GND 2.72
+R 2Complement_2/mux2x1_8_0/mux2x1_7/Sb 70
+= 2Complement_2/mux2x1_8_0/mux2x1_7/Sb 2Complement_2/mux2x1_8_0/mux2x1_7/AND2_0/B
+= 2Complement_2/mux2x1_8_0/mux2x1_7/Sb 2Complement_2/mux2x1_8_0/mux2x1_7/INV_0/Y
+C 2Complement_2/mux2x1_8_0/mux2x1_7/AND2_1/a_9_44# GND 2.02
+R 2Complement_2/mux2x1_8_0/mux2x1_7/AND2_1/a_9_44# 69
+C 2Complement_2/mux2x1_8_0/B7 GND 5.41
+R 2Complement_2/mux2x1_8_0/B7 87
+= 2Complement_2/mux2x1_8_0/B7 2Complement_2/8bitAdder_0/S7
+= 2Complement_2/mux2x1_8_0/B7 2Complement_2/8bitAdder_0/Chain_HA_7/S
+= 2Complement_2/mux2x1_8_0/B7 2Complement_2/8bitAdder_0/Chain_HA_7/XOR2_0/Y
+= 2Complement_2/mux2x1_8_0/B7 2Complement_2/m1_953_n176#
+= 2Complement_2/mux2x1_8_0/B7 2Complement_2/mux2x1_8_0/mux2x1_7/I1
+= 2Complement_2/mux2x1_8_0/B7 2Complement_2/mux2x1_8_0/mux2x1_7/AND2_1/A
+C 2Complement_2/mux2x1_8_0/mux2x1_7/OR2_0/B GND 3.61
+R 2Complement_2/mux2x1_8_0/mux2x1_7/OR2_0/B 72
+= 2Complement_2/mux2x1_8_0/mux2x1_7/OR2_0/B 2Complement_2/mux2x1_8_0/mux2x1_7/AND2_0/Y
+= 2Complement_2/mux2x1_8_0/mux2x1_7/OR2_0/B 2Complement_2/mux2x1_8_0/mux2x1_7/m1_50_n8#
+C 2Complement_2/mux2x1_8_0/mux2x1_7/AND2_0/a_9_44# GND 2.02
+R 2Complement_2/mux2x1_8_0/mux2x1_7/AND2_0/a_9_44# 69
+C A7 GND 34.89
+R A7 153
+= A7 m1_n170_318#
+= A7 2Complement_2/A7
+= A7 2Complement_2/8bitINV_0/A7
+= A7 2Complement_2/8bitINV_0/INV_7/A
+= A7 2Complement_2/mux2x1_8_0/A7
+= A7 2Complement_2/mux2x1_8_0/mux2x1_7/I0
+= A7 2Complement_2/mux2x1_8_0/mux2x1_7/AND2_0/A
+R Y7 12
+= Y7 2Complement_2/Y7
+= Y7 2Complement_2/mux2x1_8_0/Y7
+= Y7 2Complement_2/mux2x1_8_0/mux2x1_7/Y
+= Y7 2Complement_2/mux2x1_8_0/mux2x1_7/OR2_0/Y
+R 2Complement_2/mux2x1_8_0/mux2x1_7/OR2_0/a_9_8# 73
+R 2Complement_2/mux2x1_8_0/mux2x1_7/OR2_0/A 69
+= 2Complement_2/mux2x1_8_0/mux2x1_7/OR2_0/A 2Complement_2/mux2x1_8_0/mux2x1_7/AND2_1/Y
+= 2Complement_2/mux2x1_8_0/mux2x1_7/OR2_0/A 2Complement_2/mux2x1_8_0/mux2x1_7/m1_94_28#
+C 2Complement_2/mux2x1_8_0/mux2x1_6/Sb GND 2.72
+R 2Complement_2/mux2x1_8_0/mux2x1_6/Sb 70
+= 2Complement_2/mux2x1_8_0/mux2x1_6/Sb 2Complement_2/mux2x1_8_0/mux2x1_6/AND2_0/B
+= 2Complement_2/mux2x1_8_0/mux2x1_6/Sb 2Complement_2/mux2x1_8_0/mux2x1_6/INV_0/Y
+C 2Complement_2/mux2x1_8_0/mux2x1_6/AND2_1/a_9_44# GND 2.02
+R 2Complement_2/mux2x1_8_0/mux2x1_6/AND2_1/a_9_44# 69
+C 2Complement_2/mux2x1_8_0/B6 GND 5.05
+R 2Complement_2/mux2x1_8_0/B6 87
+= 2Complement_2/mux2x1_8_0/B6 2Complement_2/8bitAdder_0/S6
+= 2Complement_2/mux2x1_8_0/B6 2Complement_2/8bitAdder_0/Chain_HA_6/S
+= 2Complement_2/mux2x1_8_0/B6 2Complement_2/8bitAdder_0/Chain_HA_6/XOR2_0/Y
+= 2Complement_2/mux2x1_8_0/B6 2Complement_2/m1_833_n176#
+= 2Complement_2/mux2x1_8_0/B6 2Complement_2/mux2x1_8_0/mux2x1_6/I1
+= 2Complement_2/mux2x1_8_0/B6 2Complement_2/mux2x1_8_0/mux2x1_6/AND2_1/A
+C 2Complement_2/mux2x1_8_0/mux2x1_6/OR2_0/B GND 3.61
+R 2Complement_2/mux2x1_8_0/mux2x1_6/OR2_0/B 72
+= 2Complement_2/mux2x1_8_0/mux2x1_6/OR2_0/B 2Complement_2/mux2x1_8_0/mux2x1_6/AND2_0/Y
+= 2Complement_2/mux2x1_8_0/mux2x1_6/OR2_0/B 2Complement_2/mux2x1_8_0/mux2x1_6/m1_50_n8#
+C 2Complement_2/mux2x1_8_0/mux2x1_6/AND2_0/a_9_44# GND 2.02
+R 2Complement_2/mux2x1_8_0/mux2x1_6/AND2_0/a_9_44# 69
+C A6 GND 28.71
+R A6 153
+= A6 m2_98_270#
+= A6 2Complement_2/A6
+= A6 2Complement_2/8bitINV_0/A6
+= A6 2Complement_2/8bitINV_0/INV_6/A
+= A6 2Complement_2/mux2x1_8_0/A6
+= A6 2Complement_2/mux2x1_8_0/mux2x1_6/I0
+= A6 2Complement_2/mux2x1_8_0/mux2x1_6/AND2_0/A
+R Y6 12
+= Y6 2Complement_2/Y6
+= Y6 2Complement_2/mux2x1_8_0/Y6
+= Y6 2Complement_2/mux2x1_8_0/mux2x1_6/Y
+= Y6 2Complement_2/mux2x1_8_0/mux2x1_6/OR2_0/Y
+R 2Complement_2/mux2x1_8_0/mux2x1_6/OR2_0/a_9_8# 73
+R 2Complement_2/mux2x1_8_0/mux2x1_6/OR2_0/A 69
+= 2Complement_2/mux2x1_8_0/mux2x1_6/OR2_0/A 2Complement_2/mux2x1_8_0/mux2x1_6/AND2_1/Y
+= 2Complement_2/mux2x1_8_0/mux2x1_6/OR2_0/A 2Complement_2/mux2x1_8_0/mux2x1_6/m1_94_28#
+C 2Complement_2/mux2x1_8_0/mux2x1_5/Sb GND 2.72
+R 2Complement_2/mux2x1_8_0/mux2x1_5/Sb 70
+= 2Complement_2/mux2x1_8_0/mux2x1_5/Sb 2Complement_2/mux2x1_8_0/mux2x1_5/AND2_0/B
+= 2Complement_2/mux2x1_8_0/mux2x1_5/Sb 2Complement_2/mux2x1_8_0/mux2x1_5/INV_0/Y
+C 2Complement_2/mux2x1_8_0/mux2x1_5/AND2_1/a_9_44# GND 2.02
+R 2Complement_2/mux2x1_8_0/mux2x1_5/AND2_1/a_9_44# 69
+C 2Complement_2/mux2x1_8_0/B5 GND 4.72
+R 2Complement_2/mux2x1_8_0/B5 86
+= 2Complement_2/mux2x1_8_0/B5 2Complement_2/8bitAdder_0/S5
+= 2Complement_2/mux2x1_8_0/B5 2Complement_2/8bitAdder_0/Chain_HA_5/S
+= 2Complement_2/mux2x1_8_0/B5 2Complement_2/8bitAdder_0/Chain_HA_5/XOR2_0/Y
+= 2Complement_2/mux2x1_8_0/B5 2Complement_2/m1_713_n176#
+= 2Complement_2/mux2x1_8_0/B5 2Complement_2/mux2x1_8_0/mux2x1_5/I1
+= 2Complement_2/mux2x1_8_0/B5 2Complement_2/mux2x1_8_0/mux2x1_5/AND2_1/A
+C 2Complement_2/mux2x1_8_0/mux2x1_5/OR2_0/B GND 3.61
+R 2Complement_2/mux2x1_8_0/mux2x1_5/OR2_0/B 72
+= 2Complement_2/mux2x1_8_0/mux2x1_5/OR2_0/B 2Complement_2/mux2x1_8_0/mux2x1_5/AND2_0/Y
+= 2Complement_2/mux2x1_8_0/mux2x1_5/OR2_0/B 2Complement_2/mux2x1_8_0/mux2x1_5/m1_50_n8#
+C 2Complement_2/mux2x1_8_0/mux2x1_5/AND2_0/a_9_44# GND 2.02
+R 2Complement_2/mux2x1_8_0/mux2x1_5/AND2_0/a_9_44# 69
+C A5 GND 25.70
+R A5 151
+= A5 m2_82_270#
+= A5 2Complement_2/A5
+= A5 2Complement_2/8bitINV_0/A5
+= A5 2Complement_2/8bitINV_0/INV_5/A
+= A5 2Complement_2/mux2x1_8_0/A5
+= A5 2Complement_2/mux2x1_8_0/mux2x1_5/I0
+= A5 2Complement_2/mux2x1_8_0/mux2x1_5/AND2_0/A
+R Y5 12
+= Y5 2Complement_2/Y5
+= Y5 2Complement_2/mux2x1_8_0/Y5
+= Y5 2Complement_2/mux2x1_8_0/mux2x1_5/Y
+= Y5 2Complement_2/mux2x1_8_0/mux2x1_5/OR2_0/Y
+R 2Complement_2/mux2x1_8_0/mux2x1_5/OR2_0/a_9_8# 73
+R 2Complement_2/mux2x1_8_0/mux2x1_5/OR2_0/A 69
+= 2Complement_2/mux2x1_8_0/mux2x1_5/OR2_0/A 2Complement_2/mux2x1_8_0/mux2x1_5/AND2_1/Y
+= 2Complement_2/mux2x1_8_0/mux2x1_5/OR2_0/A 2Complement_2/mux2x1_8_0/mux2x1_5/m1_94_28#
+C 2Complement_2/mux2x1_8_0/mux2x1_4/Sb GND 2.72
+R 2Complement_2/mux2x1_8_0/mux2x1_4/Sb 70
+= 2Complement_2/mux2x1_8_0/mux2x1_4/Sb 2Complement_2/mux2x1_8_0/mux2x1_4/AND2_0/B
+= 2Complement_2/mux2x1_8_0/mux2x1_4/Sb 2Complement_2/mux2x1_8_0/mux2x1_4/INV_0/Y
+C 2Complement_2/mux2x1_8_0/mux2x1_4/AND2_1/a_9_44# GND 2.02
+R 2Complement_2/mux2x1_8_0/mux2x1_4/AND2_1/a_9_44# 69
+C 2Complement_2/mux2x1_8_0/B4 GND 4.31
+R 2Complement_2/mux2x1_8_0/B4 86
+= 2Complement_2/mux2x1_8_0/B4 2Complement_2/8bitAdder_0/S4
+= 2Complement_2/mux2x1_8_0/B4 2Complement_2/8bitAdder_0/Chain_HA_4/S
+= 2Complement_2/mux2x1_8_0/B4 2Complement_2/8bitAdder_0/Chain_HA_4/XOR2_0/Y
+= 2Complement_2/mux2x1_8_0/B4 2Complement_2/m1_593_n176#
+= 2Complement_2/mux2x1_8_0/B4 2Complement_2/mux2x1_8_0/mux2x1_4/I1
+= 2Complement_2/mux2x1_8_0/B4 2Complement_2/mux2x1_8_0/mux2x1_4/AND2_1/A
+C 2Complement_2/mux2x1_8_0/mux2x1_4/OR2_0/B GND 3.61
+R 2Complement_2/mux2x1_8_0/mux2x1_4/OR2_0/B 72
+= 2Complement_2/mux2x1_8_0/mux2x1_4/OR2_0/B 2Complement_2/mux2x1_8_0/mux2x1_4/AND2_0/Y
+= 2Complement_2/mux2x1_8_0/mux2x1_4/OR2_0/B 2Complement_2/mux2x1_8_0/mux2x1_4/m1_50_n8#
+C 2Complement_2/mux2x1_8_0/mux2x1_4/AND2_0/a_9_44# GND 2.02
+R 2Complement_2/mux2x1_8_0/mux2x1_4/AND2_0/a_9_44# 69
+C A4 GND 22.69
+R A4 144
+= A4 m2_66_270#
+= A4 2Complement_2/A4
+= A4 2Complement_2/8bitINV_0/A4
+= A4 2Complement_2/8bitINV_0/INV_4/A
+= A4 2Complement_2/mux2x1_8_0/A4
+= A4 2Complement_2/mux2x1_8_0/mux2x1_4/I0
+= A4 2Complement_2/mux2x1_8_0/mux2x1_4/AND2_0/A
+R Y4 12
+= Y4 2Complement_2/Y4
+= Y4 2Complement_2/mux2x1_8_0/Y4
+= Y4 2Complement_2/mux2x1_8_0/mux2x1_4/Y
+= Y4 2Complement_2/mux2x1_8_0/mux2x1_4/OR2_0/Y
+R 2Complement_2/mux2x1_8_0/mux2x1_4/OR2_0/a_9_8# 73
+R 2Complement_2/mux2x1_8_0/mux2x1_4/OR2_0/A 69
+= 2Complement_2/mux2x1_8_0/mux2x1_4/OR2_0/A 2Complement_2/mux2x1_8_0/mux2x1_4/AND2_1/Y
+= 2Complement_2/mux2x1_8_0/mux2x1_4/OR2_0/A 2Complement_2/mux2x1_8_0/mux2x1_4/m1_94_28#
+C VSS GND 174.69
+R VSS 4802
+= VSS 2Complement_1/VSS
+= VSS m2_1092_n202#
+= VSS 2Complement_1/8bitINV_0/VSS
+= VSS 2Complement_1/8bitINV_0/INV_0/VSS
+= VSS 2Complement_1/8bitINV_0/INV_7/VSS
+= VSS 2Complement_1/8bitINV_0/INV_6/VSS
+= VSS 2Complement_1/8bitINV_0/INV_1/VSS
+= VSS 2Complement_1/8bitINV_0/INV_2/VSS
+= VSS 2Complement_1/8bitINV_0/INV_3/VSS
+= VSS 2Complement_1/8bitINV_0/INV_4/VSS
+= VSS 2Complement_1/8bitINV_0/INV_5/VSS
+= VSS 2Complement_1/8bitAdder_0/VSS
+= VSS 2Complement_1/8bitAdder_0/Chain_HA_7/VSS
+= VSS 2Complement_1/8bitAdder_0/Chain_HA_4/VSS
+= VSS 2Complement_1/8bitAdder_0/Chain_HA_4/XOR2_0/VSS
+= VSS 2Complement_1/8bitAdder_0/Chain_HA_7/XOR2_0/VSS
+= VSS 2Complement_1/8bitAdder_0/Chain_HA_6/VSS
+= VSS 2Complement_1/8bitAdder_0/Chain_HA_6/XOR2_0/VSS
+= VSS 2Complement_1/8bitAdder_0/Chain_HA_5/VSS
+= VSS 2Complement_1/8bitAdder_0/Chain_HA_5/XOR2_0/VSS
+= VSS 2Complement_1/8bitAdder_0/Chain_HA_0/VSS
+= VSS 2Complement_1/8bitAdder_0/Chain_HA_0/XOR2_0/VSS
+= VSS 2Complement_1/8bitAdder_0/Chain_HA_3/VSS
+= VSS 2Complement_1/8bitAdder_0/Chain_HA_3/XOR2_0/VSS
+= VSS 2Complement_1/8bitAdder_0/Chain_HA_2/VSS
+= VSS 2Complement_1/8bitAdder_0/Chain_HA_2/XOR2_0/VSS
+= VSS 2Complement_1/8bitAdder_0/Chain_HA_1/VSS
+= VSS 2Complement_1/8bitAdder_0/Chain_HA_1/XOR2_0/VSS
+= VSS 2Complement_1/mux2x1_8_0/VSS
+= VSS 2Complement_1/mux2x1_8_0/mux2x1_2/VSS
+= VSS 2Complement_1/mux2x1_8_0/mux2x1_2/AND2_0/VSS
+= VSS 2Complement_1/mux2x1_8_0/mux2x1_2/AND2_1/VSS
+= VSS 2Complement_1/mux2x1_8_0/mux2x1_2/OR2_0/VSS
+= VSS 2Complement_1/mux2x1_8_0/mux2x1_2/INV_0/VSS
+= VSS 2Complement_1/mux2x1_8_0/mux2x1_1/VSS
+= VSS 2Complement_1/mux2x1_8_0/mux2x1_1/AND2_0/VSS
+= VSS 2Complement_1/mux2x1_8_0/mux2x1_1/AND2_1/VSS
+= VSS 2Complement_1/mux2x1_8_0/mux2x1_1/OR2_0/VSS
+= VSS 2Complement_1/mux2x1_8_0/mux2x1_1/INV_0/VSS
+= VSS 2Complement_1/mux2x1_8_0/mux2x1_0/VSS
+= VSS 2Complement_1/mux2x1_8_0/mux2x1_0/AND2_0/VSS
+= VSS 2Complement_1/mux2x1_8_0/mux2x1_0/AND2_1/VSS
+= VSS 2Complement_1/mux2x1_8_0/mux2x1_0/OR2_0/VSS
+= VSS 2Complement_1/mux2x1_8_0/mux2x1_0/INV_0/VSS
+= VSS 2Complement_1/mux2x1_8_0/mux2x1_7/VSS
+= VSS 2Complement_1/mux2x1_8_0/mux2x1_7/AND2_0/VSS
+= VSS 2Complement_1/mux2x1_8_0/mux2x1_7/AND2_1/VSS
+= VSS 2Complement_1/mux2x1_8_0/mux2x1_7/OR2_0/VSS
+= VSS 2Complement_1/mux2x1_8_0/mux2x1_7/INV_0/VSS
+= VSS 2Complement_1/mux2x1_8_0/mux2x1_6/VSS
+= VSS 2Complement_1/mux2x1_8_0/mux2x1_6/AND2_0/VSS
+= VSS 2Complement_1/mux2x1_8_0/mux2x1_6/AND2_1/VSS
+= VSS 2Complement_1/mux2x1_8_0/mux2x1_6/OR2_0/VSS
+= VSS 2Complement_1/mux2x1_8_0/mux2x1_6/INV_0/VSS
+= VSS 2Complement_1/mux2x1_8_0/mux2x1_5/VSS
+= VSS 2Complement_1/mux2x1_8_0/mux2x1_5/AND2_0/VSS
+= VSS 2Complement_1/mux2x1_8_0/mux2x1_5/AND2_1/VSS
+= VSS 2Complement_1/mux2x1_8_0/mux2x1_5/OR2_0/VSS
+= VSS 2Complement_1/mux2x1_8_0/mux2x1_5/INV_0/VSS
+= VSS 2Complement_1/mux2x1_8_0/mux2x1_4/VSS
+= VSS 2Complement_1/mux2x1_8_0/mux2x1_4/AND2_0/VSS
+= VSS 2Complement_1/mux2x1_8_0/mux2x1_4/AND2_1/VSS
+= VSS 2Complement_1/mux2x1_8_0/mux2x1_4/OR2_0/VSS
+= VSS 2Complement_1/mux2x1_8_0/mux2x1_4/INV_0/VSS
+= VSS 2Complement_1/mux2x1_8_0/mux2x1_3/VSS
+= VSS 2Complement_1/mux2x1_8_0/mux2x1_3/AND2_0/VSS
+= VSS 2Complement_1/mux2x1_8_0/mux2x1_3/AND2_1/VSS
+= VSS 2Complement_1/mux2x1_8_0/mux2x1_3/OR2_0/VSS
+= VSS 2Complement_1/mux2x1_8_0/mux2x1_3/INV_0/VSS
+= VSS XOR2_0/VSS
+= VSS m1_n92_118#
+= VSS 2Complement_2/VSS
+= VSS 2Complement_2/8bitINV_0/VSS
+= VSS 2Complement_2/8bitINV_0/INV_0/VSS
+= VSS 2Complement_2/8bitINV_0/INV_7/VSS
+= VSS 2Complement_2/8bitINV_0/INV_6/VSS
+= VSS 2Complement_2/8bitINV_0/INV_1/VSS
+= VSS 2Complement_2/8bitINV_0/INV_2/VSS
+= VSS 2Complement_2/8bitINV_0/INV_3/VSS
+= VSS 2Complement_2/8bitINV_0/INV_4/VSS
+= VSS 2Complement_2/8bitINV_0/INV_5/VSS
+= VSS 2Complement_2/8bitAdder_0/VSS
+= VSS 2Complement_2/8bitAdder_0/Chain_HA_7/VSS
+= VSS 2Complement_2/8bitAdder_0/Chain_HA_4/VSS
+= VSS 2Complement_2/8bitAdder_0/Chain_HA_4/XOR2_0/VSS
+= VSS 2Complement_2/8bitAdder_0/Chain_HA_7/XOR2_0/VSS
+= VSS 2Complement_2/8bitAdder_0/Chain_HA_6/VSS
+= VSS 2Complement_2/8bitAdder_0/Chain_HA_6/XOR2_0/VSS
+= VSS 2Complement_2/8bitAdder_0/Chain_HA_5/VSS
+= VSS 2Complement_2/8bitAdder_0/Chain_HA_5/XOR2_0/VSS
+= VSS 2Complement_2/8bitAdder_0/Chain_HA_0/VSS
+= VSS 2Complement_2/8bitAdder_0/Chain_HA_0/XOR2_0/VSS
+= VSS 2Complement_2/8bitAdder_0/Chain_HA_3/VSS
+= VSS 2Complement_2/8bitAdder_0/Chain_HA_3/XOR2_0/VSS
+= VSS 2Complement_2/8bitAdder_0/Chain_HA_2/VSS
+= VSS 2Complement_2/8bitAdder_0/Chain_HA_2/XOR2_0/VSS
+= VSS 2Complement_2/8bitAdder_0/Chain_HA_1/VSS
+= VSS 2Complement_2/8bitAdder_0/Chain_HA_1/XOR2_0/VSS
+= VSS 2Complement_2/mux2x1_8_0/VSS
+= VSS 2Complement_2/mux2x1_8_0/mux2x1_2/VSS
+= VSS 2Complement_2/mux2x1_8_0/mux2x1_2/AND2_0/VSS
+= VSS 2Complement_2/mux2x1_8_0/mux2x1_2/AND2_1/VSS
+= VSS 2Complement_2/mux2x1_8_0/mux2x1_2/OR2_0/VSS
+= VSS 2Complement_2/mux2x1_8_0/mux2x1_2/INV_0/VSS
+= VSS 2Complement_2/mux2x1_8_0/mux2x1_1/VSS
+= VSS 2Complement_2/mux2x1_8_0/mux2x1_1/AND2_0/VSS
+= VSS 2Complement_2/mux2x1_8_0/mux2x1_1/AND2_1/VSS
+= VSS 2Complement_2/mux2x1_8_0/mux2x1_1/OR2_0/VSS
+= VSS 2Complement_2/mux2x1_8_0/mux2x1_1/INV_0/VSS
+= VSS 2Complement_2/mux2x1_8_0/mux2x1_0/VSS
+= VSS 2Complement_2/mux2x1_8_0/mux2x1_0/AND2_0/VSS
+= VSS 2Complement_2/mux2x1_8_0/mux2x1_0/AND2_1/VSS
+= VSS 2Complement_2/mux2x1_8_0/mux2x1_0/OR2_0/VSS
+= VSS 2Complement_2/mux2x1_8_0/mux2x1_0/INV_0/VSS
+= VSS 2Complement_2/mux2x1_8_0/mux2x1_7/VSS
+= VSS 2Complement_2/mux2x1_8_0/mux2x1_7/AND2_0/VSS
+= VSS 2Complement_2/mux2x1_8_0/mux2x1_7/AND2_1/VSS
+= VSS 2Complement_2/mux2x1_8_0/mux2x1_7/OR2_0/VSS
+= VSS 2Complement_2/mux2x1_8_0/mux2x1_7/INV_0/VSS
+= VSS 2Complement_2/mux2x1_8_0/mux2x1_6/VSS
+= VSS 2Complement_2/mux2x1_8_0/mux2x1_6/AND2_0/VSS
+= VSS 2Complement_2/mux2x1_8_0/mux2x1_6/AND2_1/VSS
+= VSS 2Complement_2/mux2x1_8_0/mux2x1_6/OR2_0/VSS
+= VSS 2Complement_2/mux2x1_8_0/mux2x1_6/INV_0/VSS
+= VSS 2Complement_2/mux2x1_8_0/mux2x1_5/VSS
+= VSS 2Complement_2/mux2x1_8_0/mux2x1_5/AND2_0/VSS
+= VSS 2Complement_2/mux2x1_8_0/mux2x1_5/AND2_1/VSS
+= VSS 2Complement_2/mux2x1_8_0/mux2x1_5/OR2_0/VSS
+= VSS 2Complement_2/mux2x1_8_0/mux2x1_5/INV_0/VSS
+= VSS 2Complement_2/mux2x1_8_0/mux2x1_4/VSS
+= VSS 2Complement_2/mux2x1_8_0/mux2x1_4/AND2_0/VSS
+= VSS 2Complement_2/mux2x1_8_0/mux2x1_4/AND2_1/VSS
+= VSS 2Complement_2/mux2x1_8_0/mux2x1_4/OR2_0/VSS
+= VSS 2Complement_2/mux2x1_8_0/mux2x1_4/INV_0/VSS
+= VSS 2Complement_2/mux2x1_8_0/mux2x1_3/VSS
+= VSS 2Complement_2/mux2x1_8_0/mux2x1_3/AND2_0/VSS
+= VSS 2Complement_2/mux2x1_8_0/mux2x1_3/AND2_1/VSS
+= VSS 2Complement_2/mux2x1_8_0/mux2x1_3/OR2_0/VSS
+= VSS 2Complement_2/mux2x1_8_0/mux2x1_3/INV_0/VSS
+C 2Complement_2/mux2x1_8_0/mux2x1_3/Sb GND 2.72
+R 2Complement_2/mux2x1_8_0/mux2x1_3/Sb 70
+= 2Complement_2/mux2x1_8_0/mux2x1_3/Sb 2Complement_2/mux2x1_8_0/mux2x1_3/AND2_0/B
+= 2Complement_2/mux2x1_8_0/mux2x1_3/Sb 2Complement_2/mux2x1_8_0/mux2x1_3/INV_0/Y
+C VDD GND 1202.60
+R VDD 122328
+= VDD 2Complement_1/VDD
+= VDD m2_n8_n162#
+= VDD 2Complement_1/8bitINV_0/VDD
+= VDD 2Complement_1/8bitINV_0/INV_0/VDD
+= VDD 2Complement_1/8bitINV_0/INV_7/VDD
+= VDD 2Complement_1/8bitINV_0/INV_6/VDD
+= VDD 2Complement_1/8bitINV_0/w_0_56#
+= VDD 2Complement_1/8bitINV_0/INV_1/VDD
+= VDD 2Complement_1/8bitINV_0/INV_2/VDD
+= VDD 2Complement_1/8bitINV_0/INV_3/VDD
+= VDD 2Complement_1/8bitINV_0/INV_4/VDD
+= VDD 2Complement_1/8bitINV_0/INV_5/VDD
+= VDD 2Complement_1/8bitAdder_0/VDD
+= VDD 2Complement_1/8bitAdder_0/Chain_HA_7/VDD
+= VDD 2Complement_1/8bitAdder_0/Chain_HA_4/VDD
+= VDD 2Complement_1/8bitAdder_0/Chain_HA_4/XOR2_0/VDD
+= VDD 2Complement_1/8bitAdder_0/Chain_HA_7/XOR2_0/VDD
+= VDD 2Complement_1/8bitAdder_0/Chain_HA_6/VDD
+= VDD 2Complement_1/8bitAdder_0/Chain_HA_6/XOR2_0/VDD
+= VDD 2Complement_1/8bitAdder_0/Chain_HA_5/VDD
+= VDD 2Complement_1/8bitAdder_0/Chain_HA_5/XOR2_0/VDD
+= VDD 2Complement_1/8bitAdder_0/Chain_HA_0/VDD
+= VDD 2Complement_1/8bitAdder_0/Chain_HA_0/XOR2_0/VDD
+= VDD 2Complement_1/8bitAdder_0/Chain_HA_3/VDD
+= VDD 2Complement_1/8bitAdder_0/Chain_HA_3/XOR2_0/VDD
+= VDD 2Complement_1/8bitAdder_0/Chain_HA_2/VDD
+= VDD 2Complement_1/8bitAdder_0/Chain_HA_2/XOR2_0/VDD
+= VDD 2Complement_1/8bitAdder_0/Chain_HA_1/VDD
+= VDD 2Complement_1/8bitAdder_0/Chain_HA_1/XOR2_0/VDD
+= VDD 2Complement_1/mux2x1_8_0/VDD
+= VDD 2Complement_1/mux2x1_8_0/mux2x1_2/VDD
+= VDD 2Complement_1/mux2x1_8_0/mux2x1_2/AND2_0/VDD
+= VDD 2Complement_1/mux2x1_8_0/mux2x1_2/AND2_1/VDD
+= VDD 2Complement_1/mux2x1_8_0/mux2x1_2/OR2_0/VDD
+= VDD 2Complement_1/mux2x1_8_0/mux2x1_2/INV_0/VDD
+= VDD 2Complement_1/mux2x1_8_0/mux2x1_1/VDD
+= VDD 2Complement_1/mux2x1_8_0/mux2x1_1/AND2_0/VDD
+= VDD 2Complement_1/mux2x1_8_0/mux2x1_1/AND2_1/VDD
+= VDD 2Complement_1/mux2x1_8_0/mux2x1_1/OR2_0/VDD
+= VDD 2Complement_1/mux2x1_8_0/mux2x1_1/INV_0/VDD
+= VDD 2Complement_1/mux2x1_8_0/mux2x1_0/VDD
+= VDD 2Complement_1/mux2x1_8_0/mux2x1_0/AND2_0/VDD
+= VDD 2Complement_1/mux2x1_8_0/mux2x1_0/AND2_1/VDD
+= VDD 2Complement_1/mux2x1_8_0/mux2x1_0/OR2_0/VDD
+= VDD 2Complement_1/mux2x1_8_0/mux2x1_0/INV_0/VDD
+= VDD 2Complement_1/mux2x1_8_0/mux2x1_7/VDD
+= VDD 2Complement_1/mux2x1_8_0/mux2x1_7/AND2_0/VDD
+= VDD 2Complement_1/mux2x1_8_0/mux2x1_7/AND2_1/VDD
+= VDD 2Complement_1/mux2x1_8_0/mux2x1_7/OR2_0/VDD
+= VDD 2Complement_1/mux2x1_8_0/mux2x1_7/INV_0/VDD
+= VDD 2Complement_1/mux2x1_8_0/mux2x1_6/VDD
+= VDD 2Complement_1/mux2x1_8_0/mux2x1_6/AND2_0/VDD
+= VDD 2Complement_1/mux2x1_8_0/mux2x1_6/AND2_1/VDD
+= VDD 2Complement_1/mux2x1_8_0/mux2x1_6/OR2_0/VDD
+= VDD 2Complement_1/mux2x1_8_0/mux2x1_6/INV_0/VDD
+= VDD 2Complement_1/mux2x1_8_0/mux2x1_5/VDD
+= VDD 2Complement_1/mux2x1_8_0/mux2x1_5/AND2_0/VDD
+= VDD 2Complement_1/mux2x1_8_0/mux2x1_5/AND2_1/VDD
+= VDD 2Complement_1/mux2x1_8_0/mux2x1_5/OR2_0/VDD
+= VDD 2Complement_1/mux2x1_8_0/mux2x1_5/INV_0/VDD
+= VDD 2Complement_1/mux2x1_8_0/mux2x1_4/VDD
+= VDD 2Complement_1/mux2x1_8_0/mux2x1_4/AND2_0/VDD
+= VDD 2Complement_1/mux2x1_8_0/mux2x1_4/AND2_1/VDD
+= VDD 2Complement_1/mux2x1_8_0/mux2x1_4/OR2_0/VDD
+= VDD 2Complement_1/mux2x1_8_0/mux2x1_4/INV_0/VDD
+= VDD 2Complement_1/mux2x1_8_0/mux2x1_3/VDD
+= VDD 2Complement_1/mux2x1_8_0/mux2x1_3/AND2_0/VDD
+= VDD 2Complement_1/mux2x1_8_0/mux2x1_3/AND2_1/VDD
+= VDD 2Complement_1/mux2x1_8_0/mux2x1_3/OR2_0/VDD
+= VDD 2Complement_1/mux2x1_8_0/mux2x1_3/INV_0/VDD
+= VDD XOR2_0/VDD
+= VDD m1_n92_182#
+= VDD 2Complement_2/VDD
+= VDD 2Complement_2/8bitINV_0/VDD
+= VDD 2Complement_2/8bitINV_0/INV_0/VDD
+= VDD 2Complement_2/8bitINV_0/INV_7/VDD
+= VDD 2Complement_2/8bitINV_0/INV_6/VDD
+= VDD 2Complement_2/8bitINV_0/w_0_56#
+= VDD 2Complement_2/8bitINV_0/INV_1/VDD
+= VDD 2Complement_2/8bitINV_0/INV_2/VDD
+= VDD 2Complement_2/8bitINV_0/INV_3/VDD
+= VDD 2Complement_2/8bitINV_0/INV_4/VDD
+= VDD 2Complement_2/8bitINV_0/INV_5/VDD
+= VDD 2Complement_2/8bitAdder_0/VDD
+= VDD 2Complement_2/8bitAdder_0/Chain_HA_7/VDD
+= VDD 2Complement_2/8bitAdder_0/Chain_HA_4/VDD
+= VDD 2Complement_2/8bitAdder_0/Chain_HA_4/XOR2_0/VDD
+= VDD 2Complement_2/8bitAdder_0/Chain_HA_7/XOR2_0/VDD
+= VDD 2Complement_2/8bitAdder_0/Chain_HA_6/VDD
+= VDD 2Complement_2/8bitAdder_0/Chain_HA_6/XOR2_0/VDD
+= VDD 2Complement_2/8bitAdder_0/Chain_HA_5/VDD
+= VDD 2Complement_2/8bitAdder_0/Chain_HA_5/XOR2_0/VDD
+= VDD 2Complement_2/8bitAdder_0/Chain_HA_0/VDD
+= VDD 2Complement_2/8bitAdder_0/Chain_HA_0/XOR2_0/VDD
+= VDD 2Complement_2/8bitAdder_0/Chain_HA_3/VDD
+= VDD 2Complement_2/8bitAdder_0/Chain_HA_3/XOR2_0/VDD
+= VDD 2Complement_2/8bitAdder_0/Chain_HA_2/VDD
+= VDD 2Complement_2/8bitAdder_0/Chain_HA_2/XOR2_0/VDD
+= VDD 2Complement_2/8bitAdder_0/Chain_HA_1/VDD
+= VDD 2Complement_2/8bitAdder_0/Chain_HA_1/XOR2_0/VDD
+= VDD 2Complement_2/mux2x1_8_0/VDD
+= VDD 2Complement_2/mux2x1_8_0/mux2x1_2/VDD
+= VDD 2Complement_2/mux2x1_8_0/mux2x1_2/AND2_0/VDD
+= VDD 2Complement_2/mux2x1_8_0/mux2x1_2/AND2_1/VDD
+= VDD 2Complement_2/mux2x1_8_0/mux2x1_2/OR2_0/VDD
+= VDD 2Complement_2/mux2x1_8_0/mux2x1_2/INV_0/VDD
+= VDD 2Complement_2/mux2x1_8_0/mux2x1_1/VDD
+= VDD 2Complement_2/mux2x1_8_0/mux2x1_1/AND2_0/VDD
+= VDD 2Complement_2/mux2x1_8_0/mux2x1_1/AND2_1/VDD
+= VDD 2Complement_2/mux2x1_8_0/mux2x1_1/OR2_0/VDD
+= VDD 2Complement_2/mux2x1_8_0/mux2x1_1/INV_0/VDD
+= VDD 2Complement_2/mux2x1_8_0/mux2x1_0/VDD
+= VDD 2Complement_2/mux2x1_8_0/mux2x1_0/AND2_0/VDD
+= VDD 2Complement_2/mux2x1_8_0/mux2x1_0/AND2_1/VDD
+= VDD 2Complement_2/mux2x1_8_0/mux2x1_0/OR2_0/VDD
+= VDD 2Complement_2/mux2x1_8_0/mux2x1_0/INV_0/VDD
+= VDD 2Complement_2/mux2x1_8_0/mux2x1_7/VDD
+= VDD 2Complement_2/mux2x1_8_0/mux2x1_7/AND2_0/VDD
+= VDD 2Complement_2/mux2x1_8_0/mux2x1_7/AND2_1/VDD
+= VDD 2Complement_2/mux2x1_8_0/mux2x1_7/OR2_0/VDD
+= VDD 2Complement_2/mux2x1_8_0/mux2x1_7/INV_0/VDD
+= VDD 2Complement_2/mux2x1_8_0/mux2x1_6/VDD
+= VDD 2Complement_2/mux2x1_8_0/mux2x1_6/AND2_0/VDD
+= VDD 2Complement_2/mux2x1_8_0/mux2x1_6/AND2_1/VDD
+= VDD 2Complement_2/mux2x1_8_0/mux2x1_6/OR2_0/VDD
+= VDD 2Complement_2/mux2x1_8_0/mux2x1_6/INV_0/VDD
+= VDD 2Complement_2/mux2x1_8_0/mux2x1_5/VDD
+= VDD 2Complement_2/mux2x1_8_0/mux2x1_5/AND2_0/VDD
+= VDD 2Complement_2/mux2x1_8_0/mux2x1_5/AND2_1/VDD
+= VDD 2Complement_2/mux2x1_8_0/mux2x1_5/OR2_0/VDD
+= VDD 2Complement_2/mux2x1_8_0/mux2x1_5/INV_0/VDD
+= VDD 2Complement_2/mux2x1_8_0/mux2x1_4/VDD
+= VDD 2Complement_2/mux2x1_8_0/mux2x1_4/AND2_0/VDD
+= VDD 2Complement_2/mux2x1_8_0/mux2x1_4/AND2_1/VDD
+= VDD 2Complement_2/mux2x1_8_0/mux2x1_4/OR2_0/VDD
+= VDD 2Complement_2/mux2x1_8_0/mux2x1_4/INV_0/VDD
+= VDD 2Complement_2/mux2x1_8_0/mux2x1_3/VDD
+= VDD 2Complement_2/mux2x1_8_0/mux2x1_3/AND2_0/VDD
+= VDD 2Complement_2/mux2x1_8_0/mux2x1_3/AND2_1/VDD
+= VDD 2Complement_2/mux2x1_8_0/mux2x1_3/OR2_0/VDD
+= VDD 2Complement_2/mux2x1_8_0/mux2x1_3/INV_0/VDD
+C 2Complement_2/mux2x1_8_0/mux2x1_3/AND2_1/a_9_44# GND 2.02
+R 2Complement_2/mux2x1_8_0/mux2x1_3/AND2_1/a_9_44# 69
+C 2Complement_2/mux2x1_8_0/B3 GND 4.27
+R 2Complement_2/mux2x1_8_0/B3 86
+= 2Complement_2/mux2x1_8_0/B3 2Complement_2/8bitAdder_0/S3
+= 2Complement_2/mux2x1_8_0/B3 2Complement_2/8bitAdder_0/Chain_HA_3/S
+= 2Complement_2/mux2x1_8_0/B3 2Complement_2/8bitAdder_0/Chain_HA_3/XOR2_0/Y
+= 2Complement_2/mux2x1_8_0/B3 2Complement_2/m1_466_n176#
+= 2Complement_2/mux2x1_8_0/B3 2Complement_2/mux2x1_8_0/mux2x1_3/I1
+= 2Complement_2/mux2x1_8_0/B3 2Complement_2/mux2x1_8_0/mux2x1_3/AND2_1/A
+C 2Complement_2/mux2x1_8_0/mux2x1_3/OR2_0/B GND 3.61
+R 2Complement_2/mux2x1_8_0/mux2x1_3/OR2_0/B 72
+= 2Complement_2/mux2x1_8_0/mux2x1_3/OR2_0/B 2Complement_2/mux2x1_8_0/mux2x1_3/AND2_0/Y
+= 2Complement_2/mux2x1_8_0/mux2x1_3/OR2_0/B 2Complement_2/mux2x1_8_0/mux2x1_3/m1_50_n8#
+C 2Complement_2/mux2x1_8_0/mux2x1_3/AND2_0/a_9_44# GND 2.02
+R 2Complement_2/mux2x1_8_0/mux2x1_3/AND2_0/a_9_44# 69
+C A3 GND 19.69
+R A3 147
+= A3 m2_50_270#
+= A3 2Complement_2/A3
+= A3 2Complement_2/8bitINV_0/A3
+= A3 2Complement_2/8bitINV_0/INV_3/A
+= A3 2Complement_2/mux2x1_8_0/A3
+= A3 2Complement_2/mux2x1_8_0/mux2x1_3/I0
+= A3 2Complement_2/mux2x1_8_0/mux2x1_3/AND2_0/A
+R Y3 12
+= Y3 2Complement_2/Y3
+= Y3 2Complement_2/mux2x1_8_0/Y3
+= Y3 2Complement_2/mux2x1_8_0/mux2x1_3/Y
+= Y3 2Complement_2/mux2x1_8_0/mux2x1_3/OR2_0/Y
+R 2Complement_2/mux2x1_8_0/mux2x1_3/OR2_0/a_9_8# 73
+R 2Complement_2/mux2x1_8_0/mux2x1_3/OR2_0/A 69
+= 2Complement_2/mux2x1_8_0/mux2x1_3/OR2_0/A 2Complement_2/mux2x1_8_0/mux2x1_3/AND2_1/Y
+= 2Complement_2/mux2x1_8_0/mux2x1_3/OR2_0/A 2Complement_2/mux2x1_8_0/mux2x1_3/m1_94_28#
+C 2Complement_2/mux2x1_8_0/mux2x1_2/Sb GND 2.72
+R 2Complement_2/mux2x1_8_0/mux2x1_2/Sb 70
+= 2Complement_2/mux2x1_8_0/mux2x1_2/Sb 2Complement_2/mux2x1_8_0/mux2x1_2/AND2_0/B
+= 2Complement_2/mux2x1_8_0/mux2x1_2/Sb 2Complement_2/mux2x1_8_0/mux2x1_2/INV_0/Y
+C 2Complement_2/mux2x1_8_0/mux2x1_2/AND2_1/a_9_44# GND 2.02
+R 2Complement_2/mux2x1_8_0/mux2x1_2/AND2_1/a_9_44# 69
+C 2Complement_2/mux2x1_8_0/B2 GND 4.66
+R 2Complement_2/mux2x1_8_0/B2 86
+= 2Complement_2/mux2x1_8_0/B2 2Complement_2/8bitAdder_0/S2
+= 2Complement_2/mux2x1_8_0/B2 2Complement_2/8bitAdder_0/Chain_HA_2/S
+= 2Complement_2/mux2x1_8_0/B2 2Complement_2/8bitAdder_0/Chain_HA_2/XOR2_0/Y
+= 2Complement_2/mux2x1_8_0/B2 2Complement_2/m1_330_n176#
+= 2Complement_2/mux2x1_8_0/B2 2Complement_2/mux2x1_8_0/mux2x1_2/I1
+= 2Complement_2/mux2x1_8_0/B2 2Complement_2/mux2x1_8_0/mux2x1_2/AND2_1/A
+C 2Complement_2/mux2x1_8_0/mux2x1_2/OR2_0/B GND 3.61
+R 2Complement_2/mux2x1_8_0/mux2x1_2/OR2_0/B 72
+= 2Complement_2/mux2x1_8_0/mux2x1_2/OR2_0/B 2Complement_2/mux2x1_8_0/mux2x1_2/AND2_0/Y
+= 2Complement_2/mux2x1_8_0/mux2x1_2/OR2_0/B 2Complement_2/mux2x1_8_0/mux2x1_2/m1_50_n8#
+C 2Complement_2/mux2x1_8_0/mux2x1_2/AND2_0/a_9_44# GND 2.02
+R 2Complement_2/mux2x1_8_0/mux2x1_2/AND2_0/a_9_44# 69
+C A2 GND 16.69
+R A2 145
+= A2 m2_34_270#
+= A2 2Complement_2/A2
+= A2 2Complement_2/8bitINV_0/A2
+= A2 2Complement_2/8bitINV_0/INV_2/A
+= A2 2Complement_2/mux2x1_8_0/A2
+= A2 2Complement_2/mux2x1_8_0/mux2x1_2/I0
+= A2 2Complement_2/mux2x1_8_0/mux2x1_2/AND2_0/A
+R Y2 12
+= Y2 2Complement_2/Y2
+= Y2 2Complement_2/mux2x1_8_0/Y2
+= Y2 2Complement_2/mux2x1_8_0/mux2x1_2/Y
+= Y2 2Complement_2/mux2x1_8_0/mux2x1_2/OR2_0/Y
+R 2Complement_2/mux2x1_8_0/mux2x1_2/OR2_0/a_9_8# 73
+R 2Complement_2/mux2x1_8_0/mux2x1_2/OR2_0/A 69
+= 2Complement_2/mux2x1_8_0/mux2x1_2/OR2_0/A 2Complement_2/mux2x1_8_0/mux2x1_2/AND2_1/Y
+= 2Complement_2/mux2x1_8_0/mux2x1_2/OR2_0/A 2Complement_2/mux2x1_8_0/mux2x1_2/m1_94_28#
+C 2Complement_2/mux2x1_8_0/mux2x1_1/Sb GND 2.72
+R 2Complement_2/mux2x1_8_0/mux2x1_1/Sb 70
+= 2Complement_2/mux2x1_8_0/mux2x1_1/Sb 2Complement_2/mux2x1_8_0/mux2x1_1/AND2_0/B
+= 2Complement_2/mux2x1_8_0/mux2x1_1/Sb 2Complement_2/mux2x1_8_0/mux2x1_1/INV_0/Y
+C 2Complement_2/mux2x1_8_0/mux2x1_1/AND2_1/a_9_44# GND 2.02
+R 2Complement_2/mux2x1_8_0/mux2x1_1/AND2_1/a_9_44# 69
+C 2Complement_2/mux2x1_8_0/B1 GND 4.38
+R 2Complement_2/mux2x1_8_0/B1 86
+= 2Complement_2/mux2x1_8_0/B1 2Complement_2/8bitAdder_0/S1
+= 2Complement_2/mux2x1_8_0/B1 2Complement_2/8bitAdder_0/Chain_HA_1/S
+= 2Complement_2/mux2x1_8_0/B1 2Complement_2/8bitAdder_0/Chain_HA_1/XOR2_0/Y
+= 2Complement_2/mux2x1_8_0/B1 2Complement_2/m1_194_n176#
+= 2Complement_2/mux2x1_8_0/B1 2Complement_2/mux2x1_8_0/mux2x1_1/I1
+= 2Complement_2/mux2x1_8_0/B1 2Complement_2/mux2x1_8_0/mux2x1_1/AND2_1/A
+C 2Complement_2/mux2x1_8_0/mux2x1_1/OR2_0/B GND 3.61
+R 2Complement_2/mux2x1_8_0/mux2x1_1/OR2_0/B 72
+= 2Complement_2/mux2x1_8_0/mux2x1_1/OR2_0/B 2Complement_2/mux2x1_8_0/mux2x1_1/AND2_0/Y
+= 2Complement_2/mux2x1_8_0/mux2x1_1/OR2_0/B 2Complement_2/mux2x1_8_0/mux2x1_1/m1_50_n8#
+C 2Complement_2/mux2x1_8_0/mux2x1_1/AND2_0/a_9_44# GND 2.02
+R 2Complement_2/mux2x1_8_0/mux2x1_1/AND2_0/a_9_44# 69
+C A1 GND 12.77
+R A1 141
+= A1 m2_18_270#
+= A1 2Complement_2/A1
+= A1 2Complement_2/8bitINV_0/A1
+= A1 2Complement_2/8bitINV_0/INV_1/A
+= A1 2Complement_2/mux2x1_8_0/A1
+= A1 2Complement_2/mux2x1_8_0/mux2x1_1/I0
+= A1 2Complement_2/mux2x1_8_0/mux2x1_1/AND2_0/A
+R Y1 12
+= Y1 2Complement_2/Y1
+= Y1 2Complement_2/mux2x1_8_0/Y1
+= Y1 2Complement_2/mux2x1_8_0/mux2x1_1/Y
+= Y1 2Complement_2/mux2x1_8_0/mux2x1_1/OR2_0/Y
+R 2Complement_2/mux2x1_8_0/mux2x1_1/OR2_0/a_9_8# 73
+R 2Complement_2/mux2x1_8_0/mux2x1_1/OR2_0/A 69
+= 2Complement_2/mux2x1_8_0/mux2x1_1/OR2_0/A 2Complement_2/mux2x1_8_0/mux2x1_1/AND2_1/Y
+= 2Complement_2/mux2x1_8_0/mux2x1_1/OR2_0/A 2Complement_2/mux2x1_8_0/mux2x1_1/m1_94_28#
+C 2Complement_2/mux2x1_8_0/mux2x1_0/Sb GND 2.72
+R 2Complement_2/mux2x1_8_0/mux2x1_0/Sb 70
+= 2Complement_2/mux2x1_8_0/mux2x1_0/Sb 2Complement_2/mux2x1_8_0/mux2x1_0/AND2_0/B
+= 2Complement_2/mux2x1_8_0/mux2x1_0/Sb 2Complement_2/mux2x1_8_0/mux2x1_0/INV_0/Y
+C 2Complement_2/mux2x1_8_0/mux2x1_0/AND2_1/a_9_44# GND 2.02
+R 2Complement_2/mux2x1_8_0/mux2x1_0/AND2_1/a_9_44# 69
+C 2Complement_2/mux2x1_8_0/B0 GND 5.39
+R 2Complement_2/mux2x1_8_0/B0 87
+= 2Complement_2/mux2x1_8_0/B0 2Complement_2/8bitAdder_0/S0
+= 2Complement_2/mux2x1_8_0/B0 2Complement_2/8bitAdder_0/Chain_HA_0/S
+= 2Complement_2/mux2x1_8_0/B0 2Complement_2/8bitAdder_0/Chain_HA_0/XOR2_0/Y
+= 2Complement_2/mux2x1_8_0/B0 2Complement_2/m1_58_n176#
+= 2Complement_2/mux2x1_8_0/B0 2Complement_2/mux2x1_8_0/mux2x1_0/I1
+= 2Complement_2/mux2x1_8_0/B0 2Complement_2/mux2x1_8_0/mux2x1_0/AND2_1/A
+C 2Complement_2/mux2x1_8_0/mux2x1_0/OR2_0/B GND 3.61
+R 2Complement_2/mux2x1_8_0/mux2x1_0/OR2_0/B 72
+= 2Complement_2/mux2x1_8_0/mux2x1_0/OR2_0/B 2Complement_2/mux2x1_8_0/mux2x1_0/AND2_0/Y
+= 2Complement_2/mux2x1_8_0/mux2x1_0/OR2_0/B 2Complement_2/mux2x1_8_0/mux2x1_0/m1_50_n8#
+C 2Complement_2/mux2x1_8_0/mux2x1_0/AND2_0/a_9_44# GND 2.02
+R 2Complement_2/mux2x1_8_0/mux2x1_0/AND2_0/a_9_44# 69
+C A0 GND 10.91
+R A0 140
+= A0 m2_2_270#
+= A0 2Complement_2/A0
+= A0 2Complement_2/8bitINV_0/A0
+= A0 2Complement_2/8bitINV_0/INV_0/A
+= A0 2Complement_2/mux2x1_8_0/A0
+= A0 2Complement_2/mux2x1_8_0/mux2x1_0/I0
+= A0 2Complement_2/mux2x1_8_0/mux2x1_0/AND2_0/A
+R Y0 12
+= Y0 2Complement_2/Y0
+= Y0 2Complement_2/mux2x1_8_0/Y0
+= Y0 2Complement_2/mux2x1_8_0/mux2x1_0/Y
+= Y0 2Complement_2/mux2x1_8_0/mux2x1_0/OR2_0/Y
+R 2Complement_2/mux2x1_8_0/mux2x1_0/OR2_0/a_9_8# 73
+R 2Complement_2/mux2x1_8_0/mux2x1_0/OR2_0/A 69
+= 2Complement_2/mux2x1_8_0/mux2x1_0/OR2_0/A 2Complement_2/mux2x1_8_0/mux2x1_0/AND2_1/Y
+= 2Complement_2/mux2x1_8_0/mux2x1_0/OR2_0/A 2Complement_2/mux2x1_8_0/mux2x1_0/m1_94_28#
+C 2Complement_2/8bitAdder_0/Chain_HA_7/a_9_52# GND 2.02
+R 2Complement_2/8bitAdder_0/Chain_HA_7/a_9_52# 79
+R 2Complement_2/8bitAdder_0/Chain_HA_7/XOR2_0/a_2_44# 25
+C 2Complement_2/8bitAdder_0/Chain_HA_7/XOR2_0/a_n7_8# GND 3.67
+R 2Complement_2/8bitAdder_0/Chain_HA_7/XOR2_0/a_n7_8# 66
+C 2Complement_2/8bitAdder_0/Chain_HA_7/XOR2_0/a_n23_8# GND 3.71
+R 2Complement_2/8bitAdder_0/Chain_HA_7/XOR2_0/a_n23_8# 64
+C 2Complement_2/8bitAdder_0/Chain_HA_7/B GND 10.40
+R 2Complement_2/8bitAdder_0/Chain_HA_7/B 214
+= 2Complement_2/8bitAdder_0/Chain_HA_7/B 2Complement_2/8bitAdder_0/Chain_HA_6/Co
+= 2Complement_2/8bitAdder_0/Chain_HA_7/B 2Complement_2/8bitAdder_0/Chain_HA_7/XOR2_0/B
+C 2Complement_2/8bitINV_0/Y7 GND 24.83
+R 2Complement_2/8bitINV_0/Y7 225
+= 2Complement_2/8bitINV_0/Y7 2Complement_2/8bitINV_0/INV_7/Y
+= 2Complement_2/8bitINV_0/Y7 2Complement_2/8bitAdder_0/A7
+= 2Complement_2/8bitINV_0/Y7 2Complement_2/m1_122_n8#
+= 2Complement_2/8bitINV_0/Y7 2Complement_2/8bitAdder_0/m2_841_32#
+= 2Complement_2/8bitINV_0/Y7 2Complement_2/8bitAdder_0/Chain_HA_7/A
+= 2Complement_2/8bitINV_0/Y7 2Complement_2/8bitAdder_0/Chain_HA_7/XOR2_0/A
+C 2Complement_2/8bitAdder_0/Chain_HA_6/a_9_52# GND 2.02
+R 2Complement_2/8bitAdder_0/Chain_HA_6/a_9_52# 79
+R 2Complement_2/8bitAdder_0/Chain_HA_6/XOR2_0/a_2_44# 25
+C 2Complement_2/8bitAdder_0/Chain_HA_6/XOR2_0/a_n7_8# GND 3.67
+R 2Complement_2/8bitAdder_0/Chain_HA_6/XOR2_0/a_n7_8# 66
+C 2Complement_2/8bitAdder_0/Chain_HA_6/XOR2_0/a_n23_8# GND 3.71
+R 2Complement_2/8bitAdder_0/Chain_HA_6/XOR2_0/a_n23_8# 64
+C 2Complement_2/8bitAdder_0/Chain_HA_6/B GND 10.40
+R 2Complement_2/8bitAdder_0/Chain_HA_6/B 214
+= 2Complement_2/8bitAdder_0/Chain_HA_6/B 2Complement_2/8bitAdder_0/Chain_HA_5/Co
+= 2Complement_2/8bitAdder_0/Chain_HA_6/B 2Complement_2/8bitAdder_0/Chain_HA_6/XOR2_0/B
+C 2Complement_2/8bitINV_0/Y6 GND 22.41
+R 2Complement_2/8bitINV_0/Y6 223
+= 2Complement_2/8bitINV_0/Y6 2Complement_2/8bitINV_0/INV_6/Y
+= 2Complement_2/8bitINV_0/Y6 2Complement_2/8bitAdder_0/A6
+= 2Complement_2/8bitINV_0/Y6 2Complement_2/m1_106_n16#
+= 2Complement_2/8bitINV_0/Y6 2Complement_2/8bitAdder_0/m2_721_32#
+= 2Complement_2/8bitINV_0/Y6 2Complement_2/8bitAdder_0/Chain_HA_6/A
+= 2Complement_2/8bitINV_0/Y6 2Complement_2/8bitAdder_0/Chain_HA_6/XOR2_0/A
+C 2Complement_2/8bitAdder_0/Chain_HA_5/a_9_52# GND 2.02
+R 2Complement_2/8bitAdder_0/Chain_HA_5/a_9_52# 79
+R 2Complement_2/8bitAdder_0/Chain_HA_5/XOR2_0/a_2_44# 25
+C 2Complement_2/8bitAdder_0/Chain_HA_5/XOR2_0/a_n7_8# GND 3.67
+R 2Complement_2/8bitAdder_0/Chain_HA_5/XOR2_0/a_n7_8# 66
+C 2Complement_2/8bitAdder_0/Chain_HA_5/XOR2_0/a_n23_8# GND 3.71
+R 2Complement_2/8bitAdder_0/Chain_HA_5/XOR2_0/a_n23_8# 64
+C 2Complement_2/8bitAdder_0/Chain_HA_5/B GND 10.35
+R 2Complement_2/8bitAdder_0/Chain_HA_5/B 214
+= 2Complement_2/8bitAdder_0/Chain_HA_5/B 2Complement_2/8bitAdder_0/Chain_HA_4/Co
+= 2Complement_2/8bitAdder_0/Chain_HA_5/B 2Complement_2/8bitAdder_0/Chain_HA_5/XOR2_0/B
+C 2Complement_2/8bitINV_0/Y5 GND 19.98
+R 2Complement_2/8bitINV_0/Y5 221
+= 2Complement_2/8bitINV_0/Y5 2Complement_2/8bitINV_0/INV_5/Y
+= 2Complement_2/8bitINV_0/Y5 2Complement_2/8bitAdder_0/A5
+= 2Complement_2/8bitINV_0/Y5 2Complement_2/m1_90_n24#
+= 2Complement_2/8bitINV_0/Y5 2Complement_2/8bitAdder_0/m2_601_32#
+= 2Complement_2/8bitINV_0/Y5 2Complement_2/8bitAdder_0/Chain_HA_5/A
+= 2Complement_2/8bitINV_0/Y5 2Complement_2/8bitAdder_0/Chain_HA_5/XOR2_0/A
+C 2Complement_2/8bitAdder_0/Chain_HA_4/a_9_52# GND 2.02
+R 2Complement_2/8bitAdder_0/Chain_HA_4/a_9_52# 79
+R 2Complement_2/8bitAdder_0/Chain_HA_4/XOR2_0/a_2_44# 25
+C 2Complement_2/8bitAdder_0/Chain_HA_4/XOR2_0/a_n7_8# GND 3.67
+R 2Complement_2/8bitAdder_0/Chain_HA_4/XOR2_0/a_n7_8# 66
+C 2Complement_2/8bitAdder_0/Chain_HA_4/XOR2_0/a_n23_8# GND 3.71
+R 2Complement_2/8bitAdder_0/Chain_HA_4/XOR2_0/a_n23_8# 64
+C 2Complement_2/8bitAdder_0/Chain_HA_4/B GND 10.40
+R 2Complement_2/8bitAdder_0/Chain_HA_4/B 214
+= 2Complement_2/8bitAdder_0/Chain_HA_4/B 2Complement_2/8bitAdder_0/Chain_HA_3/Co
+= 2Complement_2/8bitAdder_0/Chain_HA_4/B 2Complement_2/8bitAdder_0/Chain_HA_4/XOR2_0/B
+C 2Complement_2/8bitINV_0/Y4 GND 17.56
+R 2Complement_2/8bitINV_0/Y4 220
+= 2Complement_2/8bitINV_0/Y4 2Complement_2/8bitINV_0/INV_4/Y
+= 2Complement_2/8bitINV_0/Y4 2Complement_2/8bitAdder_0/A4
+= 2Complement_2/8bitINV_0/Y4 2Complement_2/m1_74_n32#
+= 2Complement_2/8bitINV_0/Y4 2Complement_2/8bitAdder_0/m2_481_32#
+= 2Complement_2/8bitINV_0/Y4 2Complement_2/8bitAdder_0/Chain_HA_4/A
+= 2Complement_2/8bitINV_0/Y4 2Complement_2/8bitAdder_0/Chain_HA_4/XOR2_0/A
+C 2Complement_2/8bitAdder_0/Chain_HA_3/a_9_52# GND 2.02
+R 2Complement_2/8bitAdder_0/Chain_HA_3/a_9_52# 79
+R 2Complement_2/8bitAdder_0/Chain_HA_3/XOR2_0/a_2_44# 25
+C 2Complement_2/8bitAdder_0/Chain_HA_3/XOR2_0/a_n7_8# GND 3.67
+R 2Complement_2/8bitAdder_0/Chain_HA_3/XOR2_0/a_n7_8# 66
+C 2Complement_2/8bitAdder_0/Chain_HA_3/XOR2_0/a_n23_8# GND 3.71
+R 2Complement_2/8bitAdder_0/Chain_HA_3/XOR2_0/a_n23_8# 64
+C 2Complement_2/8bitAdder_0/Chain_HA_3/B GND 10.40
+R 2Complement_2/8bitAdder_0/Chain_HA_3/B 214
+= 2Complement_2/8bitAdder_0/Chain_HA_3/B 2Complement_2/8bitAdder_0/Chain_HA_2/Co
+= 2Complement_2/8bitAdder_0/Chain_HA_3/B 2Complement_2/8bitAdder_0/Chain_HA_3/XOR2_0/B
+C 2Complement_2/8bitINV_0/Y3 GND 15.13
+R 2Complement_2/8bitINV_0/Y3 218
+= 2Complement_2/8bitINV_0/Y3 2Complement_2/8bitINV_0/INV_3/Y
+= 2Complement_2/8bitINV_0/Y3 2Complement_2/8bitAdder_0/A3
+= 2Complement_2/8bitINV_0/Y3 2Complement_2/m1_58_n40#
+= 2Complement_2/8bitINV_0/Y3 2Complement_2/8bitAdder_0/m2_361_32#
+= 2Complement_2/8bitINV_0/Y3 2Complement_2/8bitAdder_0/Chain_HA_3/A
+= 2Complement_2/8bitINV_0/Y3 2Complement_2/8bitAdder_0/Chain_HA_3/XOR2_0/A
+C 2Complement_2/8bitAdder_0/Chain_HA_2/a_9_52# GND 2.02
+R 2Complement_2/8bitAdder_0/Chain_HA_2/a_9_52# 79
+R 2Complement_2/8bitAdder_0/Chain_HA_2/XOR2_0/a_2_44# 25
+C 2Complement_2/8bitAdder_0/Chain_HA_2/XOR2_0/a_n7_8# GND 3.67
+R 2Complement_2/8bitAdder_0/Chain_HA_2/XOR2_0/a_n7_8# 66
+C 2Complement_2/8bitAdder_0/Chain_HA_2/XOR2_0/a_n23_8# GND 3.71
+R 2Complement_2/8bitAdder_0/Chain_HA_2/XOR2_0/a_n23_8# 64
+C 2Complement_2/8bitAdder_0/Chain_HA_2/B GND 10.40
+R 2Complement_2/8bitAdder_0/Chain_HA_2/B 214
+= 2Complement_2/8bitAdder_0/Chain_HA_2/B 2Complement_2/8bitAdder_0/Chain_HA_1/Co
+= 2Complement_2/8bitAdder_0/Chain_HA_2/B 2Complement_2/8bitAdder_0/Chain_HA_2/XOR2_0/B
+C 2Complement_2/8bitINV_0/Y2 GND 12.73
+R 2Complement_2/8bitINV_0/Y2 216
+= 2Complement_2/8bitINV_0/Y2 2Complement_2/8bitINV_0/INV_2/Y
+= 2Complement_2/8bitINV_0/Y2 2Complement_2/8bitAdder_0/A2
+= 2Complement_2/8bitINV_0/Y2 2Complement_2/m1_42_n48#
+= 2Complement_2/8bitINV_0/Y2 2Complement_2/8bitAdder_0/m2_242_32#
+= 2Complement_2/8bitINV_0/Y2 2Complement_2/8bitAdder_0/Chain_HA_2/A
+= 2Complement_2/8bitINV_0/Y2 2Complement_2/8bitAdder_0/Chain_HA_2/XOR2_0/A
+C 2Complement_2/8bitAdder_0/Chain_HA_1/a_9_52# GND 2.02
+R 2Complement_2/8bitAdder_0/Chain_HA_1/a_9_52# 79
+R 2Complement_2/8bitAdder_0/Chain_HA_1/XOR2_0/a_2_44# 25
+C 2Complement_2/8bitAdder_0/Chain_HA_1/XOR2_0/a_n7_8# GND 3.67
+R 2Complement_2/8bitAdder_0/Chain_HA_1/XOR2_0/a_n7_8# 66
+C 2Complement_2/8bitAdder_0/Chain_HA_1/XOR2_0/a_n23_8# GND 3.71
+R 2Complement_2/8bitAdder_0/Chain_HA_1/XOR2_0/a_n23_8# 64
+C 2Complement_2/8bitAdder_0/Chain_HA_1/B GND 10.40
+R 2Complement_2/8bitAdder_0/Chain_HA_1/B 214
+= 2Complement_2/8bitAdder_0/Chain_HA_1/B 2Complement_2/8bitAdder_0/Chain_HA_0/Co
+= 2Complement_2/8bitAdder_0/Chain_HA_1/B 2Complement_2/8bitAdder_0/Chain_HA_1/XOR2_0/B
+C 2Complement_2/8bitINV_0/Y1 GND 10.30
+R 2Complement_2/8bitINV_0/Y1 214
+= 2Complement_2/8bitINV_0/Y1 2Complement_2/8bitINV_0/INV_1/Y
+= 2Complement_2/8bitINV_0/Y1 2Complement_2/8bitAdder_0/A1
+= 2Complement_2/8bitINV_0/Y1 2Complement_2/m1_26_n56#
+= 2Complement_2/8bitINV_0/Y1 2Complement_2/8bitAdder_0/m2_122_32#
+= 2Complement_2/8bitINV_0/Y1 2Complement_2/8bitAdder_0/Chain_HA_1/A
+= 2Complement_2/8bitINV_0/Y1 2Complement_2/8bitAdder_0/Chain_HA_1/XOR2_0/A
+C 2Complement_2/8bitAdder_0/Chain_HA_0/a_9_52# GND 2.02
+R 2Complement_2/8bitAdder_0/Chain_HA_0/a_9_52# 79
+R 2Complement_2/8bitAdder_0/Chain_HA_0/XOR2_0/a_2_44# 25
+C 2Complement_2/8bitAdder_0/Chain_HA_0/XOR2_0/a_n7_8# GND 3.67
+R 2Complement_2/8bitAdder_0/Chain_HA_0/XOR2_0/a_n7_8# 66
+C 2Complement_2/8bitAdder_0/Chain_HA_0/XOR2_0/a_n23_8# GND 3.71
+R 2Complement_2/8bitAdder_0/Chain_HA_0/XOR2_0/a_n23_8# 64
+C 2Complement_2/8bitINV_0/Y0 GND 7.89
+R 2Complement_2/8bitINV_0/Y0 211
+= 2Complement_2/8bitINV_0/Y0 2Complement_2/8bitINV_0/INV_0/Y
+= 2Complement_2/8bitINV_0/Y0 2Complement_2/8bitAdder_0/A0
+= 2Complement_2/8bitINV_0/Y0 2Complement_2/m1_10_n144#
+= 2Complement_2/8bitINV_0/Y0 2Complement_2/8bitAdder_0/m2_2_32#
+= 2Complement_2/8bitINV_0/Y0 2Complement_2/8bitAdder_0/Chain_HA_0/A
+= 2Complement_2/8bitINV_0/Y0 2Complement_2/8bitAdder_0/Chain_HA_0/XOR2_0/A
+C 2Complement_1/mux2x1_8_0/mux2x1_7/Sb GND 2.72
+R 2Complement_1/mux2x1_8_0/mux2x1_7/Sb 70
+= 2Complement_1/mux2x1_8_0/mux2x1_7/Sb 2Complement_1/mux2x1_8_0/mux2x1_7/AND2_0/B
+= 2Complement_1/mux2x1_8_0/mux2x1_7/Sb 2Complement_1/mux2x1_8_0/mux2x1_7/INV_0/Y
+C 2Complement_1/mux2x1_8_0/mux2x1_7/AND2_1/a_9_44# GND 2.02
+R 2Complement_1/mux2x1_8_0/mux2x1_7/AND2_1/a_9_44# 69
+C 2Complement_1/mux2x1_8_0/B7 GND 5.41
+R 2Complement_1/mux2x1_8_0/B7 87
+= 2Complement_1/mux2x1_8_0/B7 2Complement_1/8bitAdder_0/S7
+= 2Complement_1/mux2x1_8_0/B7 2Complement_1/8bitAdder_0/Chain_HA_7/S
+= 2Complement_1/mux2x1_8_0/B7 2Complement_1/8bitAdder_0/Chain_HA_7/XOR2_0/Y
+= 2Complement_1/mux2x1_8_0/B7 2Complement_1/m1_953_n176#
+= 2Complement_1/mux2x1_8_0/B7 2Complement_1/mux2x1_8_0/mux2x1_7/I1
+= 2Complement_1/mux2x1_8_0/B7 2Complement_1/mux2x1_8_0/mux2x1_7/AND2_1/A
+C 2Complement_1/mux2x1_8_0/mux2x1_7/OR2_0/B GND 3.61
+R 2Complement_1/mux2x1_8_0/mux2x1_7/OR2_0/B 72
+= 2Complement_1/mux2x1_8_0/mux2x1_7/OR2_0/B 2Complement_1/mux2x1_8_0/mux2x1_7/AND2_0/Y
+= 2Complement_1/mux2x1_8_0/mux2x1_7/OR2_0/B 2Complement_1/mux2x1_8_0/mux2x1_7/m1_50_n8#
+C 2Complement_1/mux2x1_8_0/mux2x1_7/AND2_0/a_9_44# GND 2.02
+R 2Complement_1/mux2x1_8_0/mux2x1_7/AND2_0/a_9_44# 69
+C A15 GND 41.33
+R A15 161
+= A15 m1_n234_n140#
+= A15 2Complement_1/A7
+= A15 2Complement_1/8bitINV_0/A7
+= A15 2Complement_1/8bitINV_0/INV_7/A
+= A15 2Complement_1/mux2x1_8_0/A7
+= A15 2Complement_1/mux2x1_8_0/mux2x1_7/I0
+= A15 2Complement_1/mux2x1_8_0/mux2x1_7/AND2_0/A
+R Y15 12
+= Y15 2Complement_1/Y7
+= Y15 2Complement_1/mux2x1_8_0/Y7
+= Y15 2Complement_1/mux2x1_8_0/mux2x1_7/Y
+= Y15 2Complement_1/mux2x1_8_0/mux2x1_7/OR2_0/Y
+R 2Complement_1/mux2x1_8_0/mux2x1_7/OR2_0/a_9_8# 73
+R 2Complement_1/mux2x1_8_0/mux2x1_7/OR2_0/A 69
+= 2Complement_1/mux2x1_8_0/mux2x1_7/OR2_0/A 2Complement_1/mux2x1_8_0/mux2x1_7/AND2_1/Y
+= 2Complement_1/mux2x1_8_0/mux2x1_7/OR2_0/A 2Complement_1/mux2x1_8_0/mux2x1_7/m1_94_28#
+C 2Complement_1/mux2x1_8_0/mux2x1_6/Sb GND 2.72
+R 2Complement_1/mux2x1_8_0/mux2x1_6/Sb 70
+= 2Complement_1/mux2x1_8_0/mux2x1_6/Sb 2Complement_1/mux2x1_8_0/mux2x1_6/AND2_0/B
+= 2Complement_1/mux2x1_8_0/mux2x1_6/Sb 2Complement_1/mux2x1_8_0/mux2x1_6/INV_0/Y
+C XOR2_0/Y GND 115.34
+R XOR2_0/Y 2399
+= XOR2_0/Y 2Complement_2/B
+= XOR2_0/Y 2Complement_2/a_18_n96#
+= XOR2_0/Y 2Complement_2/8bitAdder_0/B
+= XOR2_0/Y 2Complement_2/8bitAdder_0/m2_18_32#
+= XOR2_0/Y 2Complement_2/8bitAdder_0/Chain_HA_0/B
+= XOR2_0/Y 2Complement_2/8bitAdder_0/Chain_HA_0/XOR2_0/B
+= XOR2_0/Y 2Complement_2/S
+= XOR2_0/Y 2Complement_2/mux2x1_8_0/S
+= XOR2_0/Y 2Complement_2/mux2x1_8_0/mux2x1_0/S
+= XOR2_0/Y 2Complement_2/mux2x1_8_0/mux2x1_0/AND2_1/B
+= XOR2_0/Y 2Complement_2/mux2x1_8_0/mux2x1_0/INV_0/A
+= XOR2_0/Y 2Complement_2/mux2x1_8_0/mux2x1_1/S
+= XOR2_0/Y 2Complement_2/mux2x1_8_0/mux2x1_1/AND2_1/B
+= XOR2_0/Y 2Complement_2/mux2x1_8_0/mux2x1_1/INV_0/A
+= XOR2_0/Y 2Complement_2/mux2x1_8_0/mux2x1_7/S
+= XOR2_0/Y 2Complement_2/mux2x1_8_0/mux2x1_3/S
+= XOR2_0/Y 2Complement_2/mux2x1_8_0/mux2x1_2/S
+= XOR2_0/Y 2Complement_2/mux2x1_8_0/mux2x1_2/AND2_1/B
+= XOR2_0/Y 2Complement_2/mux2x1_8_0/mux2x1_2/INV_0/A
+= XOR2_0/Y 2Complement_2/mux2x1_8_0/mux2x1_3/AND2_1/B
+= XOR2_0/Y 2Complement_2/mux2x1_8_0/mux2x1_3/INV_0/A
+= XOR2_0/Y 2Complement_2/mux2x1_8_0/mux2x1_4/S
+= XOR2_0/Y 2Complement_2/mux2x1_8_0/mux2x1_4/AND2_1/B
+= XOR2_0/Y 2Complement_2/mux2x1_8_0/mux2x1_4/INV_0/A
+= XOR2_0/Y 2Complement_2/mux2x1_8_0/mux2x1_7/AND2_1/B
+= XOR2_0/Y 2Complement_2/mux2x1_8_0/mux2x1_7/INV_0/A
+= XOR2_0/Y 2Complement_2/mux2x1_8_0/mux2x1_6/S
+= XOR2_0/Y 2Complement_2/mux2x1_8_0/mux2x1_5/S
+= XOR2_0/Y 2Complement_2/mux2x1_8_0/mux2x1_5/AND2_1/B
+= XOR2_0/Y 2Complement_2/mux2x1_8_0/mux2x1_5/INV_0/A
+= XOR2_0/Y 2Complement_2/mux2x1_8_0/mux2x1_6/AND2_1/B
+= XOR2_0/Y 2Complement_2/mux2x1_8_0/mux2x1_6/INV_0/A
+= XOR2_0/Y 2Complement_1/S
+= XOR2_0/Y m1_n96_n16#
+= XOR2_0/Y 2Complement_1/mux2x1_8_0/S
+= XOR2_0/Y 2Complement_1/mux2x1_8_0/mux2x1_0/S
+= XOR2_0/Y 2Complement_1/mux2x1_8_0/mux2x1_0/AND2_1/B
+= XOR2_0/Y 2Complement_1/mux2x1_8_0/mux2x1_0/INV_0/A
+= XOR2_0/Y 2Complement_1/mux2x1_8_0/mux2x1_1/S
+= XOR2_0/Y 2Complement_1/mux2x1_8_0/mux2x1_1/AND2_1/B
+= XOR2_0/Y 2Complement_1/mux2x1_8_0/mux2x1_1/INV_0/A
+= XOR2_0/Y 2Complement_1/mux2x1_8_0/mux2x1_7/S
+= XOR2_0/Y 2Complement_1/mux2x1_8_0/mux2x1_3/S
+= XOR2_0/Y 2Complement_1/mux2x1_8_0/mux2x1_2/S
+= XOR2_0/Y 2Complement_1/mux2x1_8_0/mux2x1_2/AND2_1/B
+= XOR2_0/Y 2Complement_1/mux2x1_8_0/mux2x1_2/INV_0/A
+= XOR2_0/Y 2Complement_1/mux2x1_8_0/mux2x1_3/AND2_1/B
+= XOR2_0/Y 2Complement_1/mux2x1_8_0/mux2x1_3/INV_0/A
+= XOR2_0/Y 2Complement_1/mux2x1_8_0/mux2x1_4/S
+= XOR2_0/Y 2Complement_1/mux2x1_8_0/mux2x1_4/AND2_1/B
+= XOR2_0/Y 2Complement_1/mux2x1_8_0/mux2x1_4/INV_0/A
+= XOR2_0/Y 2Complement_1/mux2x1_8_0/mux2x1_7/AND2_1/B
+= XOR2_0/Y 2Complement_1/mux2x1_8_0/mux2x1_7/INV_0/A
+= XOR2_0/Y 2Complement_1/mux2x1_8_0/mux2x1_6/S
+= XOR2_0/Y 2Complement_1/mux2x1_8_0/mux2x1_5/S
+= XOR2_0/Y 2Complement_1/mux2x1_8_0/mux2x1_5/AND2_1/B
+= XOR2_0/Y 2Complement_1/mux2x1_8_0/mux2x1_5/INV_0/A
+= XOR2_0/Y 2Complement_1/mux2x1_8_0/mux2x1_6/AND2_1/B
+= XOR2_0/Y 2Complement_1/mux2x1_8_0/mux2x1_6/INV_0/A
+C 2Complement_1/mux2x1_8_0/mux2x1_6/AND2_1/a_9_44# GND 2.02
+R 2Complement_1/mux2x1_8_0/mux2x1_6/AND2_1/a_9_44# 69
+C 2Complement_1/mux2x1_8_0/B6 GND 5.05
+R 2Complement_1/mux2x1_8_0/B6 87
+= 2Complement_1/mux2x1_8_0/B6 2Complement_1/8bitAdder_0/S6
+= 2Complement_1/mux2x1_8_0/B6 2Complement_1/8bitAdder_0/Chain_HA_6/S
+= 2Complement_1/mux2x1_8_0/B6 2Complement_1/8bitAdder_0/Chain_HA_6/XOR2_0/Y
+= 2Complement_1/mux2x1_8_0/B6 2Complement_1/m1_833_n176#
+= 2Complement_1/mux2x1_8_0/B6 2Complement_1/mux2x1_8_0/mux2x1_6/I1
+= 2Complement_1/mux2x1_8_0/B6 2Complement_1/mux2x1_8_0/mux2x1_6/AND2_1/A
+C 2Complement_1/mux2x1_8_0/mux2x1_6/OR2_0/B GND 3.61
+R 2Complement_1/mux2x1_8_0/mux2x1_6/OR2_0/B 72
+= 2Complement_1/mux2x1_8_0/mux2x1_6/OR2_0/B 2Complement_1/mux2x1_8_0/mux2x1_6/AND2_0/Y
+= 2Complement_1/mux2x1_8_0/mux2x1_6/OR2_0/B 2Complement_1/mux2x1_8_0/mux2x1_6/m1_50_n8#
+C 2Complement_1/mux2x1_8_0/mux2x1_6/AND2_0/a_9_44# GND 2.02
+R 2Complement_1/mux2x1_8_0/mux2x1_6/AND2_0/a_9_44# 69
+C A14 GND 37.26
+R A14 164
+= A14 m1_n226_n132#
+= A14 2Complement_1/A6
+= A14 2Complement_1/8bitINV_0/A6
+= A14 2Complement_1/8bitINV_0/INV_6/A
+= A14 2Complement_1/mux2x1_8_0/A6
+= A14 2Complement_1/mux2x1_8_0/mux2x1_6/I0
+= A14 2Complement_1/mux2x1_8_0/mux2x1_6/AND2_0/A
+R Y14 12
+= Y14 2Complement_1/Y6
+= Y14 2Complement_1/mux2x1_8_0/Y6
+= Y14 2Complement_1/mux2x1_8_0/mux2x1_6/Y
+= Y14 2Complement_1/mux2x1_8_0/mux2x1_6/OR2_0/Y
+R 2Complement_1/mux2x1_8_0/mux2x1_6/OR2_0/a_9_8# 73
+R 2Complement_1/mux2x1_8_0/mux2x1_6/OR2_0/A 69
+= 2Complement_1/mux2x1_8_0/mux2x1_6/OR2_0/A 2Complement_1/mux2x1_8_0/mux2x1_6/AND2_1/Y
+= 2Complement_1/mux2x1_8_0/mux2x1_6/OR2_0/A 2Complement_1/mux2x1_8_0/mux2x1_6/m1_94_28#
+C 2Complement_1/mux2x1_8_0/mux2x1_5/Sb GND 2.72
+R 2Complement_1/mux2x1_8_0/mux2x1_5/Sb 70
+= 2Complement_1/mux2x1_8_0/mux2x1_5/Sb 2Complement_1/mux2x1_8_0/mux2x1_5/AND2_0/B
+= 2Complement_1/mux2x1_8_0/mux2x1_5/Sb 2Complement_1/mux2x1_8_0/mux2x1_5/INV_0/Y
+C 2Complement_1/mux2x1_8_0/mux2x1_5/AND2_1/a_9_44# GND 2.02
+R 2Complement_1/mux2x1_8_0/mux2x1_5/AND2_1/a_9_44# 69
+C 2Complement_1/mux2x1_8_0/B5 GND 4.72
+R 2Complement_1/mux2x1_8_0/B5 86
+= 2Complement_1/mux2x1_8_0/B5 2Complement_1/8bitAdder_0/S5
+= 2Complement_1/mux2x1_8_0/B5 2Complement_1/8bitAdder_0/Chain_HA_5/S
+= 2Complement_1/mux2x1_8_0/B5 2Complement_1/8bitAdder_0/Chain_HA_5/XOR2_0/Y
+= 2Complement_1/mux2x1_8_0/B5 2Complement_1/m1_713_n176#
+= 2Complement_1/mux2x1_8_0/B5 2Complement_1/mux2x1_8_0/mux2x1_5/I1
+= 2Complement_1/mux2x1_8_0/B5 2Complement_1/mux2x1_8_0/mux2x1_5/AND2_1/A
+C 2Complement_1/mux2x1_8_0/mux2x1_5/OR2_0/B GND 3.61
+R 2Complement_1/mux2x1_8_0/mux2x1_5/OR2_0/B 72
+= 2Complement_1/mux2x1_8_0/mux2x1_5/OR2_0/B 2Complement_1/mux2x1_8_0/mux2x1_5/AND2_0/Y
+= 2Complement_1/mux2x1_8_0/mux2x1_5/OR2_0/B 2Complement_1/mux2x1_8_0/mux2x1_5/m1_50_n8#
+C 2Complement_1/mux2x1_8_0/mux2x1_5/AND2_0/a_9_44# GND 2.02
+R 2Complement_1/mux2x1_8_0/mux2x1_5/AND2_0/a_9_44# 69
+C A13 GND 34.20
+R A13 163
+= A13 m1_n218_n124#
+= A13 2Complement_1/A5
+= A13 2Complement_1/8bitINV_0/A5
+= A13 2Complement_1/8bitINV_0/INV_5/A
+= A13 2Complement_1/mux2x1_8_0/A5
+= A13 2Complement_1/mux2x1_8_0/mux2x1_5/I0
+= A13 2Complement_1/mux2x1_8_0/mux2x1_5/AND2_0/A
+R Y13 12
+= Y13 2Complement_1/Y5
+= Y13 2Complement_1/mux2x1_8_0/Y5
+= Y13 2Complement_1/mux2x1_8_0/mux2x1_5/Y
+= Y13 2Complement_1/mux2x1_8_0/mux2x1_5/OR2_0/Y
+R 2Complement_1/mux2x1_8_0/mux2x1_5/OR2_0/a_9_8# 73
+R 2Complement_1/mux2x1_8_0/mux2x1_5/OR2_0/A 69
+= 2Complement_1/mux2x1_8_0/mux2x1_5/OR2_0/A 2Complement_1/mux2x1_8_0/mux2x1_5/AND2_1/Y
+= 2Complement_1/mux2x1_8_0/mux2x1_5/OR2_0/A 2Complement_1/mux2x1_8_0/mux2x1_5/m1_94_28#
+C 2Complement_1/mux2x1_8_0/mux2x1_4/Sb GND 2.72
+R 2Complement_1/mux2x1_8_0/mux2x1_4/Sb 70
+= 2Complement_1/mux2x1_8_0/mux2x1_4/Sb 2Complement_1/mux2x1_8_0/mux2x1_4/AND2_0/B
+= 2Complement_1/mux2x1_8_0/mux2x1_4/Sb 2Complement_1/mux2x1_8_0/mux2x1_4/INV_0/Y
+C 2Complement_1/mux2x1_8_0/mux2x1_4/AND2_1/a_9_44# GND 2.02
+R 2Complement_1/mux2x1_8_0/mux2x1_4/AND2_1/a_9_44# 69
+C 2Complement_1/mux2x1_8_0/B4 GND 4.31
+R 2Complement_1/mux2x1_8_0/B4 86
+= 2Complement_1/mux2x1_8_0/B4 2Complement_1/8bitAdder_0/S4
+= 2Complement_1/mux2x1_8_0/B4 2Complement_1/8bitAdder_0/Chain_HA_4/S
+= 2Complement_1/mux2x1_8_0/B4 2Complement_1/8bitAdder_0/Chain_HA_4/XOR2_0/Y
+= 2Complement_1/mux2x1_8_0/B4 2Complement_1/m1_593_n176#
+= 2Complement_1/mux2x1_8_0/B4 2Complement_1/mux2x1_8_0/mux2x1_4/I1
+= 2Complement_1/mux2x1_8_0/B4 2Complement_1/mux2x1_8_0/mux2x1_4/AND2_1/A
+C 2Complement_1/mux2x1_8_0/mux2x1_4/OR2_0/B GND 3.61
+R 2Complement_1/mux2x1_8_0/mux2x1_4/OR2_0/B 72
+= 2Complement_1/mux2x1_8_0/mux2x1_4/OR2_0/B 2Complement_1/mux2x1_8_0/mux2x1_4/AND2_0/Y
+= 2Complement_1/mux2x1_8_0/mux2x1_4/OR2_0/B 2Complement_1/mux2x1_8_0/mux2x1_4/m1_50_n8#
+C 2Complement_1/mux2x1_8_0/mux2x1_4/AND2_0/a_9_44# GND 2.02
+R 2Complement_1/mux2x1_8_0/mux2x1_4/AND2_0/a_9_44# 69
+C A12 GND 30.55
+R A12 155
+= A12 m1_n210_n116#
+= A12 2Complement_1/A4
+= A12 2Complement_1/8bitINV_0/A4
+= A12 2Complement_1/8bitINV_0/INV_4/A
+= A12 2Complement_1/mux2x1_8_0/A4
+= A12 2Complement_1/mux2x1_8_0/mux2x1_4/I0
+= A12 2Complement_1/mux2x1_8_0/mux2x1_4/AND2_0/A
+R Y12 12
+= Y12 2Complement_1/Y4
+= Y12 2Complement_1/mux2x1_8_0/Y4
+= Y12 2Complement_1/mux2x1_8_0/mux2x1_4/Y
+= Y12 2Complement_1/mux2x1_8_0/mux2x1_4/OR2_0/Y
+R 2Complement_1/mux2x1_8_0/mux2x1_4/OR2_0/a_9_8# 73
+R 2Complement_1/mux2x1_8_0/mux2x1_4/OR2_0/A 69
+= 2Complement_1/mux2x1_8_0/mux2x1_4/OR2_0/A 2Complement_1/mux2x1_8_0/mux2x1_4/AND2_1/Y
+= 2Complement_1/mux2x1_8_0/mux2x1_4/OR2_0/A 2Complement_1/mux2x1_8_0/mux2x1_4/m1_94_28#
+C 2Complement_1/mux2x1_8_0/mux2x1_3/Sb GND 2.72
+R 2Complement_1/mux2x1_8_0/mux2x1_3/Sb 70
+= 2Complement_1/mux2x1_8_0/mux2x1_3/Sb 2Complement_1/mux2x1_8_0/mux2x1_3/AND2_0/B
+= 2Complement_1/mux2x1_8_0/mux2x1_3/Sb 2Complement_1/mux2x1_8_0/mux2x1_3/INV_0/Y
+C 2Complement_1/mux2x1_8_0/mux2x1_3/AND2_1/a_9_44# GND 2.02
+R 2Complement_1/mux2x1_8_0/mux2x1_3/AND2_1/a_9_44# 69
+C 2Complement_1/mux2x1_8_0/B3 GND 4.27
+R 2Complement_1/mux2x1_8_0/B3 86
+= 2Complement_1/mux2x1_8_0/B3 2Complement_1/8bitAdder_0/S3
+= 2Complement_1/mux2x1_8_0/B3 2Complement_1/8bitAdder_0/Chain_HA_3/S
+= 2Complement_1/mux2x1_8_0/B3 2Complement_1/8bitAdder_0/Chain_HA_3/XOR2_0/Y
+= 2Complement_1/mux2x1_8_0/B3 2Complement_1/m1_466_n176#
+= 2Complement_1/mux2x1_8_0/B3 2Complement_1/mux2x1_8_0/mux2x1_3/I1
+= 2Complement_1/mux2x1_8_0/B3 2Complement_1/mux2x1_8_0/mux2x1_3/AND2_1/A
+C 2Complement_1/mux2x1_8_0/mux2x1_3/OR2_0/B GND 3.61
+R 2Complement_1/mux2x1_8_0/mux2x1_3/OR2_0/B 72
+= 2Complement_1/mux2x1_8_0/mux2x1_3/OR2_0/B 2Complement_1/mux2x1_8_0/mux2x1_3/AND2_0/Y
+= 2Complement_1/mux2x1_8_0/mux2x1_3/OR2_0/B 2Complement_1/mux2x1_8_0/mux2x1_3/m1_50_n8#
+C 2Complement_1/mux2x1_8_0/mux2x1_3/AND2_0/a_9_44# GND 2.02
+R 2Complement_1/mux2x1_8_0/mux2x1_3/AND2_0/a_9_44# 69
+C A11 GND 27.14
+R A11 157
+= A11 m1_n202_n108#
+= A11 2Complement_1/A3
+= A11 2Complement_1/8bitINV_0/A3
+= A11 2Complement_1/8bitINV_0/INV_3/A
+= A11 2Complement_1/mux2x1_8_0/A3
+= A11 2Complement_1/mux2x1_8_0/mux2x1_3/I0
+= A11 2Complement_1/mux2x1_8_0/mux2x1_3/AND2_0/A
+R Y11 12
+= Y11 2Complement_1/Y3
+= Y11 2Complement_1/mux2x1_8_0/Y3
+= Y11 2Complement_1/mux2x1_8_0/mux2x1_3/Y
+= Y11 2Complement_1/mux2x1_8_0/mux2x1_3/OR2_0/Y
+R 2Complement_1/mux2x1_8_0/mux2x1_3/OR2_0/a_9_8# 73
+R 2Complement_1/mux2x1_8_0/mux2x1_3/OR2_0/A 69
+= 2Complement_1/mux2x1_8_0/mux2x1_3/OR2_0/A 2Complement_1/mux2x1_8_0/mux2x1_3/AND2_1/Y
+= 2Complement_1/mux2x1_8_0/mux2x1_3/OR2_0/A 2Complement_1/mux2x1_8_0/mux2x1_3/m1_94_28#
+C 2Complement_1/mux2x1_8_0/mux2x1_2/Sb GND 2.72
+R 2Complement_1/mux2x1_8_0/mux2x1_2/Sb 70
+= 2Complement_1/mux2x1_8_0/mux2x1_2/Sb 2Complement_1/mux2x1_8_0/mux2x1_2/AND2_0/B
+= 2Complement_1/mux2x1_8_0/mux2x1_2/Sb 2Complement_1/mux2x1_8_0/mux2x1_2/INV_0/Y
+C 2Complement_1/mux2x1_8_0/mux2x1_2/AND2_1/a_9_44# GND 2.02
+R 2Complement_1/mux2x1_8_0/mux2x1_2/AND2_1/a_9_44# 69
+C 2Complement_1/mux2x1_8_0/B2 GND 4.66
+R 2Complement_1/mux2x1_8_0/B2 86
+= 2Complement_1/mux2x1_8_0/B2 2Complement_1/8bitAdder_0/S2
+= 2Complement_1/mux2x1_8_0/B2 2Complement_1/8bitAdder_0/Chain_HA_2/S
+= 2Complement_1/mux2x1_8_0/B2 2Complement_1/8bitAdder_0/Chain_HA_2/XOR2_0/Y
+= 2Complement_1/mux2x1_8_0/B2 2Complement_1/m1_330_n176#
+= 2Complement_1/mux2x1_8_0/B2 2Complement_1/mux2x1_8_0/mux2x1_2/I1
+= 2Complement_1/mux2x1_8_0/B2 2Complement_1/mux2x1_8_0/mux2x1_2/AND2_1/A
+C 2Complement_1/mux2x1_8_0/mux2x1_2/OR2_0/B GND 3.61
+R 2Complement_1/mux2x1_8_0/mux2x1_2/OR2_0/B 72
+= 2Complement_1/mux2x1_8_0/mux2x1_2/OR2_0/B 2Complement_1/mux2x1_8_0/mux2x1_2/AND2_0/Y
+= 2Complement_1/mux2x1_8_0/mux2x1_2/OR2_0/B 2Complement_1/mux2x1_8_0/mux2x1_2/m1_50_n8#
+C 2Complement_1/mux2x1_8_0/mux2x1_2/AND2_0/a_9_44# GND 2.02
+R 2Complement_1/mux2x1_8_0/mux2x1_2/AND2_0/a_9_44# 69
+C A10 GND 23.87
+R A10 155
+= A10 m1_n194_n100#
+= A10 2Complement_1/A2
+= A10 2Complement_1/8bitINV_0/A2
+= A10 2Complement_1/8bitINV_0/INV_2/A
+= A10 2Complement_1/mux2x1_8_0/A2
+= A10 2Complement_1/mux2x1_8_0/mux2x1_2/I0
+= A10 2Complement_1/mux2x1_8_0/mux2x1_2/AND2_0/A
+R Y10 12
+= Y10 2Complement_1/Y2
+= Y10 2Complement_1/mux2x1_8_0/Y2
+= Y10 2Complement_1/mux2x1_8_0/mux2x1_2/Y
+= Y10 2Complement_1/mux2x1_8_0/mux2x1_2/OR2_0/Y
+R 2Complement_1/mux2x1_8_0/mux2x1_2/OR2_0/a_9_8# 73
+R 2Complement_1/mux2x1_8_0/mux2x1_2/OR2_0/A 69
+= 2Complement_1/mux2x1_8_0/mux2x1_2/OR2_0/A 2Complement_1/mux2x1_8_0/mux2x1_2/AND2_1/Y
+= 2Complement_1/mux2x1_8_0/mux2x1_2/OR2_0/A 2Complement_1/mux2x1_8_0/mux2x1_2/m1_94_28#
+C 2Complement_1/mux2x1_8_0/mux2x1_1/Sb GND 2.72
+R 2Complement_1/mux2x1_8_0/mux2x1_1/Sb 70
+= 2Complement_1/mux2x1_8_0/mux2x1_1/Sb 2Complement_1/mux2x1_8_0/mux2x1_1/AND2_0/B
+= 2Complement_1/mux2x1_8_0/mux2x1_1/Sb 2Complement_1/mux2x1_8_0/mux2x1_1/INV_0/Y
+C 2Complement_1/mux2x1_8_0/mux2x1_1/AND2_1/a_9_44# GND 2.02
+R 2Complement_1/mux2x1_8_0/mux2x1_1/AND2_1/a_9_44# 69
+C 2Complement_1/mux2x1_8_0/B1 GND 4.38
+R 2Complement_1/mux2x1_8_0/B1 86
+= 2Complement_1/mux2x1_8_0/B1 2Complement_1/8bitAdder_0/S1
+= 2Complement_1/mux2x1_8_0/B1 2Complement_1/8bitAdder_0/Chain_HA_1/S
+= 2Complement_1/mux2x1_8_0/B1 2Complement_1/8bitAdder_0/Chain_HA_1/XOR2_0/Y
+= 2Complement_1/mux2x1_8_0/B1 2Complement_1/m1_194_n176#
+= 2Complement_1/mux2x1_8_0/B1 2Complement_1/mux2x1_8_0/mux2x1_1/I1
+= 2Complement_1/mux2x1_8_0/B1 2Complement_1/mux2x1_8_0/mux2x1_1/AND2_1/A
+C 2Complement_1/mux2x1_8_0/mux2x1_1/OR2_0/B GND 3.61
+R 2Complement_1/mux2x1_8_0/mux2x1_1/OR2_0/B 72
+= 2Complement_1/mux2x1_8_0/mux2x1_1/OR2_0/B 2Complement_1/mux2x1_8_0/mux2x1_1/AND2_0/Y
+= 2Complement_1/mux2x1_8_0/mux2x1_1/OR2_0/B 2Complement_1/mux2x1_8_0/mux2x1_1/m1_50_n8#
+C 2Complement_1/mux2x1_8_0/mux2x1_1/AND2_0/a_9_44# GND 2.02
+R 2Complement_1/mux2x1_8_0/mux2x1_1/AND2_0/a_9_44# 69
+C A9 GND 18.99
+R A9 148
+= A9 m1_n186_n92#
+= A9 2Complement_1/A1
+= A9 2Complement_1/8bitINV_0/A1
+= A9 2Complement_1/8bitINV_0/INV_1/A
+= A9 2Complement_1/mux2x1_8_0/A1
+= A9 2Complement_1/mux2x1_8_0/mux2x1_1/I0
+= A9 2Complement_1/mux2x1_8_0/mux2x1_1/AND2_0/A
+R Y9 12
+= Y9 2Complement_1/Y1
+= Y9 2Complement_1/mux2x1_8_0/Y1
+= Y9 2Complement_1/mux2x1_8_0/mux2x1_1/Y
+= Y9 2Complement_1/mux2x1_8_0/mux2x1_1/OR2_0/Y
+R 2Complement_1/mux2x1_8_0/mux2x1_1/OR2_0/a_9_8# 73
+R 2Complement_1/mux2x1_8_0/mux2x1_1/OR2_0/A 69
+= 2Complement_1/mux2x1_8_0/mux2x1_1/OR2_0/A 2Complement_1/mux2x1_8_0/mux2x1_1/AND2_1/Y
+= 2Complement_1/mux2x1_8_0/mux2x1_1/OR2_0/A 2Complement_1/mux2x1_8_0/mux2x1_1/m1_94_28#
+C 2Complement_1/mux2x1_8_0/mux2x1_0/Sb GND 2.72
+R 2Complement_1/mux2x1_8_0/mux2x1_0/Sb 70
+= 2Complement_1/mux2x1_8_0/mux2x1_0/Sb 2Complement_1/mux2x1_8_0/mux2x1_0/AND2_0/B
+= 2Complement_1/mux2x1_8_0/mux2x1_0/Sb 2Complement_1/mux2x1_8_0/mux2x1_0/INV_0/Y
+C 2Complement_1/mux2x1_8_0/mux2x1_0/AND2_1/a_9_44# GND 2.02
+R 2Complement_1/mux2x1_8_0/mux2x1_0/AND2_1/a_9_44# 69
+C 2Complement_1/mux2x1_8_0/B0 GND 5.39
+R 2Complement_1/mux2x1_8_0/B0 87
+= 2Complement_1/mux2x1_8_0/B0 2Complement_1/8bitAdder_0/S0
+= 2Complement_1/mux2x1_8_0/B0 2Complement_1/8bitAdder_0/Chain_HA_0/S
+= 2Complement_1/mux2x1_8_0/B0 2Complement_1/8bitAdder_0/Chain_HA_0/XOR2_0/Y
+= 2Complement_1/mux2x1_8_0/B0 2Complement_1/m1_58_n176#
+= 2Complement_1/mux2x1_8_0/B0 2Complement_1/mux2x1_8_0/mux2x1_0/I1
+= 2Complement_1/mux2x1_8_0/B0 2Complement_1/mux2x1_8_0/mux2x1_0/AND2_1/A
+C 2Complement_1/mux2x1_8_0/mux2x1_0/OR2_0/B GND 3.61
+R 2Complement_1/mux2x1_8_0/mux2x1_0/OR2_0/B 72
+= 2Complement_1/mux2x1_8_0/mux2x1_0/OR2_0/B 2Complement_1/mux2x1_8_0/mux2x1_0/AND2_0/Y
+= 2Complement_1/mux2x1_8_0/mux2x1_0/OR2_0/B 2Complement_1/mux2x1_8_0/mux2x1_0/m1_50_n8#
+C 2Complement_1/mux2x1_8_0/mux2x1_0/AND2_0/a_9_44# GND 2.02
+R 2Complement_1/mux2x1_8_0/mux2x1_0/AND2_0/a_9_44# 69
+C A8 GND 17.01
+R A8 149
+= A8 m2_n72_n198#
+= A8 m1_n178_n186#
+= A8 2Complement_1/A0
+= A8 2Complement_1/8bitINV_0/A0
+= A8 2Complement_1/8bitINV_0/INV_0/A
+= A8 2Complement_1/mux2x1_8_0/A0
+= A8 2Complement_1/mux2x1_8_0/mux2x1_0/I0
+= A8 2Complement_1/mux2x1_8_0/mux2x1_0/AND2_0/A
+R Y8 12
+= Y8 2Complement_1/Y0
+= Y8 2Complement_1/mux2x1_8_0/Y0
+= Y8 2Complement_1/mux2x1_8_0/mux2x1_0/Y
+= Y8 2Complement_1/mux2x1_8_0/mux2x1_0/OR2_0/Y
+R 2Complement_1/mux2x1_8_0/mux2x1_0/OR2_0/a_9_8# 73
+R 2Complement_1/mux2x1_8_0/mux2x1_0/OR2_0/A 69
+= 2Complement_1/mux2x1_8_0/mux2x1_0/OR2_0/A 2Complement_1/mux2x1_8_0/mux2x1_0/AND2_1/Y
+= 2Complement_1/mux2x1_8_0/mux2x1_0/OR2_0/A 2Complement_1/mux2x1_8_0/mux2x1_0/m1_94_28#
+C 2Complement_1/8bitAdder_0/Cout GND 2.79
+R 2Complement_1/8bitAdder_0/Cout 11
+= 2Complement_1/8bitAdder_0/Cout 2Complement_1/8bitAdder_0/Chain_HA_7/Co
+C 2Complement_1/8bitAdder_0/Chain_HA_7/a_9_52# GND 2.02
+R 2Complement_1/8bitAdder_0/Chain_HA_7/a_9_52# 79
+R 2Complement_1/8bitAdder_0/Chain_HA_7/XOR2_0/a_2_44# 25
+C 2Complement_1/8bitAdder_0/Chain_HA_7/XOR2_0/a_n7_8# GND 3.67
+R 2Complement_1/8bitAdder_0/Chain_HA_7/XOR2_0/a_n7_8# 66
+C 2Complement_1/8bitAdder_0/Chain_HA_7/XOR2_0/a_n23_8# GND 3.71
+R 2Complement_1/8bitAdder_0/Chain_HA_7/XOR2_0/a_n23_8# 64
+C 2Complement_1/8bitAdder_0/Chain_HA_7/B GND 10.40
+R 2Complement_1/8bitAdder_0/Chain_HA_7/B 214
+= 2Complement_1/8bitAdder_0/Chain_HA_7/B 2Complement_1/8bitAdder_0/Chain_HA_6/Co
+= 2Complement_1/8bitAdder_0/Chain_HA_7/B 2Complement_1/8bitAdder_0/Chain_HA_7/XOR2_0/B
+C 2Complement_1/8bitINV_0/Y7 GND 24.83
+R 2Complement_1/8bitINV_0/Y7 225
+= 2Complement_1/8bitINV_0/Y7 2Complement_1/8bitINV_0/INV_7/Y
+= 2Complement_1/8bitINV_0/Y7 2Complement_1/8bitAdder_0/A7
+= 2Complement_1/8bitINV_0/Y7 2Complement_1/m1_122_n8#
+= 2Complement_1/8bitINV_0/Y7 2Complement_1/8bitAdder_0/m2_841_32#
+= 2Complement_1/8bitINV_0/Y7 2Complement_1/8bitAdder_0/Chain_HA_7/A
+= 2Complement_1/8bitINV_0/Y7 2Complement_1/8bitAdder_0/Chain_HA_7/XOR2_0/A
+C 2Complement_1/8bitAdder_0/Chain_HA_6/a_9_52# GND 2.02
+R 2Complement_1/8bitAdder_0/Chain_HA_6/a_9_52# 79
+R 2Complement_1/8bitAdder_0/Chain_HA_6/XOR2_0/a_2_44# 25
+C 2Complement_1/8bitAdder_0/Chain_HA_6/XOR2_0/a_n7_8# GND 3.67
+R 2Complement_1/8bitAdder_0/Chain_HA_6/XOR2_0/a_n7_8# 66
+C 2Complement_1/8bitAdder_0/Chain_HA_6/XOR2_0/a_n23_8# GND 3.71
+R 2Complement_1/8bitAdder_0/Chain_HA_6/XOR2_0/a_n23_8# 64
+C 2Complement_1/8bitAdder_0/Chain_HA_6/B GND 10.40
+R 2Complement_1/8bitAdder_0/Chain_HA_6/B 214
+= 2Complement_1/8bitAdder_0/Chain_HA_6/B 2Complement_1/8bitAdder_0/Chain_HA_5/Co
+= 2Complement_1/8bitAdder_0/Chain_HA_6/B 2Complement_1/8bitAdder_0/Chain_HA_6/XOR2_0/B
+C 2Complement_1/8bitINV_0/Y6 GND 22.41
+R 2Complement_1/8bitINV_0/Y6 223
+= 2Complement_1/8bitINV_0/Y6 2Complement_1/8bitINV_0/INV_6/Y
+= 2Complement_1/8bitINV_0/Y6 2Complement_1/8bitAdder_0/A6
+= 2Complement_1/8bitINV_0/Y6 2Complement_1/m1_106_n16#
+= 2Complement_1/8bitINV_0/Y6 2Complement_1/8bitAdder_0/m2_721_32#
+= 2Complement_1/8bitINV_0/Y6 2Complement_1/8bitAdder_0/Chain_HA_6/A
+= 2Complement_1/8bitINV_0/Y6 2Complement_1/8bitAdder_0/Chain_HA_6/XOR2_0/A
+C 2Complement_1/8bitAdder_0/Chain_HA_5/a_9_52# GND 2.02
+R 2Complement_1/8bitAdder_0/Chain_HA_5/a_9_52# 79
+R 2Complement_1/8bitAdder_0/Chain_HA_5/XOR2_0/a_2_44# 25
+C 2Complement_1/8bitAdder_0/Chain_HA_5/XOR2_0/a_n7_8# GND 3.67
+R 2Complement_1/8bitAdder_0/Chain_HA_5/XOR2_0/a_n7_8# 66
+C 2Complement_1/8bitAdder_0/Chain_HA_5/XOR2_0/a_n23_8# GND 3.71
+R 2Complement_1/8bitAdder_0/Chain_HA_5/XOR2_0/a_n23_8# 64
+C 2Complement_1/8bitAdder_0/Chain_HA_5/B GND 10.35
+R 2Complement_1/8bitAdder_0/Chain_HA_5/B 214
+= 2Complement_1/8bitAdder_0/Chain_HA_5/B 2Complement_1/8bitAdder_0/Chain_HA_4/Co
+= 2Complement_1/8bitAdder_0/Chain_HA_5/B 2Complement_1/8bitAdder_0/Chain_HA_5/XOR2_0/B
+C 2Complement_1/8bitINV_0/Y5 GND 19.98
+R 2Complement_1/8bitINV_0/Y5 221
+= 2Complement_1/8bitINV_0/Y5 2Complement_1/8bitINV_0/INV_5/Y
+= 2Complement_1/8bitINV_0/Y5 2Complement_1/8bitAdder_0/A5
+= 2Complement_1/8bitINV_0/Y5 2Complement_1/m1_90_n24#
+= 2Complement_1/8bitINV_0/Y5 2Complement_1/8bitAdder_0/m2_601_32#
+= 2Complement_1/8bitINV_0/Y5 2Complement_1/8bitAdder_0/Chain_HA_5/A
+= 2Complement_1/8bitINV_0/Y5 2Complement_1/8bitAdder_0/Chain_HA_5/XOR2_0/A
+C 2Complement_1/8bitAdder_0/Chain_HA_4/a_9_52# GND 2.02
+R 2Complement_1/8bitAdder_0/Chain_HA_4/a_9_52# 79
+R 2Complement_1/8bitAdder_0/Chain_HA_4/XOR2_0/a_2_44# 25
+C 2Complement_1/8bitAdder_0/Chain_HA_4/XOR2_0/a_n7_8# GND 3.67
+R 2Complement_1/8bitAdder_0/Chain_HA_4/XOR2_0/a_n7_8# 66
+C 2Complement_1/8bitAdder_0/Chain_HA_4/XOR2_0/a_n23_8# GND 3.71
+R 2Complement_1/8bitAdder_0/Chain_HA_4/XOR2_0/a_n23_8# 64
+C 2Complement_1/8bitAdder_0/Chain_HA_4/B GND 10.40
+R 2Complement_1/8bitAdder_0/Chain_HA_4/B 214
+= 2Complement_1/8bitAdder_0/Chain_HA_4/B 2Complement_1/8bitAdder_0/Chain_HA_3/Co
+= 2Complement_1/8bitAdder_0/Chain_HA_4/B 2Complement_1/8bitAdder_0/Chain_HA_4/XOR2_0/B
+C 2Complement_1/8bitINV_0/Y4 GND 17.56
+R 2Complement_1/8bitINV_0/Y4 220
+= 2Complement_1/8bitINV_0/Y4 2Complement_1/8bitINV_0/INV_4/Y
+= 2Complement_1/8bitINV_0/Y4 2Complement_1/8bitAdder_0/A4
+= 2Complement_1/8bitINV_0/Y4 2Complement_1/m1_74_n32#
+= 2Complement_1/8bitINV_0/Y4 2Complement_1/8bitAdder_0/m2_481_32#
+= 2Complement_1/8bitINV_0/Y4 2Complement_1/8bitAdder_0/Chain_HA_4/A
+= 2Complement_1/8bitINV_0/Y4 2Complement_1/8bitAdder_0/Chain_HA_4/XOR2_0/A
+C 2Complement_1/8bitAdder_0/Chain_HA_3/a_9_52# GND 2.02
+R 2Complement_1/8bitAdder_0/Chain_HA_3/a_9_52# 79
+R 2Complement_1/8bitAdder_0/Chain_HA_3/XOR2_0/a_2_44# 25
+C 2Complement_1/8bitAdder_0/Chain_HA_3/XOR2_0/a_n7_8# GND 3.67
+R 2Complement_1/8bitAdder_0/Chain_HA_3/XOR2_0/a_n7_8# 66
+C 2Complement_1/8bitAdder_0/Chain_HA_3/XOR2_0/a_n23_8# GND 3.71
+R 2Complement_1/8bitAdder_0/Chain_HA_3/XOR2_0/a_n23_8# 64
+C 2Complement_1/8bitAdder_0/Chain_HA_3/B GND 10.40
+R 2Complement_1/8bitAdder_0/Chain_HA_3/B 214
+= 2Complement_1/8bitAdder_0/Chain_HA_3/B 2Complement_1/8bitAdder_0/Chain_HA_2/Co
+= 2Complement_1/8bitAdder_0/Chain_HA_3/B 2Complement_1/8bitAdder_0/Chain_HA_3/XOR2_0/B
+C 2Complement_1/8bitINV_0/Y3 GND 15.13
+R 2Complement_1/8bitINV_0/Y3 218
+= 2Complement_1/8bitINV_0/Y3 2Complement_1/8bitINV_0/INV_3/Y
+= 2Complement_1/8bitINV_0/Y3 2Complement_1/8bitAdder_0/A3
+= 2Complement_1/8bitINV_0/Y3 2Complement_1/m1_58_n40#
+= 2Complement_1/8bitINV_0/Y3 2Complement_1/8bitAdder_0/m2_361_32#
+= 2Complement_1/8bitINV_0/Y3 2Complement_1/8bitAdder_0/Chain_HA_3/A
+= 2Complement_1/8bitINV_0/Y3 2Complement_1/8bitAdder_0/Chain_HA_3/XOR2_0/A
+C 2Complement_1/8bitAdder_0/Chain_HA_2/a_9_52# GND 2.02
+R 2Complement_1/8bitAdder_0/Chain_HA_2/a_9_52# 79
+R 2Complement_1/8bitAdder_0/Chain_HA_2/XOR2_0/a_2_44# 25
+C 2Complement_1/8bitAdder_0/Chain_HA_2/XOR2_0/a_n7_8# GND 3.67
+R 2Complement_1/8bitAdder_0/Chain_HA_2/XOR2_0/a_n7_8# 66
+C 2Complement_1/8bitAdder_0/Chain_HA_2/XOR2_0/a_n23_8# GND 3.71
+R 2Complement_1/8bitAdder_0/Chain_HA_2/XOR2_0/a_n23_8# 64
+C 2Complement_1/8bitAdder_0/Chain_HA_2/B GND 10.40
+R 2Complement_1/8bitAdder_0/Chain_HA_2/B 214
+= 2Complement_1/8bitAdder_0/Chain_HA_2/B 2Complement_1/8bitAdder_0/Chain_HA_1/Co
+= 2Complement_1/8bitAdder_0/Chain_HA_2/B 2Complement_1/8bitAdder_0/Chain_HA_2/XOR2_0/B
+C 2Complement_1/8bitINV_0/Y2 GND 12.73
+R 2Complement_1/8bitINV_0/Y2 216
+= 2Complement_1/8bitINV_0/Y2 2Complement_1/8bitINV_0/INV_2/Y
+= 2Complement_1/8bitINV_0/Y2 2Complement_1/8bitAdder_0/A2
+= 2Complement_1/8bitINV_0/Y2 2Complement_1/m1_42_n48#
+= 2Complement_1/8bitINV_0/Y2 2Complement_1/8bitAdder_0/m2_242_32#
+= 2Complement_1/8bitINV_0/Y2 2Complement_1/8bitAdder_0/Chain_HA_2/A
+= 2Complement_1/8bitINV_0/Y2 2Complement_1/8bitAdder_0/Chain_HA_2/XOR2_0/A
+C 2Complement_1/8bitAdder_0/Chain_HA_1/a_9_52# GND 2.02
+R 2Complement_1/8bitAdder_0/Chain_HA_1/a_9_52# 79
+R 2Complement_1/8bitAdder_0/Chain_HA_1/XOR2_0/a_2_44# 25
+C 2Complement_1/8bitAdder_0/Chain_HA_1/XOR2_0/a_n7_8# GND 3.67
+R 2Complement_1/8bitAdder_0/Chain_HA_1/XOR2_0/a_n7_8# 66
+C 2Complement_1/8bitAdder_0/Chain_HA_1/XOR2_0/a_n23_8# GND 3.71
+R 2Complement_1/8bitAdder_0/Chain_HA_1/XOR2_0/a_n23_8# 64
+C 2Complement_1/8bitAdder_0/Chain_HA_1/B GND 10.40
+R 2Complement_1/8bitAdder_0/Chain_HA_1/B 214
+= 2Complement_1/8bitAdder_0/Chain_HA_1/B 2Complement_1/8bitAdder_0/Chain_HA_0/Co
+= 2Complement_1/8bitAdder_0/Chain_HA_1/B 2Complement_1/8bitAdder_0/Chain_HA_1/XOR2_0/B
+C 2Complement_1/8bitINV_0/Y1 GND 10.30
+R 2Complement_1/8bitINV_0/Y1 214
+= 2Complement_1/8bitINV_0/Y1 2Complement_1/8bitINV_0/INV_1/Y
+= 2Complement_1/8bitINV_0/Y1 2Complement_1/8bitAdder_0/A1
+= 2Complement_1/8bitINV_0/Y1 2Complement_1/m1_26_n56#
+= 2Complement_1/8bitINV_0/Y1 2Complement_1/8bitAdder_0/m2_122_32#
+= 2Complement_1/8bitINV_0/Y1 2Complement_1/8bitAdder_0/Chain_HA_1/A
+= 2Complement_1/8bitINV_0/Y1 2Complement_1/8bitAdder_0/Chain_HA_1/XOR2_0/A
+C 2Complement_1/8bitAdder_0/Chain_HA_0/a_9_52# GND 2.02
+R 2Complement_1/8bitAdder_0/Chain_HA_0/a_9_52# 79
+R 2Complement_1/8bitAdder_0/Chain_HA_0/XOR2_0/a_2_44# 25
+C 2Complement_1/8bitAdder_0/Chain_HA_0/XOR2_0/a_n7_8# GND 3.67
+R 2Complement_1/8bitAdder_0/Chain_HA_0/XOR2_0/a_n7_8# 66
+C 2Complement_1/8bitAdder_0/Chain_HA_0/XOR2_0/a_n23_8# GND 3.71
+R 2Complement_1/8bitAdder_0/Chain_HA_0/XOR2_0/a_n23_8# 64
+C 2Complement_1/B GND 33.90
+R 2Complement_1/B 240
+= 2Complement_1/B 2Complement_2/8bitAdder_0/Cout
+= 2Complement_1/B 2Complement_2/8bitAdder_0/Chain_HA_7/Co
+= 2Complement_1/B m1_n88_n374#
+= 2Complement_1/B 2Complement_1/a_18_n96#
+= 2Complement_1/B 2Complement_1/8bitAdder_0/B
+= 2Complement_1/B 2Complement_1/8bitAdder_0/m2_18_32#
+= 2Complement_1/B 2Complement_1/8bitAdder_0/Chain_HA_0/B
+= 2Complement_1/B 2Complement_1/8bitAdder_0/Chain_HA_0/XOR2_0/B
+C 2Complement_1/8bitINV_0/Y0 GND 7.89
+R 2Complement_1/8bitINV_0/Y0 211
+= 2Complement_1/8bitINV_0/Y0 2Complement_1/8bitINV_0/INV_0/Y
+= 2Complement_1/8bitINV_0/Y0 2Complement_1/8bitAdder_0/A0
+= 2Complement_1/8bitINV_0/Y0 2Complement_1/m1_10_n144#
+= 2Complement_1/8bitINV_0/Y0 2Complement_1/8bitAdder_0/m2_2_32#
+= 2Complement_1/8bitINV_0/Y0 2Complement_1/8bitAdder_0/Chain_HA_0/A
+= 2Complement_1/8bitINV_0/Y0 2Complement_1/8bitAdder_0/Chain_HA_0/XOR2_0/A

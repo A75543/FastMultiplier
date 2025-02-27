@@ -1,0 +1,344 @@
+| units: 30 tech: scmos format: MIT
+n Chain_HA_0/XOR2_0/a_n23_8# VSS Chain_HA_0/XOR2_0/a_25_8# 2 4 95 8
+p B VDD Chain_HA_0/XOR2_0/a_n7_8# 2 8 64 44
+p A0 Chain_HA_0/XOR2_0/a_2_44# VDD 2 8 79 44
+p Chain_HA_0/XOR2_0/a_n23_8# Chain_HA_0/XOR2_0/a_2_44# S0 2 8 95 44
+p Chain_HA_0/XOR2_0/a_n7_8# S0 Chain_HA_0/XOR2_0/a_2_44# 2 8 103 44
+n B Chain_HA_0/XOR2_0/a_9_8# VSS 2 4 87 8
+n A0 S0 Chain_HA_0/XOR2_0/a_9_8# 2 4 79 8
+p A0 VDD Chain_HA_0/XOR2_0/a_n23_8# 2 8 48 44
+n Chain_HA_0/XOR2_0/a_n7_8# Chain_HA_0/XOR2_0/a_25_8# S0 2 4 103 8
+n B VSS Chain_HA_0/XOR2_0/a_n7_8# 2 4 64 8
+n A0 VSS Chain_HA_0/XOR2_0/a_n23_8# 2 4 48 8
+p B VDD Chain_HA_0/XOR2_0/a_2_44# 2 8 87 44
+p A0 VDD Chain_HA_0/a_9_52# 2 8 7 52
+p Chain_HA_0/a_9_52# VDD Chain_HA_1/B 2 8 31 52
+n B Chain_HA_0/a_9_8# Chain_HA_0/a_9_52# 2 8 15 8
+n A0 VSS Chain_HA_0/a_9_8# 2 8 7 8
+n Chain_HA_0/a_9_52# VSS Chain_HA_1/B 2 8 31 8
+p B Chain_HA_0/a_9_52# VDD 2 8 15 52
+n Chain_HA_1/XOR2_0/a_n23_8# VSS Chain_HA_1/XOR2_0/a_25_8# 2 4 215 8
+p Chain_HA_1/B VDD Chain_HA_1/XOR2_0/a_n7_8# 2 8 184 44
+p A1 Chain_HA_1/XOR2_0/a_2_44# VDD 2 8 199 44
+p Chain_HA_1/XOR2_0/a_n23_8# Chain_HA_1/XOR2_0/a_2_44# S1 2 8 215 44
+p Chain_HA_1/XOR2_0/a_n7_8# S1 Chain_HA_1/XOR2_0/a_2_44# 2 8 223 44
+n Chain_HA_1/B Chain_HA_1/XOR2_0/a_9_8# VSS 2 4 207 8
+n A1 S1 Chain_HA_1/XOR2_0/a_9_8# 2 4 199 8
+p A1 VDD Chain_HA_1/XOR2_0/a_n23_8# 2 8 168 44
+n Chain_HA_1/XOR2_0/a_n7_8# Chain_HA_1/XOR2_0/a_25_8# S1 2 4 223 8
+n Chain_HA_1/B VSS Chain_HA_1/XOR2_0/a_n7_8# 2 4 184 8
+n A1 VSS Chain_HA_1/XOR2_0/a_n23_8# 2 4 168 8
+p Chain_HA_1/B VDD Chain_HA_1/XOR2_0/a_2_44# 2 8 207 44
+p A1 VDD Chain_HA_1/a_9_52# 2 8 127 52
+p Chain_HA_1/a_9_52# VDD Chain_HA_2/B 2 8 151 52
+n Chain_HA_1/B Chain_HA_1/a_9_8# Chain_HA_1/a_9_52# 2 8 135 8
+n A1 VSS Chain_HA_1/a_9_8# 2 8 127 8
+n Chain_HA_1/a_9_52# VSS Chain_HA_2/B 2 8 151 8
+p Chain_HA_1/B Chain_HA_1/a_9_52# VDD 2 8 135 52
+n Chain_HA_2/XOR2_0/a_n23_8# VSS Chain_HA_2/XOR2_0/a_25_8# 2 4 335 8
+p Chain_HA_2/B VDD Chain_HA_2/XOR2_0/a_n7_8# 2 8 304 44
+p A2 Chain_HA_2/XOR2_0/a_2_44# VDD 2 8 319 44
+p Chain_HA_2/XOR2_0/a_n23_8# Chain_HA_2/XOR2_0/a_2_44# S2 2 8 335 44
+p Chain_HA_2/XOR2_0/a_n7_8# S2 Chain_HA_2/XOR2_0/a_2_44# 2 8 343 44
+n Chain_HA_2/B Chain_HA_2/XOR2_0/a_9_8# VSS 2 4 327 8
+n A2 S2 Chain_HA_2/XOR2_0/a_9_8# 2 4 319 8
+p A2 VDD Chain_HA_2/XOR2_0/a_n23_8# 2 8 288 44
+n Chain_HA_2/XOR2_0/a_n7_8# Chain_HA_2/XOR2_0/a_25_8# S2 2 4 343 8
+n Chain_HA_2/B VSS Chain_HA_2/XOR2_0/a_n7_8# 2 4 304 8
+n A2 VSS Chain_HA_2/XOR2_0/a_n23_8# 2 4 288 8
+p Chain_HA_2/B VDD Chain_HA_2/XOR2_0/a_2_44# 2 8 327 44
+p A2 VDD Chain_HA_2/a_9_52# 2 8 247 52
+p Chain_HA_2/a_9_52# VDD Chain_HA_3/B 2 8 271 52
+n Chain_HA_2/B Chain_HA_2/a_9_8# Chain_HA_2/a_9_52# 2 8 255 8
+n A2 VSS Chain_HA_2/a_9_8# 2 8 247 8
+n Chain_HA_2/a_9_52# VSS Chain_HA_3/B 2 8 271 8
+p Chain_HA_2/B Chain_HA_2/a_9_52# VDD 2 8 255 52
+n Chain_HA_3/XOR2_0/a_n23_8# VSS Chain_HA_3/XOR2_0/a_25_8# 2 4 454 8
+p Chain_HA_3/B VDD Chain_HA_3/XOR2_0/a_n7_8# 2 8 423 44
+p A3 Chain_HA_3/XOR2_0/a_2_44# VDD 2 8 438 44
+p Chain_HA_3/XOR2_0/a_n23_8# Chain_HA_3/XOR2_0/a_2_44# S3 2 8 454 44
+p Chain_HA_3/XOR2_0/a_n7_8# S3 Chain_HA_3/XOR2_0/a_2_44# 2 8 462 44
+n Chain_HA_3/B Chain_HA_3/XOR2_0/a_9_8# VSS 2 4 446 8
+n A3 S3 Chain_HA_3/XOR2_0/a_9_8# 2 4 438 8
+p A3 VDD Chain_HA_3/XOR2_0/a_n23_8# 2 8 407 44
+n Chain_HA_3/XOR2_0/a_n7_8# Chain_HA_3/XOR2_0/a_25_8# S3 2 4 462 8
+n Chain_HA_3/B VSS Chain_HA_3/XOR2_0/a_n7_8# 2 4 423 8
+n A3 VSS Chain_HA_3/XOR2_0/a_n23_8# 2 4 407 8
+p Chain_HA_3/B VDD Chain_HA_3/XOR2_0/a_2_44# 2 8 446 44
+p A3 VDD Chain_HA_3/a_9_52# 2 8 366 52
+p Chain_HA_3/a_9_52# VDD Chain_HA_4/B 2 8 390 52
+n Chain_HA_3/B Chain_HA_3/a_9_8# Chain_HA_3/a_9_52# 2 8 374 8
+n A3 VSS Chain_HA_3/a_9_8# 2 8 366 8
+n Chain_HA_3/a_9_52# VSS Chain_HA_4/B 2 8 390 8
+p Chain_HA_3/B Chain_HA_3/a_9_52# VDD 2 8 374 52
+n Chain_HA_4/XOR2_0/a_n23_8# VSS Chain_HA_4/XOR2_0/a_25_8# 2 4 574 8
+p Chain_HA_4/B VDD Chain_HA_4/XOR2_0/a_n7_8# 2 8 543 44
+p A4 Chain_HA_4/XOR2_0/a_2_44# VDD 2 8 558 44
+p Chain_HA_4/XOR2_0/a_n23_8# Chain_HA_4/XOR2_0/a_2_44# S4 2 8 574 44
+p Chain_HA_4/XOR2_0/a_n7_8# S4 Chain_HA_4/XOR2_0/a_2_44# 2 8 582 44
+n Chain_HA_4/B Chain_HA_4/XOR2_0/a_9_8# VSS 2 4 566 8
+n A4 S4 Chain_HA_4/XOR2_0/a_9_8# 2 4 558 8
+p A4 VDD Chain_HA_4/XOR2_0/a_n23_8# 2 8 527 44
+n Chain_HA_4/XOR2_0/a_n7_8# Chain_HA_4/XOR2_0/a_25_8# S4 2 4 582 8
+n Chain_HA_4/B VSS Chain_HA_4/XOR2_0/a_n7_8# 2 4 543 8
+n A4 VSS Chain_HA_4/XOR2_0/a_n23_8# 2 4 527 8
+p Chain_HA_4/B VDD Chain_HA_4/XOR2_0/a_2_44# 2 8 566 44
+p A4 VDD Chain_HA_4/a_9_52# 2 8 486 52
+p Chain_HA_4/a_9_52# VDD Chain_HA_5/B 2 8 510 52
+n Chain_HA_4/B Chain_HA_4/a_9_8# Chain_HA_4/a_9_52# 2 8 494 8
+n A4 VSS Chain_HA_4/a_9_8# 2 8 486 8
+n Chain_HA_4/a_9_52# VSS Chain_HA_5/B 2 8 510 8
+p Chain_HA_4/B Chain_HA_4/a_9_52# VDD 2 8 494 52
+n Chain_HA_5/XOR2_0/a_n23_8# VSS Chain_HA_5/XOR2_0/a_25_8# 2 4 694 8
+p Chain_HA_5/B VDD Chain_HA_5/XOR2_0/a_n7_8# 2 8 663 44
+p A5 Chain_HA_5/XOR2_0/a_2_44# VDD 2 8 678 44
+p Chain_HA_5/XOR2_0/a_n23_8# Chain_HA_5/XOR2_0/a_2_44# S5 2 8 694 44
+p Chain_HA_5/XOR2_0/a_n7_8# S5 Chain_HA_5/XOR2_0/a_2_44# 2 8 702 44
+n Chain_HA_5/B Chain_HA_5/XOR2_0/a_9_8# VSS 2 4 686 8
+n A5 S5 Chain_HA_5/XOR2_0/a_9_8# 2 4 678 8
+p A5 VDD Chain_HA_5/XOR2_0/a_n23_8# 2 8 647 44
+n Chain_HA_5/XOR2_0/a_n7_8# Chain_HA_5/XOR2_0/a_25_8# S5 2 4 702 8
+n Chain_HA_5/B VSS Chain_HA_5/XOR2_0/a_n7_8# 2 4 663 8
+n A5 VSS Chain_HA_5/XOR2_0/a_n23_8# 2 4 647 8
+p Chain_HA_5/B VDD Chain_HA_5/XOR2_0/a_2_44# 2 8 686 44
+p A5 VDD Chain_HA_5/a_9_52# 2 8 606 52
+p Chain_HA_5/a_9_52# VDD Chain_HA_6/B 2 8 630 52
+n Chain_HA_5/B Chain_HA_5/a_9_8# Chain_HA_5/a_9_52# 2 8 614 8
+n A5 VSS Chain_HA_5/a_9_8# 2 8 606 8
+n Chain_HA_5/a_9_52# VSS Chain_HA_6/B 2 8 630 8
+p Chain_HA_5/B Chain_HA_5/a_9_52# VDD 2 8 614 52
+n Chain_HA_6/XOR2_0/a_n23_8# VSS Chain_HA_6/XOR2_0/a_25_8# 2 4 814 8
+p Chain_HA_6/B VDD Chain_HA_6/XOR2_0/a_n7_8# 2 8 783 44
+p A6 Chain_HA_6/XOR2_0/a_2_44# VDD 2 8 798 44
+p Chain_HA_6/XOR2_0/a_n23_8# Chain_HA_6/XOR2_0/a_2_44# S6 2 8 814 44
+p Chain_HA_6/XOR2_0/a_n7_8# S6 Chain_HA_6/XOR2_0/a_2_44# 2 8 822 44
+n Chain_HA_6/B Chain_HA_6/XOR2_0/a_9_8# VSS 2 4 806 8
+n A6 S6 Chain_HA_6/XOR2_0/a_9_8# 2 4 798 8
+p A6 VDD Chain_HA_6/XOR2_0/a_n23_8# 2 8 767 44
+n Chain_HA_6/XOR2_0/a_n7_8# Chain_HA_6/XOR2_0/a_25_8# S6 2 4 822 8
+n Chain_HA_6/B VSS Chain_HA_6/XOR2_0/a_n7_8# 2 4 783 8
+n A6 VSS Chain_HA_6/XOR2_0/a_n23_8# 2 4 767 8
+p Chain_HA_6/B VDD Chain_HA_6/XOR2_0/a_2_44# 2 8 806 44
+p A6 VDD Chain_HA_6/a_9_52# 2 8 726 52
+p Chain_HA_6/a_9_52# VDD Chain_HA_7/B 2 8 750 52
+n Chain_HA_6/B Chain_HA_6/a_9_8# Chain_HA_6/a_9_52# 2 8 734 8
+n A6 VSS Chain_HA_6/a_9_8# 2 8 726 8
+n Chain_HA_6/a_9_52# VSS Chain_HA_7/B 2 8 750 8
+p Chain_HA_6/B Chain_HA_6/a_9_52# VDD 2 8 734 52
+n Chain_HA_7/XOR2_0/a_n23_8# VSS Chain_HA_7/XOR2_0/a_25_8# 2 4 934 8
+p Chain_HA_7/B VDD Chain_HA_7/XOR2_0/a_n7_8# 2 8 903 44
+p A7 Chain_HA_7/XOR2_0/a_2_44# VDD 2 8 918 44
+p Chain_HA_7/XOR2_0/a_n23_8# Chain_HA_7/XOR2_0/a_2_44# S7 2 8 934 44
+p Chain_HA_7/XOR2_0/a_n7_8# S7 Chain_HA_7/XOR2_0/a_2_44# 2 8 942 44
+n Chain_HA_7/B Chain_HA_7/XOR2_0/a_9_8# VSS 2 4 926 8
+n A7 S7 Chain_HA_7/XOR2_0/a_9_8# 2 4 918 8
+p A7 VDD Chain_HA_7/XOR2_0/a_n23_8# 2 8 887 44
+n Chain_HA_7/XOR2_0/a_n7_8# Chain_HA_7/XOR2_0/a_25_8# S7 2 4 942 8
+n Chain_HA_7/B VSS Chain_HA_7/XOR2_0/a_n7_8# 2 4 903 8
+n A7 VSS Chain_HA_7/XOR2_0/a_n23_8# 2 4 887 8
+p Chain_HA_7/B VDD Chain_HA_7/XOR2_0/a_2_44# 2 8 926 44
+p A7 VDD Chain_HA_7/a_9_52# 2 8 846 52
+p Chain_HA_7/a_9_52# VDD Cout 2 8 870 52
+n Chain_HA_7/B Chain_HA_7/a_9_8# Chain_HA_7/a_9_52# 2 8 854 8
+n A7 VSS Chain_HA_7/a_9_8# 2 8 846 8
+n Chain_HA_7/a_9_52# VSS Cout 2 8 870 8
+p Chain_HA_7/B Chain_HA_7/a_9_52# VDD 2 8 854 52
+C Chain_HA_3/B VDD 2.19
+C Chain_HA_5/B VDD 2.19
+C VDD Chain_HA_1/B 2.19
+C Chain_HA_7/B VDD 2.19
+C Chain_HA_4/B VDD 2.19
+C Chain_HA_2/B VDD 2.19
+C Chain_HA_6/B VDD 2.19
+C Cout GND 2.79
+R Cout 11
+= Cout Chain_HA_7/Co
+C Chain_HA_7/a_9_52# GND 2.02
+R Chain_HA_7/a_9_52# 79
+R S7 22
+= S7 Chain_HA_7/S
+= S7 Chain_HA_7/XOR2_0/Y
+R Chain_HA_7/XOR2_0/a_2_44# 25
+C Chain_HA_7/XOR2_0/a_n7_8# GND 3.67
+R Chain_HA_7/XOR2_0/a_n7_8# 66
+C Chain_HA_7/XOR2_0/a_n23_8# GND 3.71
+R Chain_HA_7/XOR2_0/a_n23_8# 64
+C Chain_HA_7/B GND 10.40
+R Chain_HA_7/B 214
+= Chain_HA_7/B Chain_HA_6/Co
+= Chain_HA_7/B Chain_HA_7/XOR2_0/B
+C A7 GND 6.95
+R A7 202
+= A7 m2_841_32#
+= A7 Chain_HA_7/A
+= A7 Chain_HA_7/XOR2_0/A
+C Chain_HA_6/a_9_52# GND 2.02
+R Chain_HA_6/a_9_52# 79
+R S6 22
+= S6 Chain_HA_6/S
+= S6 Chain_HA_6/XOR2_0/Y
+R Chain_HA_6/XOR2_0/a_2_44# 25
+C Chain_HA_6/XOR2_0/a_n7_8# GND 3.67
+R Chain_HA_6/XOR2_0/a_n7_8# 66
+C Chain_HA_6/XOR2_0/a_n23_8# GND 3.71
+R Chain_HA_6/XOR2_0/a_n23_8# 64
+C Chain_HA_6/B GND 10.40
+R Chain_HA_6/B 214
+= Chain_HA_6/B Chain_HA_5/Co
+= Chain_HA_6/B Chain_HA_6/XOR2_0/B
+C A6 GND 6.95
+R A6 202
+= A6 m2_721_32#
+= A6 Chain_HA_6/A
+= A6 Chain_HA_6/XOR2_0/A
+C Chain_HA_5/a_9_52# GND 2.02
+R Chain_HA_5/a_9_52# 79
+R S5 22
+= S5 Chain_HA_5/S
+= S5 Chain_HA_5/XOR2_0/Y
+R Chain_HA_5/XOR2_0/a_2_44# 25
+C Chain_HA_5/XOR2_0/a_n7_8# GND 3.67
+R Chain_HA_5/XOR2_0/a_n7_8# 66
+C Chain_HA_5/XOR2_0/a_n23_8# GND 3.71
+R Chain_HA_5/XOR2_0/a_n23_8# 64
+C Chain_HA_5/B GND 10.35
+R Chain_HA_5/B 214
+= Chain_HA_5/B Chain_HA_4/Co
+= Chain_HA_5/B Chain_HA_5/XOR2_0/B
+C A5 GND 6.95
+R A5 202
+= A5 m2_601_32#
+= A5 Chain_HA_5/A
+= A5 Chain_HA_5/XOR2_0/A
+C Chain_HA_4/a_9_52# GND 2.02
+R Chain_HA_4/a_9_52# 79
+R S4 22
+= S4 Chain_HA_4/S
+= S4 Chain_HA_4/XOR2_0/Y
+R Chain_HA_4/XOR2_0/a_2_44# 25
+C Chain_HA_4/XOR2_0/a_n7_8# GND 3.67
+R Chain_HA_4/XOR2_0/a_n7_8# 66
+C Chain_HA_4/XOR2_0/a_n23_8# GND 3.71
+R Chain_HA_4/XOR2_0/a_n23_8# 64
+C Chain_HA_4/B GND 10.40
+R Chain_HA_4/B 214
+= Chain_HA_4/B Chain_HA_3/Co
+= Chain_HA_4/B Chain_HA_4/XOR2_0/B
+C A4 GND 6.95
+R A4 202
+= A4 m2_481_32#
+= A4 Chain_HA_4/A
+= A4 Chain_HA_4/XOR2_0/A
+C Chain_HA_3/a_9_52# GND 2.02
+R Chain_HA_3/a_9_52# 79
+R S3 22
+= S3 Chain_HA_3/S
+= S3 Chain_HA_3/XOR2_0/Y
+R Chain_HA_3/XOR2_0/a_2_44# 25
+C Chain_HA_3/XOR2_0/a_n7_8# GND 3.67
+R Chain_HA_3/XOR2_0/a_n7_8# 66
+C Chain_HA_3/XOR2_0/a_n23_8# GND 3.71
+R Chain_HA_3/XOR2_0/a_n23_8# 64
+C Chain_HA_3/B GND 10.40
+R Chain_HA_3/B 214
+= Chain_HA_3/B Chain_HA_2/Co
+= Chain_HA_3/B Chain_HA_3/XOR2_0/B
+C A3 GND 6.95
+R A3 202
+= A3 m2_361_32#
+= A3 Chain_HA_3/A
+= A3 Chain_HA_3/XOR2_0/A
+C Chain_HA_2/a_9_52# GND 2.02
+R Chain_HA_2/a_9_52# 79
+R S2 22
+= S2 Chain_HA_2/S
+= S2 Chain_HA_2/XOR2_0/Y
+R Chain_HA_2/XOR2_0/a_2_44# 25
+C Chain_HA_2/XOR2_0/a_n7_8# GND 3.67
+R Chain_HA_2/XOR2_0/a_n7_8# 66
+C Chain_HA_2/XOR2_0/a_n23_8# GND 3.71
+R Chain_HA_2/XOR2_0/a_n23_8# 64
+C Chain_HA_2/B GND 10.40
+R Chain_HA_2/B 214
+= Chain_HA_2/B Chain_HA_1/Co
+= Chain_HA_2/B Chain_HA_2/XOR2_0/B
+C A2 GND 6.95
+R A2 202
+= A2 m2_242_32#
+= A2 Chain_HA_2/A
+= A2 Chain_HA_2/XOR2_0/A
+C Chain_HA_1/a_9_52# GND 2.02
+R Chain_HA_1/a_9_52# 79
+C VSS GND 25.07
+R VSS 835
+= VSS Chain_HA_7/VSS
+= VSS Chain_HA_4/VSS
+= VSS Chain_HA_4/XOR2_0/VSS
+= VSS Chain_HA_7/XOR2_0/VSS
+= VSS Chain_HA_6/VSS
+= VSS Chain_HA_6/XOR2_0/VSS
+= VSS Chain_HA_5/VSS
+= VSS Chain_HA_5/XOR2_0/VSS
+= VSS Chain_HA_0/VSS
+= VSS Chain_HA_0/XOR2_0/VSS
+= VSS Chain_HA_3/VSS
+= VSS Chain_HA_3/XOR2_0/VSS
+= VSS Chain_HA_2/VSS
+= VSS Chain_HA_2/XOR2_0/VSS
+= VSS Chain_HA_1/VSS
+= VSS Chain_HA_1/XOR2_0/VSS
+R S1 22
+= S1 Chain_HA_1/S
+= S1 Chain_HA_1/XOR2_0/Y
+R Chain_HA_1/XOR2_0/a_2_44# 25
+C Chain_HA_1/XOR2_0/a_n7_8# GND 3.67
+R Chain_HA_1/XOR2_0/a_n7_8# 66
+C Chain_HA_1/XOR2_0/a_n23_8# GND 3.71
+R Chain_HA_1/XOR2_0/a_n23_8# 64
+C Chain_HA_1/B GND 10.40
+R Chain_HA_1/B 214
+= Chain_HA_1/B Chain_HA_0/Co
+= Chain_HA_1/B Chain_HA_1/XOR2_0/B
+C A1 GND 6.95
+R A1 202
+= A1 m2_122_32#
+= A1 Chain_HA_1/A
+= A1 Chain_HA_1/XOR2_0/A
+C VDD GND 269.41
+R VDD 22091
+= VDD Chain_HA_7/VDD
+= VDD Chain_HA_4/VDD
+= VDD Chain_HA_4/XOR2_0/VDD
+= VDD Chain_HA_7/XOR2_0/VDD
+= VDD Chain_HA_6/VDD
+= VDD Chain_HA_6/XOR2_0/VDD
+= VDD Chain_HA_5/VDD
+= VDD Chain_HA_5/XOR2_0/VDD
+= VDD Chain_HA_0/VDD
+= VDD Chain_HA_0/XOR2_0/VDD
+= VDD Chain_HA_3/VDD
+= VDD Chain_HA_3/XOR2_0/VDD
+= VDD Chain_HA_2/VDD
+= VDD Chain_HA_2/XOR2_0/VDD
+= VDD Chain_HA_1/VDD
+= VDD Chain_HA_1/XOR2_0/VDD
+C Chain_HA_0/a_9_52# GND 2.02
+R Chain_HA_0/a_9_52# 79
+R S0 22
+= S0 Chain_HA_0/S
+= S0 Chain_HA_0/XOR2_0/Y
+R Chain_HA_0/XOR2_0/a_2_44# 25
+C Chain_HA_0/XOR2_0/a_n7_8# GND 3.67
+R Chain_HA_0/XOR2_0/a_n7_8# 66
+C Chain_HA_0/XOR2_0/a_n23_8# GND 3.71
+R Chain_HA_0/XOR2_0/a_n23_8# 64
+C B GND 7.22
+R B 202
+= B m2_18_32#
+= B Chain_HA_0/B
+= B Chain_HA_0/XOR2_0/B
+C A0 GND 6.95
+R A0 202
+= A0 m2_2_32#
+= A0 Chain_HA_0/A
+= A0 Chain_HA_0/XOR2_0/A

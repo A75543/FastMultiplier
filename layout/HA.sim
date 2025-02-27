@@ -1,0 +1,40 @@
+| units: 30 tech: scmos format: MIT
+n XOR2_0/a_n23_8# VSS XOR2_0/a_25_8# 2 4 95 8
+p B VDD XOR2_0/a_n7_8# 2 8 64 44
+p A XOR2_0/a_2_44# VDD 2 8 79 44
+p XOR2_0/a_n23_8# XOR2_0/a_2_44# S 2 8 95 44
+p XOR2_0/a_n7_8# S XOR2_0/a_2_44# 2 8 103 44
+n B XOR2_0/a_9_8# VSS 2 4 87 8
+n A S XOR2_0/a_9_8# 2 4 79 8
+p A VDD XOR2_0/a_n23_8# 2 8 48 44
+n XOR2_0/a_n7_8# XOR2_0/a_25_8# S 2 4 103 8
+n B VSS XOR2_0/a_n7_8# 2 4 64 8
+n A VSS XOR2_0/a_n23_8# 2 4 48 8
+p B VDD XOR2_0/a_2_44# 2 8 87 44
+p A VDD a_9_52# 2 8 7 52
+p a_9_52# VDD Co 2 8 31 52
+n B a_9_8# a_9_52# 2 8 15 8
+n A VSS a_9_8# 2 8 7 8
+n a_9_52# VSS Co 2 8 31 8
+p B a_9_52# VDD 2 8 15 52
+C a_9_52# GND 2.02
+R a_9_52# 79
+C VSS GND 3.18
+R VSS 95
+= VSS XOR2_0/VSS
+R S 22
+= S XOR2_0/Y
+R XOR2_0/a_2_44# 25
+C XOR2_0/a_n7_8# GND 3.67
+R XOR2_0/a_n7_8# 66
+C XOR2_0/a_n23_8# GND 3.71
+R XOR2_0/a_n23_8# 64
+C B GND 6.44
+R B 205
+= B XOR2_0/B
+C A GND 6.97
+R A 206
+= A XOR2_0/A
+C VDD GND 35.19
+R VDD 2859
+= VDD XOR2_0/VDD
